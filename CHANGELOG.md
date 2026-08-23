@@ -30,7 +30,7 @@ First public release.
   numbering, and template references, and fails CI when committed generated
   output is stale.
 - **`dist/playbook-full.md`** — the whole corpus as one file, with attribution
-  and licence in its header so both travel with the text.
+  and license in its header so both travel with the text.
 - Governance and licensing: [CC BY-SA 4.0](LICENSE) for content,
   [MIT](LICENSE-CODE) for tooling, marks reserved in [NOTICE](NOTICE),
   [CLA](CLA.md) for inbound contributions, [GOVERNANCE.md](GOVERNANCE.md) for
@@ -43,7 +43,7 @@ First public release.
 - 14 mistakes have no play mapped yet: 3, 18, 40, 41, 62, 70, 81, 82, 98, 99,
   105, 110, 140, 146. They are marked in place. Pairing them is open work.
 - 7 plays are not mapped to any mistake: company insurance, customer
-  onboarding, support metrics, licence register, open-source register, security
+  onboarding, support metrics, license register, open-source register, security
   documentation, security process. Also open work — several of these plainly
   prevent mistakes that exist in the list.
 - `stories/` is empty by design; it fills as stories can be told with the

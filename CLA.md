@@ -1,4 +1,4 @@
-# Golden Section Contributor Licence Agreement
+# Golden Section Contributor License Agreement
 
 **Version 1.0**
 
@@ -9,7 +9,7 @@ records the terms under which you contribute, so that Golden Section can use
 and publish your contribution and so that everyone downstream knows where they
 stand.
 
-You keep the copyright in what you write. This is a licence, not an assignment.
+You keep the copyright in what you write. This is a license, not an assignment.
 
 By signing this agreement — which the CLA bot will prompt you to do on your
 first pull request — you accept the following terms for your present and future
@@ -33,18 +33,18 @@ designated in writing by you as "Not a Contribution."
 **"Golden Section"** means Golden Section Holdings LLC, a Texas limited
 liability company, and its affiliates and successors.
 
-## 2. Copyright licence
+## 2. Copyright license
 
 You grant to Golden Section, and to recipients of material distributed by
 Golden Section, a perpetual, worldwide, non-exclusive, no-charge,
-royalty-free, irrevocable copyright licence to reproduce, prepare derivative
+royalty-free, irrevocable copyright license to reproduce, prepare derivative
 works of, publicly display, publicly perform, sublicense, and distribute your
 contributions and such derivative works.
 
 ## 3. Right to relicense
 
 You further grant Golden Section the right to license your contribution, and
-derivative works of it, under any licence terms Golden Section chooses,
+derivative works of it, under any license terms Golden Section chooses,
 including terms different from and more or less permissive than those currently
 applied to this repository, and including proprietary and commercial terms.
 
@@ -56,19 +56,19 @@ This clause is the reason the agreement exists. Golden Section maintains this
 material as a single body of work that it also uses in its own tools; it cannot
 do that if each contribution carries its own separate terms.
 
-## 4. Patent licence
+## 4. Patent license
 
 You grant to Golden Section and to recipients of material distributed by Golden
 Section a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
-irrevocable patent licence to make, have made, use, offer to sell, sell,
-import, and otherwise transfer your contribution, where such licence applies
+irrevocable patent license to make, have made, use, offer to sell, sell,
+import, and otherwise transfer your contribution, where such license applies
 only to those patent claims licensable by you that are necessarily infringed by
 your contribution alone or by combination of your contribution with the work to
 which it was submitted.
 
 If any entity institutes patent litigation against Golden Section or any
 recipient alleging that your contribution, or the work to which you contributed,
-constitutes direct or contributory patent infringement, then any patent licences
+constitutes direct or contributory patent infringement, then any patent licenses
 granted to that entity under this agreement for that contribution or work
 terminate as of the date such litigation is filed.
 
@@ -76,13 +76,13 @@ terminate as of the date such litigation is filed.
 
 You represent that:
 
-1. You are legally entitled to grant the above licences. If your employer has
+1. You are legally entitled to grant the above licenses. If your employer has
    rights to intellectual property that you create, you represent that you have
    received permission to make the contribution on behalf of that employer, that
    your employer has waived such rights for your contributions, or that your
    employer has executed a separate corporate agreement with Golden Section.
 2. Each contribution is your original creation, and you have identified within
-   it any third-party licence or other restriction of which you are personally
+   it any third-party license or other restriction of which you are personally
    aware and which is associated with any part of it.
 3. Your contribution does not include material that you are obliged to keep
    confidential, and does not identify any company, founder, or individual
@@ -111,7 +111,7 @@ its conflict-of-laws provisions.
 
 ---
 
-*Adapted from the Apache Software Foundation Individual Contributor Licence
+*Adapted from the Apache Software Foundation Individual Contributor License
 Agreement v2.0 (http://www.apache.org/licenses/icla.pdf), which the ASF
 provides for adaptation. Golden Section is not affiliated with the Apache
 Software Foundation.*

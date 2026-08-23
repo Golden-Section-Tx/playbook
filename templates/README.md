@@ -43,7 +43,7 @@ process that produces something true to put in it. Filling in a cash flow
 forecast template without doing the unit-economics work behind it produces a
 confident-looking file and no better decisions.
 
-## Licence
+## License
 
 Same as the rest of the content: [CC BY-SA 4.0](../LICENSE). Use them, adapt
 them, build commercial work with them — credit Golden Section, and license your

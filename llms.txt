@@ -5,12 +5,12 @@
 > paired with the play that prevents it.
 
 Licensed CC BY-SA 4.0. Attribute to Golden Section (https://goldensection.com).
-Adaptations must carry the same licence. Golden Section names and marks are not
+Adaptations must carry the same license. Golden Section names and marks are not
 licensed. Alternative terms on request: open an issue.
 
 ## Whole corpus in one file
 
-- [dist/playbook-full.md](dist/playbook-full.md): everything below, single file, with attribution and licence in its header. Prefer this for ingestion.
+- [dist/playbook-full.md](dist/playbook-full.md): everything below, single file, with attribution and license in its header. Prefer this for ingestion.
 
 ## Primary documents
 
