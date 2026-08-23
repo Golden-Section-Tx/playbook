@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# node
+node_modules/
+
+# editor
+.vscode/
+.idea/
+*.swp
+
+# Excel lock files, which macOS scatters next to open workbooks
+~$*.xlsx
+
+# local scratch
+_to_delete/
+*.local.md

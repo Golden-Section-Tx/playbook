@@ -1,0 +1,29 @@
+# Code owners for the Golden Section Playbook.
+#
+# This file is the mechanism that enforces GP approval: when the ruleset on
+# `main` requires code-owner review, a pull request cannot merge without an
+# approval from someone listed here. See GOVERNANCE.md.
+#
+# The team must exist in the golden-section-tx organisation and must have write
+# access to this repository, or GitHub silently ignores every rule below.
+#
+# NOTE, while the maintainers team has one member: GitHub does not let anyone
+# approve their own pull request, so requiring an approval would lock the sole
+# maintainer out of the repository entirely. The ruleset therefore requires a
+# pull request and passing CI but zero approvals for now. Raise it to one
+# approval with code-owner review the moment a second maintainer joins — that
+# is the change that makes this file bite.
+
+*                       @golden-section-tx/playbook-maintainers
+
+# Licensing, governance, and contributor terms need a deliberate second look.
+/LICENSE                @golden-section-tx/playbook-maintainers
+/LICENSE-CODE           @golden-section-tx/playbook-maintainers
+/NOTICE                 @golden-section-tx/playbook-maintainers
+/CLA.md                 @golden-section-tx/playbook-maintainers
+/GOVERNANCE.md          @golden-section-tx/playbook-maintainers
+/CODEOWNERS             @golden-section-tx/playbook-maintainers
+
+# The build script decides what every generated link says.
+/scripts/               @golden-section-tx/playbook-maintainers
+/.github/               @golden-section-tx/playbook-maintainers

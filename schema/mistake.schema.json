@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/golden-section-tx/playbook/schema/mistake.schema.json",
+  "title": "Golden Section mistake entry",
+  "description": "MISTAKES.md is Markdown, not JSON — this schema documents and validates the shape of one entry for any tool that parses the file. scripts/build.mjs enforces the same rules directly against the Markdown.\n\nThe canonical form of one entry is:\n\n    ### <a id=\"m016\"></a>16 · Running out of cash\n\n    `Executive`\n\n    Self-explanatory... don't do it.\n\n    **Prevented by** · [Cash Flow Forecast](plays/executive/saas-cash-flow-forecast.md)\n\nThe heading, the anchor, the category line, and the detail are hand-authored. The **Prevented by** line is generated from the plays' preventsMistakes frontmatter and is overwritten on every build.\n\nEntries appear in ascending numeric order. Numbers are permanent: they are cited from goldensection.com, from LookingGlass, and from every fork. Never renumber an entry and never reuse a retired number.",
+  "type": "object",
+  "required": ["number", "anchor", "title", "categories"],
+  "additionalProperties": false,
+  "properties": {
+    "number": {
+      "description": "The mistake's permanent number. A new mistake takes the next unused integer.",
+      "type": "integer",
+      "minimum": 1
+    },
+    "anchor": {
+      "description": "Stable link target, the number zero-padded to three digits. Must agree with `number`.",
+      "type": "string",
+      "pattern": "^m[0-9]{3}$"
+    },
+    "title": {
+      "description": "The mistake stated as a behaviour, not as a category of risk. Short and blunt.",
+      "type": "string",
+      "minLength": 4
+    },
+    "categories": {
+      "description": "One or more functional areas the mistake belongs to. Rendered as an inline-code line beneath the heading, joined by ' · '.",
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "enum": ["Executive", "Sales & Marketing", "Customers", "Operations", "Development", "Vendors"]
+      }
+    },
+    "detail": {
+      "description": "One to three sentences: what happens, and why it costs something. Optional — one of the 161 has none.",
+      "type": "string"
+    },
+    "preventedBy": {
+      "description": "GENERATED. Slugs of the plays that prevent this mistake, derived from each play's preventsMistakes list. Never authored by hand; edits here are discarded on the next build.",
+      "type": "array",
+      "readOnly": true,
+      "items": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" }
+    },
+    "stories": {
+      "description": "Optional longer write-ups in stories/, named mNNN-short-slug.md. Must be anonymised.",
+      "type": "array",
+      "items": { "type": "string", "pattern": "^stories/m[0-9]{3}-[a-z0-9-]+\\.md$" }
+    }
+  }
+}

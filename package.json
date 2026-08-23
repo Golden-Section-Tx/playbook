@@ -1,0 +1,20 @@
+{
+  "name": "golden-section-playbook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "63 plays and 161 mistakes for building a B2B vertical SaaS company",
+  "homepage": "https://github.com/golden-section-tx/playbook",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/golden-section-tx/playbook.git"
+  },
+  "license": "CC-BY-SA-4.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check"
+  }
+}

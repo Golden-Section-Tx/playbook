@@ -1,0 +1,104 @@
+# The Golden Section Playbook
+
+> 63 plays and 161 mistakes for building a B2B vertical SaaS
+> company, from a firm that has watched over 400 of them. Every mistake is
+> paired with the play that prevents it.
+
+Licensed CC BY-SA 4.0. Attribute to Golden Section (https://goldensection.com).
+Adaptations must carry the same licence. Golden Section names and marks are not
+licensed. Alternative terms on request: open an issue.
+
+## Whole corpus in one file
+
+- [dist/playbook-full.md](dist/playbook-full.md): everything below, single file, with attribution and licence in its header. Prefer this for ingestion.
+
+## Primary documents
+
+- [MISTAKES.md](MISTAKES.md): all 161 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
+- [plays/README.md](plays/README.md): index of all 63 plays with owners, cadence, and effort.
+- [templates/](templates/): 59 working Excel models, mapped to plays.
+- [CONTRIBUTING.md](CONTRIBUTING.md): how to propose a change.
+- [GOVERNANCE.md](GOVERNANCE.md): who can change this and how.
+
+## Plays by category
+
+### Executive
+
+- [Executive Execution](plays/executive/saas-executive-execution.md): The executive function begins with a clear and compelling vision—why vision statements matter, where they fall short, and how to define one that aligns your team.
+- [Define the Mission](plays/executive/define-saas-company-mission.md): Define your company's mission as the intersection of what you do, how you do it, your present microeconomic environment, and the overarching goal you'll achieve through flawless execution.
+- [Budget Creation](plays/executive/saas-budget-creation.md): Build an annual operating budget that is realistic, comprehensive, and strategically aligned—allocating financial resources against the initiatives that support your annual strategic objectives.
+- [Cash Flow Forecast](plays/executive/saas-cash-flow-forecast.md): Build a living cash prediction model from conservative unit-economics assumptions, update it monthly with actuals, and minimize the investment needed to scale.
+- [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md): Design a dashboard of meaningful KPIs that reflects your strategic priorities, surfaces bottlenecks, and provides transparency to your team about company health.
+- [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md): Establish weekly executive KPI reviews and monthly budget and strategic meetings to maintain operational discipline, surface issues early, and keep the organization aligned around priorities.
+- [Board of Directors](plays/executive/saas-board-of-directors.md): Build an effective board that adds strategic value, provides governance, and creates accountability—managing board composition, meeting cadence, materials, and the crucial relationship between founders and directors.
+- [Employee Agreement](plays/executive/saas-employee-agreements.md): Create comprehensive employee agreements that clearly delineate role scope, compensation, IP, reporting, and off-boarding—protecting both your company and your team members.
+- [IP & Confidentiality](plays/executive/saas-ip-confidentiality.md): Protect your intellectual property and trade secrets with IP & Confidentiality Agreements that prove your company took reasonable measures to keep them secret.
+- [Audited Financials](plays/executive/saas-audited-financials.md): Engage auditors to produce audited financial statements that instill investor and customer confidence, reveal operational issues, and demonstrate governance maturity to potential acquirers.
+- [Insurance](plays/executive/saas-company-insurance.md): Secure the essential insurance policies (E&O/professional liability and D&O) that protect your company, directors, and investors from catastrophic financial risk.
+
+### Sales & Marketing
+
+- [Go-to-Market Strategy](plays/sales-marketing/vertical-saas-go-to-market-strategy.md): Define a cohesive go-to-market strategy that ties together product-market fit, vertical focus, customer segmentation, sales and marketing alignment, and distribution channels.
+- [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md): Ground your go-to-market strategy in a process-oriented sales philosophy built on Moore's technology adoption curve—so you approach the right prospects with the right product at the right time.
+- [Vertical Specific](plays/sales-marketing/vertical-specific-selling.md): Identify and focus on a specific vertical where your product solves critical pain points, enabling quality revenue, deep expertise, pricing power, and efficient customer acquisition.
+- [Customer Segmentation](plays/sales-marketing/b2b-saas-customer-segmentation.md): Within your chosen vertical, segment customers by firmographic traits to identify the most valuable segments worth pursuing—enabling focused product development, targeted marketing, and pricing power.
+- [Buyer Persona](plays/sales-marketing/b2b-saas-buyer-personas.md): Create detailed buyer personas for each customer segment—mapping decision-makers, their pain points, success metrics, and buying criteria to drive focused sales and marketing.
+- [Value Proposition & Customer ROI](plays/sales-marketing/saas-value-proposition-customer-roi.md): Quantify the specific value your product delivers to each buyer persona and customer segment—translating features into business outcomes and financial ROI.
+- [Sales Deck](plays/sales-marketing/b2b-saas-sales-deck.md): Design a compelling sales presentation that tells a bigger change story, teases the Promised Land, presents features as magic gifts, and backs it all with customer evidence.
+- [Enterprise Sales Process](plays/sales-marketing/enterprise-saas-sales-process.md): Build a repeatable enterprise sales process that clearly defines stages, qualification criteria, and resource allocation—enabling predictable forecasting and rapid new hire ramp-up.
+- [Sales Scripts](plays/sales-marketing/b2b-saas-sales-scripts.md): Develop battle-tested sales scripts and talking points that help SDRs, AEs, and the team deliver consistent messaging while allowing room for authentic relationship-building.
+- [Channel Partnerships](plays/sales-marketing/saas-channel-partnerships.md): Identify and manage channel partners (resellers, integration partners, service providers) that can accelerate customer acquisition and expand your market reach.
+- [Sales Funnel Creation](plays/sales-marketing/b2b-saas-sales-funnel.md): Define your sales funnel's stages, milestones, timeframes, and conversion rate benchmarks to guide sales activity, maintain deal momentum, and identify bottlenecks.
+- [Pipeline Creation](plays/sales-marketing/b2b-saas-pipeline-creation.md): Quantify actual deal flow across your sales stages to forecast revenue, calculate required SDR headcount, and track progress toward bookings targets.
+- [Pipeline Management & Review](plays/sales-marketing/b2b-saas-pipeline-management.md): Conduct weekly pipeline reviews to track deal progression, identify stuck deals, forecast close probability, and allocate leadership attention to high-impact opportunities.
+- [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md): Design a value-based pricing matrix that captures the ROI you deliver to customers while remaining simple enough to reduce sales friction and support billing.
+- [Sales Compensation Plan](plays/sales-marketing/b2b-saas-sales-compensation-plan.md): Build a compensation plan that aligns incentives with company strategy—balancing base salary for stability with commission/bonus structure that drives right behaviors.
+- [Sales Org Chart](plays/sales-marketing/saas-sales-org-chart.md): Design an efficient sales organization structure—choosing between the Island, Assembly Line, and Pod models to fit your company's culture and scale with revenue growth.
+- [P&L Explained](plays/sales-marketing/saas-p-and-l-explained.md): Understand the core P&L structure and metrics that acquirers, investors, and board members focus on—revenue, cost of goods sold, gross margin, operating expenses, and EBITDA.
+- [SaaS Metrics](plays/sales-marketing/saas-metrics-guide.md): Master the SaaS-specific metrics (MRR, ARR, NRR, CAC, LTV, churn) that define business health and unlock capital—and understand how they connect to unit economics.
+- [Unit Economics](plays/sales-marketing/saas-unit-economics.md): Model the financial return of each customer cohort to understand if your business is inherently profitable—enabling capital-efficient growth and demonstrating unit economics to acquirers.
+- [Sales Metrics by FTE/Role/Team](plays/sales-marketing/saas-sales-metrics-by-role.md): Track sales productivity metrics by rep, role, and team to identify top performers, weak links, and where to invest coaching or additional resources.
+- [Sales Efficiency Ratio](plays/sales-marketing/saas-sales-efficiency-ratio.md): Calculate your sales efficiency ratio (the magic number) to understand if your sales and marketing investment is generating returns—critical for demonstrating unit economics.
+
+### Customer
+
+- [Account Management Process](plays/customer/b2b-saas-account-management.md): Establish a structured account management process to ensure customers realize ROI from your product—increasing satisfaction, adoption, retention, and expansion revenue.
+- [Onboarding Process](plays/customer/saas-customer-onboarding.md): Design a methodical onboarding process that gets customers to their first value milestone quickly, sets clear expectations, and establishes the foundation for long-term success.
+- [Adoption Process](plays/customer/saas-product-adoption.md): Drive deeper product adoption after initial onboarding to increase customer feature utilization, reduce churn, and unlock expansion opportunities.
+- [Net Promoter Score (NPS)](plays/customer/saas-net-promoter-score.md): Implement a Net Promoter Score program to measure customer satisfaction, identify promoters, detractors, and passives, and drive continuous product and customer experience improvements.
+- [Accounts Receivable Process](plays/customer/saas-accounts-receivable.md): Establish an accounts receivable process to monitor customer payments, collect on time, manage payment disputes, and maximize cash flow.
+- [ARR Schedule](plays/customer/saas-arr-schedule.md): Create an ARR schedule that tracks all customer contracts by cohort, predicts future revenue, and identifies at-risk accounts.
+- [Contract Register](plays/customer/saas-contract-register.md): Maintain a master contract register that tracks all customer contracts—renewal dates, terms, pricing, and key obligations—as your primary source of revenue truth.
+- [Contract Playbook](plays/customer/saas-contract-playbook.md): Establish standard customer contract terms and a negotiation process that protects your company while remaining competitive—covering data rights, assignment restrictions, SLAs, and liability.
+
+### Operations
+
+- [Quality Management System](plays/operations/saas-quality-management-system.md): Establish documented processes and quality standards that ensure consistent, predictable customer outcomes—creating the operational predictability acquirers value.
+- [Implementation Project Lifecycle](plays/operations/saas-implementation-lifecycle.md): Define a structured implementation project lifecycle that reliably delivers customer success—scoping, planning, execution, testing, and go-live phases.
+- [Implementation Hours Tracking](plays/operations/saas-csat-scores.md): Track the man hours required to fully implement each new customer so you can price implementation fees accurately, invoice overages, and evidence implementation costs at exit.
+- [Support Ticket System](plays/operations/saas-support-ticket-system.md): Implement a ticketing system that captures customer issues, routes them efficiently, tracks resolution, and provides data for support process improvement.
+- [Support Metrics](plays/operations/saas-support-metrics.md): Track support performance metrics—response time, resolution time, satisfaction, volume trends—to ensure quality support while managing costs.
+- [SLA Hosting & Support](plays/operations/saas-sla-hosting-support.md): Define clear Service Level Agreements that commit to uptime, support response times, and support hours—setting customer expectations and establishing operational targets.
+- [Churn Identification Process](plays/operations/identify-saas-churn-early.md): Build a systematic process to identify at-risk customers before they churn—analyzing usage patterns, engagement signals, and health scores to trigger retention interventions.
+- [Training Process](plays/operations/saas-customer-training.md): Develop a customer training program that enables customers to maximize value from your product, reducing support burden and improving retention.
+
+### Development
+
+- [Product Management Process](plays/development/saas-product-management-process.md): Build a product management process that ensures you're building the right thing—researching customer problems, prioritizing features, and managing the roadmap systematically.
+- [Product Roadmap Process](plays/development/saas-product-roadmap.md): Create a transparent product roadmap that balances customer requests, technical debt, and strategic initiatives—communicating direction while maintaining flexibility.
+- [Product Engineering Process](plays/development/saas-product-engineering-process.md): Establish product engineering practices—sprint discipline, code review, testing, CI/CD—that ensure quality, speed, and predictability in feature delivery.
+- [Database Selection](plays/development/saas-database-selection.md): Choose a database technology (SQL, NoSQL, etc.) that matches your product requirements for consistency, scale, query patterns, and operational simplicity.
+- [Application Code & Front End](plays/development/saas-application-code-frontend.md): Establish standards and practices for application code quality, architecture, and front-end user experience—ensuring maintainability and customer delight.
+- [Cloud & Server Infrastructure](plays/development/saas-cloud-infrastructure.md): Plan cloud infrastructure for high availability, scalability, and backup/disaster recovery—assessing your current setup against best practices and creating a plan to close the gaps.
+- [Security Process](plays/development/saas-security-process.md): Implement security controls—server security, role-based access control, strong passwords, encryption, and penetration testing—to protect customer data.
+- [Security Documentation](plays/development/saas-security-documentation.md): Determine which regulatory security standards (PCI, GDPR, HIPAA, ISO 27001) your company must comply with and put a process in place to maintain compliance and documentation.
+- [Code Level Documentation](plays/development/saas-code-documentation.md): Maintain code-level documentation that helps developers understand architecture, key decisions, and how systems work—reducing onboarding time and enabling maintenance.
+- [Product Level Documentation](plays/development/saas-product-documentation.md): Create comprehensive product-level documentation—requirements, technical design, user manuals, quality plans, and API docs—to codify internal knowledge and prepare for your next equity round.
+- [Open Source Register](plays/development/saas-open-source-register.md): Maintain a register of all open-source licenses and dependencies used in your product so you can disclose them to potential buyers.
+- [License Register](plays/development/saas-license-register.md): Create a register of all product licenses you have issued so you can track who has access to your product system, critical dates, and security credentials.
+- [Dev Org Chart](plays/development/saas-dev-org-chart.md): Design an engineering organization structure—defining roles (product manager, BA, tech lead, engineers, QA), team organization, and reporting lines—that scales with growth.
+
+### Vendor
+
+- [Vendor Contract Register](plays/vendor/saas-vendor-contract-register.md): Maintain a master register of all vendor contracts—tracking renewals, pricing, key terms, and obligations to ensure you're getting fair deals.
+- [Vendor Contract Playbook](plays/vendor/saas-vendor-contract-playbook.md): Establish negotiation strategies and standard vendor contract terms that protect your company while maintaining positive vendor relationships.

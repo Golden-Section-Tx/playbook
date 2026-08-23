@@ -1,0 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/golden-section-tx/playbook/schema/play.schema.json",
+  "title": "Golden Section play frontmatter",
+  "description": "The frontmatter contract for a file in plays/<category>/. Enforced by scripts/build.mjs, which also checks constraints this schema cannot express: that slug equals the filename, that category matches the containing folder, that slug/anchor/order are unique across all plays, that every preventsMistakes number exists in MISTAKES.md, and that every referenced template file is present in templates/.",
+  "type": "object",
+  "required": [
+    "order", "slug", "anchor", "title", "h1", "category", "players",
+    "initialEffort", "ongoingEffort", "frequency", "stage", "summary",
+    "keywords", "questions", "preventsMistakes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "order": {
+      "description": "Position in the overall play sequence. Unique across all plays.",
+      "type": "integer",
+      "minimum": 1
+    },
+    "slug": {
+      "description": "URL segment and filename stem. Changing it breaks existing links — treat as permanent.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "anchor": {
+      "description": "Stable cross-reference id, used by the website's master page. Treat as permanent.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": {
+      "description": "Short label, used in indexes, tables, and generated link text.",
+      "type": "string",
+      "minLength": 2
+    },
+    "h1": {
+      "description": "Headline for the play's own page. Usually phrased as 'How to …'.",
+      "type": "string",
+      "minLength": 4
+    },
+    "category": {
+      "description": "Must match the containing folder.",
+      "enum": ["executive", "sales-marketing", "customer", "operations", "development", "vendor"]
+    },
+    "players": {
+      "description": "Who runs this play, as a comma-separated list of roles.",
+      "type": "string",
+      "minLength": 2
+    },
+    "initialEffort": {
+      "description": "Effort to stand the play up the first time, in story points, e.g. '21 SP'. An em dash where effort is not meaningfully bounded.",
+      "type": "string"
+    },
+    "ongoingEffort": {
+      "description": "Effort per recurrence, in story points. An em dash where not applicable.",
+      "type": "string"
+    },
+    "frequency": {
+      "description": "How often the play recurs.",
+      "type": "string",
+      "examples": ["Continuous", "Weekly", "Monthly", "Quarterly", "Annual", "As needed"]
+    },
+    "stage": {
+      "description": "The earliest company stage at which this play starts paying for itself.",
+      "type": "string",
+      "examples": ["Pre-Revenue", "Early Revenue", "Scaling", "All Stages"]
+    },
+    "summary": {
+      "description": "One paragraph that answers the question directly. Used as the bolded lead everywhere the play appears.",
+      "type": "string",
+      "minLength": 40
+    },
+    "keywords": {
+      "description": "Retrieval keywords, lowercase.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 2 }
+    },
+    "questions": {
+      "description": "Questions this play answers, phrased as a founder would ask them.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 8 }
+    },
+    "preventsMistakes": {
+      "description": "Mistake numbers from MISTAKES.md. This is the ONLY place the play-to-mistake relationship is declared; every link in the other direction is generated from it. May be empty for a play that prevents no catalogued mistake.",
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "integer", "minimum": 1 }
+    },
+    "templates": {
+      "description": "Downloadable templates belonging to this play. Optional.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["file", "name"],
+        "additionalProperties": false,
+        "properties": {
+          "file": {
+            "description": "Filename inside templates/, keeping its binder number.",
+            "type": "string",
+            "pattern": "^[0-9]+\\.[0-9]+-[a-z0-9-]+\\.xlsx$"
+          },
+          "name": {
+            "description": "Display name for the download link.",
+            "type": "string",
+            "minLength": 4
+          }
+        }
+      }
+    },
+    "format": {
+      "description": "Set to 'html' only where the body needs structure the Markdown dialect cannot express, such as headings inside list items. One play currently uses this.",
+      "enum": ["html"]
+    }
+  }
+}

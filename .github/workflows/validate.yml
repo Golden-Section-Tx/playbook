@@ -1,0 +1,71 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: build and validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Fails on: malformed frontmatter, duplicate slug/anchor/order, a
+      # preventsMistakes number that does not exist, a missing template file,
+      # or committed generated output that is out of date.
+      - name: build and validate
+        run: node scripts/build.mjs --check
+
+  confidentiality:
+    name: confidentiality scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # A blocklist of portfolio company names lives in the repository
+      # variable CONFIDENTIAL_TERMS (organisation settings → Variables), as a
+      # newline-separated list. It is deliberately not committed here.
+      #
+      # This is a backstop, not the control. Anonymisation is the
+      # contributor's responsibility, and for LookingGlass it happens inside
+      # LookingGlass before a pull request is ever opened. See GOVERNANCE.md.
+      - name: scan the diff for blocked terms
+        env:
+          TERMS: ${{ vars.CONFIDENTIAL_TERMS }}
+        run: |
+          if [ -z "$TERMS" ]; then
+            echo "::warning::CONFIDENTIAL_TERMS is not set — scan skipped."
+            exit 0
+          fi
+          base="${{ github.event.pull_request.base.sha }}"
+          head="${{ github.event.pull_request.head.sha }}"
+          if [ -z "$base" ]; then
+            echo "Not a pull request — nothing to diff."
+            exit 0
+          fi
+          git diff "$base" "$head" > /tmp/diff.txt || true
+          status=0
+          while IFS= read -r term; do
+            [ -z "$term" ] && continue
+            if grep -Fqi -- "$term" /tmp/diff.txt; then
+              echo "::error::The diff contains a blocked term: $term"
+              status=1
+            fi
+          done <<< "$TERMS"
+          if [ "$status" -ne 0 ]; then
+            echo "Close this pull request rather than amending it — a public PR cannot be unpublished. See GOVERNANCE.md."
+            exit 1
+          fi
+          echo "No blocked terms found."

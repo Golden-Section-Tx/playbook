@@ -1,0 +1,64 @@
+THE GOLDEN SECTION PLAYBOOK
+===========================
+
+Copyright (c) Golden Section. All rights reserved except as licensed below.
+
+
+CONTENT
+-------
+The plays (plays/), the mistakes list (MISTAKES.md), the stories (stories/),
+the templates (templates/), and the generated corpus (dist/) are licensed under
+the Creative Commons Attribution-ShareAlike 4.0 International Public License
+(CC BY-SA 4.0). The full licence text is in the file LICENSE.
+
+Attribute as:
+
+    The Golden Section Playbook — Golden Section
+    https://github.com/golden-section-tx/playbook
+    Licensed CC BY-SA 4.0
+
+Adaptations must be licensed under the same terms. If ShareAlike prevents you
+from getting this material in front of founders, open an issue and ask for
+alternative terms.
+
+
+CODE
+----
+The build scripts (scripts/), the JSON schemas (schema/), and the continuous
+integration configuration (.github/) are licensed under the MIT License. The
+full licence text is in the file LICENSE-CODE.
+
+
+TRADEMARKS — NOT LICENSED
+-------------------------
+Neither licence grants any right to use the following, and no such right is
+granted by implication, estoppel, or otherwise:
+
+  - the name "Golden Section" and any confusingly similar name
+  - the name "LookingGlass" and the name "Goldie"
+  - the Golden Section logo, wordmark, and other visual identity
+  - the domain goldensection.com and any confusingly similar domain
+
+You may state factually that your work is derived from, based on, or adapted
+from the Golden Section Playbook — the attribution requirement above in fact
+obliges you to. You may not use Golden Section's names or marks in a way that
+suggests Golden Section produced, endorses, sponsors, or is affiliated with your
+work, or in the name or branding of your own product or service.
+
+
+NO WARRANTY, AND NOT PROFESSIONAL ADVICE
+----------------------------------------
+This material describes operating practices Golden Section has found useful. It
+is not legal, tax, accounting, financial, or investment advice, and it is not a
+substitute for professional counsel on your own situation. The templates are
+working models, not audited instruments; check every formula against your own
+numbers before relying on one.
+
+
+GOLDEN SECTION'S OWN RIGHTS
+---------------------------
+Golden Section retains all rights in the material it authored, and holds a
+broad licence to all contributed material under the Contributor Licence
+Agreement (CLA.md). The CC BY-SA grant above is the licence Golden Section
+offers the public. It does not constrain Golden Section's own use of this
+material, including use in commercial and non-open-source products.
