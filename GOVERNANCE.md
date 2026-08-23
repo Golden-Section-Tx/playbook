@@ -9,23 +9,32 @@ Merge authority sits with the **`@golden-section-tx/playbook-maintainers`** team
 — Golden Section's general partners and their delegates. This is enforced
 mechanically, not by convention:
 
-- `main` is protected. No direct pushes, by anyone, including organisation
-  administrators.
-- Every change arrives as a pull request.
-- Continuous integration must pass before a merge is possible.
-- Merging requires write access, which only the maintainers team has.
+- **Write access is limited to the `playbook-maintainers` team.** Nobody else
+  can push to this repository at all. Anyone may fork it and open a pull
+  request; only a maintainer can merge one. This is the control that matters,
+  and it holds regardless of every other rule here.
+- `main` cannot be deleted and cannot be force-pushed — by anyone, maintainers
+  and organisation administrators included. That rule exists to make an
+  accident unrecoverable-proof, not to restrain anyone.
+- **Outside contributions arrive as a pull request** and cannot merge until
+  continuous integration passes.
 
-Anyone in the world may open a pull request. Nobody outside the maintainers team
-can merge one. Both of those are the point.
+**Where this is currently weaker than it will be.** Stated plainly, so nobody
+reads more into it than is there.
 
-**Where this is currently weaker than it will be.** The maintainers team has one
-member, and GitHub does not permit anyone to approve their own pull request — so
-requiring an approval would make the repository unmergeable by the only person
-who can merge. The ruleset therefore requires a pull request and passing checks,
-but zero approvals. Every change still leaves a reviewable record and nothing
-reaches `main` unreviewed by CI; what is missing is a second pair of human eyes.
-That requirement goes on — one approval, code-owner review, in
-[CODEOWNERS](CODEOWNERS) — as soon as a second maintainer exists.
+Golden Section maintainers can push directly to `main` today. With a
+single-member team that is a deliberate trade: GitHub does not let anyone
+approve their own pull request, so a mandatory-review rule would make the
+repository unmergeable by the only person able to merge it, and routing every
+one-line correction through a self-approved pull request would be ceremony
+rather than review. The audit trail is the commit history, which is public and
+permanent.
+
+When a second maintainer joins, both halves change together: the direct-push
+bypass comes off, and pull requests begin requiring one approving review from a
+code owner — see [CODEOWNERS](CODEOWNERS), which is already written and
+validating cleanly for exactly that moment. That is when "GP approval" becomes
+a mechanism rather than a practice.
 
 ## The two internal contributors
 

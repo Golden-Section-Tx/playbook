@@ -9,10 +9,13 @@
 #
 # NOTE, while the maintainers team has one member: GitHub does not let anyone
 # approve their own pull request, so requiring an approval would lock the sole
-# maintainer out of the repository entirely. The ruleset therefore requires a
-# pull request and passing CI but zero approvals for now. Raise it to one
-# approval with code-owner review the moment a second maintainer joins — that
-# is the change that makes this file bite.
+# maintainer out of the repository entirely. Two rulesets are in force instead:
+# main cannot be deleted or force-pushed by anyone, and outside pull requests
+# must pass CI — while maintainers may still push directly.
+#
+# When a second maintainer joins, remove the maintainer bypass and set pull
+# requests to require one approving review from a code owner. That single
+# change is what makes this file bite.
 
 *                       @golden-section-tx/playbook-maintainers
 
