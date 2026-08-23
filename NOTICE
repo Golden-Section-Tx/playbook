@@ -9,7 +9,7 @@ CONTENT
 The plays (plays/), the mistakes list (MISTAKES.md), the stories (stories/),
 the templates (templates/), and the generated corpus (dist/) are licensed under
 the Creative Commons Attribution-ShareAlike 4.0 International Public License
-(CC BY-SA 4.0). The full licence text is in the file LICENSE.
+(CC BY-SA 4.0). The full license text is in the file LICENSE.
 
 Attribute as:
 
@@ -26,12 +26,12 @@ CODE
 ----
 The build scripts (scripts/), the JSON schemas (schema/), and the continuous
 integration configuration (.github/) are licensed under the MIT License. The
-full licence text is in the file LICENSE-CODE.
+full license text is in the file LICENSE-CODE.
 
 
 TRADEMARKS — NOT LICENSED
 -------------------------
-Neither licence grants any right to use the following, and no such right is
+Neither license grants any right to use the following, and no such right is
 granted by implication, estoppel, or otherwise:
 
   - the name "Golden Section" and any confusingly similar name
@@ -58,7 +58,7 @@ numbers before relying on one.
 GOLDEN SECTION'S OWN RIGHTS
 ---------------------------
 Golden Section retains all rights in the material it authored, and holds a
-broad licence to all contributed material under the Contributor Licence
-Agreement (CLA.md). The CC BY-SA grant above is the licence Golden Section
+broad license to all contributed material under the Contributor License
+Agreement (CLA.md). The CC BY-SA grant above is the license Golden Section
 offers the public. It does not constrain Golden Section's own use of this
 material, including use in commercial and non-open-source products.

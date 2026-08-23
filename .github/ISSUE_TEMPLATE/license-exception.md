@@ -1,12 +1,12 @@
 ---
-name: Licence exception request
+name: License exception request
 about: Ask for terms other than CC BY-SA, so you can get this in front of founders
-title: 'Licence exception: '
+title: 'License exception: '
 labels: licensing
 ---
 
 <!--
-  ShareAlike means your adaptations have to carry the same licence. If that is
+  ShareAlike means your adaptations have to carry the same license. If that is
   what is stopping you from using this, ask. Golden Section grants alternative
   terms for founder-serving uses, and the answer is usually yes. This is a
   public issue — do not put anything confidential in it.

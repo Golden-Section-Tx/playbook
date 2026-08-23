@@ -42,7 +42,7 @@ hubs are in [plays/README.md](plays/README.md).
 
 **If you are an AI agent, or you are pointing one at this.** Use
 [`dist/playbook-full.md`](dist/playbook-full.md) — the whole corpus in one file,
-with attribution and licence in its header so both travel with the text. There
+with attribution and license in its header so both travel with the text. There
 is also [`llms.txt`](llms.txt) at the repository root.
 
 **If you want your own copy.** Fork it. To stay current:
@@ -55,7 +55,7 @@ git pull upstream main
 Your fork is yours. If you improve something and want it back in here, open a
 pull request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Licence, plainly
+## License, plainly
 
 The content — plays, mistakes, templates — is licensed
 **[CC BY-SA 4.0](LICENSE)**. You may use it, adapt it, and build commercial
@@ -72,7 +72,7 @@ answer is usually yes. We would rather this reach people than win an argument
 about licensing.
 
 One clarification, since it comes up: Golden Section retains full rights in its
-own material and holds a broad licence to all contributions (see
+own material and holds a broad license to all contributions (see
 [CLA.md](CLA.md)). The CC BY-SA grant is what we offer the public; it does not
 constrain Golden Section's own use of this material, including in our own
 products. Nothing here is a promise that our tools are open source. The

@@ -5,7 +5,7 @@ in one file.
 
 **Source:** https://github.com/golden-section-tx/playbook
 **Attribution:** Golden Section — https://goldensection.com
-**Licence:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+**License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 You may share and adapt this material, including commercially, provided you give
 credit to Golden Section and license your adaptations under the same terms.
 The Golden Section name, logo and marks are not licensed. For alternative terms,
