@@ -13,9 +13,9 @@ The plays live in [`plays/`](plays/README.md). Downloadable working templates
 live in [`templates/`](templates/).
 
 <!-- GS:COUNTS start -->
-**161 mistakes · 63 plays · 59 templates.**  
-Plays by category: Executive 11 · Sales & Marketing 21 · Customer 8 · Operations 8 · Development 13 · Vendor 2.  
-147 of 161 mistakes have at least one play mapped.
+**167 mistakes · 69 plays · 59 templates.**  
+Plays by category: Executive 11 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
+154 of 167 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ---
@@ -50,7 +50,7 @@ _No play is mapped to this mistake yet._
 
 Customers pay for value. Don’t let them bully you on terms.
 
-**Prevented by** · [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md) · [Contract Playbook](plays/customer/saas-contract-playbook.md)
+**Prevented by** · [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md) · [Contract Playbook](plays/customer/saas-contract-playbook.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md)
 
 ### <a id="m005"></a>5 · Delivering pricing before value
 
@@ -178,7 +178,7 @@ If you don't, then you might as well shut down... keep investors well informed a
 
 Pricing should ALWAYS be informed by customer value. Pricing in a vacuum is either too much or too little or too confusing...
 
-**Prevented by** · [Value Proposition & Customer ROI](plays/sales-marketing/saas-value-proposition-customer-roi.md) · [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md)
+**Prevented by** · [Value Proposition & Customer ROI](plays/sales-marketing/saas-value-proposition-customer-roi.md) · [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md) · [AI Pricing Model Selection](plays/sales-marketing/ai-pricing-model-selection.md)
 
 ### <a id="m021"></a>21 · Founder playing ‘lawyer’ on contracts
 
@@ -458,7 +458,7 @@ Somethings can be decided quickly, some not. Make sure to identify strategic dec
 
 Channel partners are enticing. But selling your product is your responsibility. Channels are distribution mechanisms they aren't distribution itself.
 
-**Prevented by** · [Channel Partnerships](plays/sales-marketing/saas-channel-partnerships.md)
+**Prevented by** · [Channel Partnerships](plays/sales-marketing/saas-channel-partnerships.md) · [Partner Conflict Management](plays/vendor/saas-partner-conflict-management.md)
 
 ### <a id="m056"></a>56 · Betting customers will come if you build it
 
@@ -474,7 +474,7 @@ Start with value. A product without value isn't anything. And value without dist
 
 How do you know where you are if you don't have a map? Benchmark your company and keep track. The harder to measure, the more valuable the practice.
 
-**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [SaaS Metrics](plays/sales-marketing/saas-metrics-guide.md)
+**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [SaaS Metrics](plays/sales-marketing/saas-metrics-guide.md) · [Seasonal Churn Segmentation](plays/customer/saas-seasonal-churn-segmentation.md)
 
 ### <a id="m058"></a>58 · Not doing research on a customer before meeting
 
@@ -562,7 +562,7 @@ Value sells not tech. You need to sell the value.
 
 Changing is painful, it's a cost beyond the price of your product. The value you provide needs to overcome switching costs as well as your price point.
 
-**Prevented by** · [Value Proposition & Customer ROI](plays/sales-marketing/saas-value-proposition-customer-roi.md) · [Adoption Process](plays/customer/saas-product-adoption.md)
+**Prevented by** · [Value Proposition & Customer ROI](plays/sales-marketing/saas-value-proposition-customer-roi.md) · [Adoption Process](plays/customer/saas-product-adoption.md) · [Value Pinnacle Services](plays/customer/saas-value-pinnacle-services.md)
 
 ### <a id="m069"></a>69 · Underestimating the effort of fundraising
 
@@ -618,7 +618,7 @@ Exponential growth is hard. Don't bank on it.
 
 It's not done until it's done. Don't let your team socialize unsigned deals as done. At best it’s silly, at worst it hides the true state of the company and can result in devastation when funds run out.
 
-**Prevented by** · [Pipeline Management & Review](plays/sales-marketing/b2b-saas-pipeline-management.md)
+**Prevented by** · [Pipeline Management & Review](plays/sales-marketing/b2b-saas-pipeline-management.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md)
 
 ### <a id="m076"></a>76 · Letting customers drop CYA comments in meetings
 
@@ -642,7 +642,7 @@ Performance reviews are mandatory. They feel weird early on when everyone knows 
 
 Look for win-win. If you are being forced to do lose/win, walk away, it's not worth it. Alternatively if you see your team pushing for win/lose address that immediately.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md)
 
 ### <a id="m079"></a>79 · Giving extra-contractual concessions
 
@@ -666,7 +666,7 @@ Be careful, and wary, of edits to the MSA. You need to keep your contracts clean
 
 There are great reasons to outsource like fractional expertise and scaling up tactical execution. Strategic oversight should never be outsourced. As you grow, you need more oversight.
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Partner Conflict Management](plays/vendor/saas-partner-conflict-management.md)
 
 ### <a id="m082"></a>82 · Don't let small investors overwhelm you or your team
 
@@ -714,7 +714,7 @@ Hard-close financial statements and don't reopen for edits. Changing historical 
 
 Don't bluff... ever. It never works.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md)
 
 ### <a id="m088"></a>88 · No customer contract register
 
@@ -754,7 +754,7 @@ Don't engage in brinkmanship. Look for win-win. It never wins to plan to loose.
 
 Failure to control vendor contracts means auto-renewals, escalations etc. that you don't want.
 
-**Prevented by** · [Vendor Contract Register](plays/vendor/saas-vendor-contract-register.md) · [Vendor Contract Playbook](plays/vendor/saas-vendor-contract-playbook.md)
+**Prevented by** · [Vendor Contract Register](plays/vendor/saas-vendor-contract-register.md) · [Vendor Contract Playbook](plays/vendor/saas-vendor-contract-playbook.md) · [Partner Conflict Management](plays/vendor/saas-partner-conflict-management.md)
 
 ### <a id="m093"></a>93 · Ignoring a problem
 
@@ -888,7 +888,7 @@ Every core activity in your company needs a person accountable for it. Don't let
 
 `Executive · Customers`
 
-**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Adoption Process](plays/customer/saas-product-adoption.md)
+**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Adoption Process](plays/customer/saas-product-adoption.md) · [Value Pinnacle Services](plays/customer/saas-value-pinnacle-services.md)
 
 ### <a id="m110"></a>110 · Believing the hype of a company pitch
 
@@ -944,7 +944,7 @@ There are tons of tensions in software companies. Don't let problems keep emergi
 
 Investment commitments slip, customer interest wanes, potential exit conversations die... life is full of disappointments. Don't magnify them by passing expectations down the line without managing them.
 
-**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Account Management Process](plays/customer/b2b-saas-account-management.md)
+**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md)
 
 ### <a id="m117"></a>117 · Expecting too much out of software ‘automation’
 
@@ -992,7 +992,7 @@ Some customers need to extract a pound of flesh to feel good about a transaction
 
 Sometimes customers need to go. Customer expectations can mess up a product when they aren't aligned. Holding onto customers at all costs will result in disaster.
 
-**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Churn Identification Process](plays/operations/identify-saas-churn-early.md)
+**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Churn Identification Process](plays/operations/identify-saas-churn-early.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md)
 
 ### <a id="m123"></a>123 · Underinvesting in employee onboarding
 
@@ -1056,7 +1056,7 @@ Part of being a founder is making the tough calls. Don’t make other people do 
 
 Pay requires work and work requires effort. Don’t expect customers to expand without sales effort.
 
-**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Adoption Process](plays/customer/saas-product-adoption.md)
+**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Adoption Process](plays/customer/saas-product-adoption.md) · [Value Pinnacle Services](plays/customer/saas-value-pinnacle-services.md)
 
 ### <a id="m131"></a>131 · Busy work
 
@@ -1128,7 +1128,7 @@ Revenue should always be top of mind, not matter the stage of the company. It’
 
 Your pricing should be inline how long your sales cycle is. The less you charge you customer, the shorter the sales cycle should be (and vice versa). Use 2 weeks for 20K ACV as a guide.
 
-**Prevented by** · [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md) · [Sales Efficiency Ratio](plays/sales-marketing/saas-sales-efficiency-ratio.md)
+**Prevented by** · [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md) · [Sales Efficiency Ratio](plays/sales-marketing/saas-sales-efficiency-ratio.md) · [AI Pricing Model Selection](plays/sales-marketing/ai-pricing-model-selection.md)
 
 ### <a id="m140"></a>140 · Not using Golden Section’s Recruiting arm (or hiring Continuum) and spending too much time hiring
 
@@ -1305,3 +1305,51 @@ Debt is a tool, not a failure. Founders who don’t understand how debt works of
 Founders often trust only the deals they originate. Ignoring qualified inbound or partner-sourced opportunities can stall growth and delay access to capital, customers, or strategic leverage.
 
 **Prevented by** · [Sales Funnel Creation](plays/sales-marketing/b2b-saas-sales-funnel.md) · [Pipeline Creation](plays/sales-marketing/b2b-saas-pipeline-creation.md)
+
+### <a id="m162"></a>162 · Blending unproven customers into the core revenue line
+
+`Executive · Customers`
+
+Some customers cannot be underwritten at signature. If their churn sits in the same revenue line as your best accounts, one blended retention number goes to your board and your bank and your acquirer, and all three price the whole book to the weakest cohort in it.
+
+**Prevented by** · [ARR Schedule](plays/customer/saas-arr-schedule.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md)
+
+### <a id="m163"></a>163 · Treating a champion's enthusiasm as the company's commitment
+
+`Sales & Marketing`
+
+A buying decision and a commitment to change behavior are bought from different people. Find out who above or beside your champion can stop this, and whether anyone has spoken to him, before you call it a deal.
+
+**Prevented by** · [Buyer Persona](plays/sales-marketing/b2b-saas-buyer-personas.md) · [Enterprise Sales Process](plays/sales-marketing/enterprise-saas-sales-process.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md)
+
+### <a id="m164"></a>164 · Optimizing services for margin instead of customer outcomes
+
+`Operations · Sales & Marketing`
+
+Where your moat is domain mastery, services are how the mastery gets delivered. An engagement at forty-five points of margin that puts a customer in the top quartile beats one at eighty-five that leaves him at the median. Watch margin as a floor and not a target.
+
+**Prevented by** · [Adoption Process](plays/customer/saas-product-adoption.md) · [Value Pinnacle Services](plays/customer/saas-value-pinnacle-services.md)
+
+### <a id="m165"></a>165 · Trading price for a close date
+
+`Sales & Marketing · Executive`
+
+Price is the only lever most sales teams are given for pulling a deal into the quarter, so that is the lever they pull. Give them delivery capacity instead. A discount teaches the buyer that waiting pays, and he remembers at renewal.
+
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md) · [Sales Compensation Plan](plays/sales-marketing/b2b-saas-sales-compensation-plan.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md)
+
+### <a id="m166"></a>166 · Letting an implementation partner price you to your own customer
+
+`Vendors · Sales & Marketing`
+
+Much of what a partner quotes alongside your software is work the customer would incur whether he built or bought. Design and change management and training. If nobody says so, the whole number attaches itself to the decision to buy your product.
+
+**Prevented by** · [Channel Partnerships](plays/sales-marketing/saas-channel-partnerships.md) · [Partner Conflict Management](plays/vendor/saas-partner-conflict-management.md)
+
+### <a id="m167"></a>167 · Counting a seasonal pause as churn
+
+`Executive · Customers`
+
+Some verticals close for the season and reopen the next one, and if that pause is logged the same way as a lost account, your churn number rises every year whether the business is healthy or not. The board, the bank, and the acquirer all price the company off that number, and none of them know it is inflated by customers who were always coming back.
+
+**Prevented by** · [Seasonal Churn Segmentation](plays/customer/saas-seasonal-churn-segmentation.md)

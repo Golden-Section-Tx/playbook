@@ -34,6 +34,7 @@ preventsMistakes:
   - 58
   - 134
   - 156
+  - 163
 ---
 Your Sales Process outlines the steps necessary to take an opportunity to close. In detail, it systematizes your sales teams' methods for prospecting, sales calls, qualifying leads, closing, etc. The sales process is an important living document in which your sales team will accumulate best practices for engaging and converting prospects.
 
@@ -137,7 +138,7 @@ In a B2B SaaS seed stage firm there are thousands of things to do each day. It c
 
 ---
 
-**Prevents** · [#5 Delivering pricing before value](../../MISTAKES.md#m005) · [#6 Demoing early in the sales process](../../MISTAKES.md#m006) · [#7 Not qualifying sales opportunities](../../MISTAKES.md#m007) · [#52 Fuzzy requirements](../../MISTAKES.md#m052) · [#58 Not doing research on a customer before meeting](../../MISTAKES.md#m058) · [#134 Happy ears with customers](../../MISTAKES.md#m134) · [#156 Too Many Conversations, Not Enough Closures](../../MISTAKES.md#m156)
+**Prevents** · [#5 Delivering pricing before value](../../MISTAKES.md#m005) · [#6 Demoing early in the sales process](../../MISTAKES.md#m006) · [#7 Not qualifying sales opportunities](../../MISTAKES.md#m007) · [#52 Fuzzy requirements](../../MISTAKES.md#m052) · [#58 Not doing research on a customer before meeting](../../MISTAKES.md#m058) · [#134 Happy ears with customers](../../MISTAKES.md#m134) · [#156 Too Many Conversations, Not Enough Closures](../../MISTAKES.md#m156) · [#163 Treating a champion's enthusiasm as the company's commitment](../../MISTAKES.md#m163)
 
 **Category** · [Sales & Marketing](../README.md) · **Effort** · 34 SP initial, 13 SP ongoing · **Cadence** · Quarterly
 

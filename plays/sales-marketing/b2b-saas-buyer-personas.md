@@ -33,6 +33,7 @@ preventsMistakes:
   - 58
   - 111
   - 133
+  - 163
 ---
 A common phrase is that a sales team doesn't sell to a company but to a person. So, we want to add one more perspective to inform your go-to-market strategy by creating an archetypal buyer persona. A buyer persona will paint a picture for your teams to keep in mind as they sell, market and develop your product. A persona adds flesh to specific key buyers in your segments -- who they are, their challenges, needs, motivations and goals -- so that your company can be best prepared to serve those key buyers.
 
@@ -144,7 +145,7 @@ http://cdn2.hubspot.net/hub/366266/file-1826191113-pdf/eBooks/Buyer-Insights-eBo
 
 ---
 
-**Prevents** · [#11 Building without customer knowledge](../../MISTAKES.md#m011) · [#58 Not doing research on a customer before meeting](../../MISTAKES.md#m058) · [#111 Developing product in a vacuum](../../MISTAKES.md#m111) · [#133 Switching target customers too quickly](../../MISTAKES.md#m133)
+**Prevents** · [#11 Building without customer knowledge](../../MISTAKES.md#m011) · [#58 Not doing research on a customer before meeting](../../MISTAKES.md#m058) · [#111 Developing product in a vacuum](../../MISTAKES.md#m111) · [#133 Switching target customers too quickly](../../MISTAKES.md#m133) · [#163 Treating a champion's enthusiasm as the company's commitment](../../MISTAKES.md#m163)
 
 **Templates** · [Buyer Persona Template](../../templates/2.12-buyer-persona-template.xlsx)
 

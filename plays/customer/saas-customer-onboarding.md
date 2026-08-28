@@ -60,22 +60,16 @@ Process Generation.
     - *Hand-off to Account Manager.* Once the adoption metric has been met, what needs to be done to pass the account back to the Account Manager?
 3. *Concluding Event*: What is the final outcome of the process that signals onboarding is complete? We don't want any processes to be left in limbo.
 4. *Timeframe.* How long should this process take? It is important to keep a steady cadence to these processes to maintain momentum. Remember that even small onboarding processes should be mapped (1 hour onboarding meetings) and tracked.
-
-1. *Key Performance Indicators (KPIs):* What metrics can be tracked to indicate the efficiency and effectiveness of this process? You don't want this process to be heavier than necessary, but you also don't want to short-change it.
-
-Post-onboarding surveys, account manager surveys, and renewal/churn data can all inform the efficacy of this process.
-
-1. **Codification.** Golden Section recommends creating a checklist from the above processes for your SE to follow. Each task must be completed before onboarding is complete and the account can be handed back to an account manager.
-
-Specific Notes on the Training Process.
-
-Preparation is key. The first step to successful onboarding is a clear understanding of a customer's needs and expectations.
-
-1. Create an Internal Training Cheat Sheet. Using the customer segments you have previously developed (ref Play: Customer Segmentation), create an Internal Training Cheat Sheet for each segment. Questions to answer on the Cheat Sheet:
+5. *Key Performance Indicators (KPIs):* What metrics can be tracked to indicate the efficiency and effectiveness of this process? You don't want this process to be heavier than necessary, but you also don't want to short-change it.
+	1. Post-onboarding surveys, account manager surveys, and renewal/churn data can all inform the efficacy of this process.
+6. **Codification.** Golden Section recommends creating a checklist from the above processes for your SE to follow. Each task must be completed before onboarding is complete and the account can be handed back to an account manager.
+	1. Specific Notes on the Training Process.
+	2. Preparation is key. The first step to successful onboarding is a clear understanding of a customer's needs and expectations.
+7. Create an Internal Training Cheat Sheet. Using the customer segments you have previously developed (ref Play: Customer Segmentation), create an Internal Training Cheat Sheet for each segment. Questions to answer on the Cheat Sheet:
     - *What is the specific value proposition to this segment?* Justify why your product is a good fit for this segment and what solution you are providing to what need.
     - *How do our most retained customers in this segment use the product?* Analyze the use case for your most satisfied customers to explore how to replicate that success.
     - *What are the MINIMUM features of your product that will get a customer from this segment to realize the value proposition (the promised land)?* One key to onboarding is to make it as simple as possible for your customer to feel like an adept user of your product. Do not overwhelm them with irrelevant information or features that don't speak to their minimum needs. Reduce the noise and help them focus on realizing their minimum value proposition during this time.
-2. Create Training Guides. Using the cheat sheet you just created, develop Training Guides for each segment to teach a user how to use the identified set of minimum features.
+8. Create Training Guides. Using the cheat sheet you just created, develop Training Guides for each segment to teach a user how to use the identified set of minimum features.
     - A Training Guide *must* lead a customer to immediate, relevant, easy action on your platform.
     - A Training Guide can take many forms, including training checklists, interactive onscreen guidance, automated process walkthroughs, and onboarding videos.
     - Golden Section recommends Training Checklists as an effective tool to give to customers during this process. A training checklist breaks down the larger workflow into meaningful, smaller steps. The outline form of a checklist gives a customer context for what they are doing and why, sets expectations for what he should be able to do by the end, and also anchors a customer's memory so the workflow becomes routine.

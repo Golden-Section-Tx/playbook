@@ -1,6 +1,6 @@
 # The Golden Section Playbook — complete corpus
 
-63 plays and 161 mistakes for building a B2B vertical SaaS company,
+69 plays and 167 mistakes for building a B2B vertical SaaS company,
 in one file.
 
 **Source:** https://github.com/golden-section-tx/playbook
@@ -45,7 +45,7 @@ There are no ‘deals’ where people are concerned. Don’t hire cheap and expe
 
 Customers pay for value. Don’t let them bully you on terms.
 
-Prevented by: Pricing Matrix, Contract Playbook.
+Prevented by: Pricing Matrix, Contract Playbook, Implementation Window Scarcity.
 
 ## Mistake 5 · Delivering pricing before value
 
@@ -171,7 +171,7 @@ Prevented by: KPI Dashboard Creation, Board of Directors.
 
 Pricing should ALWAYS be informed by customer value. Pricing in a vacuum is either too much or too little or too confusing...
 
-Prevented by: Value Proposition & Customer ROI, Pricing Matrix.
+Prevented by: Value Proposition & Customer ROI, Pricing Matrix, Implementation Window Scarcity, AI Pricing Model Selection.
 
 ## Mistake 21 · Founder playing ‘lawyer’ on contracts
 
@@ -447,7 +447,7 @@ Prevented by: Board of Directors.
 
 Channel partners are enticing. But selling your product is your responsibility. Channels are distribution mechanisms they aren't distribution itself.
 
-Prevented by: Channel Partnerships.
+Prevented by: Channel Partnerships, Partner Conflict Management.
 
 ## Mistake 56 · Betting customers will come if you build it
 
@@ -463,7 +463,7 @@ Prevented by: Go-to-Market Strategy, Value Proposition & Customer ROI.
 
 How do you know where you are if you don't have a map? Benchmark your company and keep track. The harder to measure, the more valuable the practice.
 
-Prevented by: KPI Dashboard Creation, SaaS Metrics.
+Prevented by: KPI Dashboard Creation, SaaS Metrics, Seasonal Churn Segmentation.
 
 ## Mistake 58 · Not doing research on a customer before meeting
 
@@ -549,7 +549,7 @@ Prevented by: Value Proposition & Customer ROI, Sales Deck.
 
 Changing is painful, it's a cost beyond the price of your product. The value you provide needs to overcome switching costs as well as your price point.
 
-Prevented by: Value Proposition & Customer ROI, Adoption Process.
+Prevented by: Value Proposition & Customer ROI, Adoption Process, Value Pinnacle Services.
 
 ## Mistake 69 · Underestimating the effort of fundraising
 
@@ -603,7 +603,7 @@ Prevented by: Budget Creation, Unit Economics.
 
 It's not done until it's done. Don't let your team socialize unsigned deals as done. At best it’s silly, at worst it hides the true state of the company and can result in devastation when funds run out.
 
-Prevented by: Pipeline Management & Review.
+Prevented by: Pipeline Management & Review, Core & Provisional Segmentation.
 
 ## Mistake 76 · Letting customers drop CYA comments in meetings
 
@@ -627,7 +627,7 @@ Prevented by: KPI & Strategic Meetings.
 
 Look for win-win. If you are being forced to do lose/win, walk away, it's not worth it. Alternatively if you see your team pushing for win/lose address that immediately.
 
-Prevented by: Sales Philosophy.
+Prevented by: Sales Philosophy, Implementation Window Scarcity.
 
 ## Mistake 79 · Giving extra-contractual concessions
 
@@ -650,6 +650,8 @@ Prevented by: Contract Playbook.
 `Executive · Operations · Sales & Marketing`
 
 There are great reasons to outsource like fractional expertise and scaling up tactical execution. Strategic oversight should never be outsourced. As you grow, you need more oversight.
+
+Prevented by: Partner Conflict Management.
 
 ## Mistake 82 · Don't let small investors overwhelm you or your team
 
@@ -695,7 +697,7 @@ Prevented by: Audited Financials, P&L Explained.
 
 Don't bluff... ever. It never works.
 
-Prevented by: Sales Philosophy.
+Prevented by: Sales Philosophy, Implementation Window Scarcity.
 
 ## Mistake 88 · No customer contract register
 
@@ -735,7 +737,7 @@ Prevented by: Sales Philosophy, Account Management Process.
 
 Failure to control vendor contracts means auto-renewals, escalations etc. that you don't want.
 
-Prevented by: Vendor Contract Register, Vendor Contract Playbook.
+Prevented by: Vendor Contract Register, Vendor Contract Playbook, Partner Conflict Management.
 
 ## Mistake 93 · Ignoring a problem
 
@@ -863,7 +865,7 @@ Prevented by: Sales Org Chart, Dev Org Chart.
 
 `Executive · Customers`
 
-Prevented by: Account Management Process, Adoption Process.
+Prevented by: Account Management Process, Adoption Process, Value Pinnacle Services.
 
 ## Mistake 110 · Believing the hype of a company pitch
 
@@ -917,7 +919,7 @@ Prevented by: KPI & Strategic Meetings, Quality Management System.
 
 Investment commitments slip, customer interest wanes, potential exit conversations die... life is full of disappointments. Don't magnify them by passing expectations down the line without managing them.
 
-Prevented by: Board of Directors, Account Management Process.
+Prevented by: Board of Directors, Account Management Process, Core & Provisional Segmentation.
 
 ## Mistake 117 · Expecting too much out of software ‘automation’
 
@@ -965,7 +967,7 @@ Prevented by: Contract Playbook.
 
 Sometimes customers need to go. Customer expectations can mess up a product when they aren't aligned. Holding onto customers at all costs will result in disaster.
 
-Prevented by: Account Management Process, Churn Identification Process.
+Prevented by: Account Management Process, Churn Identification Process, Core & Provisional Segmentation.
 
 ## Mistake 123 · Underinvesting in employee onboarding
 
@@ -1029,7 +1031,7 @@ Prevented by: Executive Execution.
 
 Pay requires work and work requires effort. Don’t expect customers to expand without sales effort.
 
-Prevented by: Account Management Process, Adoption Process.
+Prevented by: Account Management Process, Adoption Process, Value Pinnacle Services.
 
 ## Mistake 131 · Busy work
 
@@ -1101,7 +1103,7 @@ Prevented by: Go-to-Market Strategy, Pipeline Creation.
 
 Your pricing should be inline how long your sales cycle is. The less you charge you customer, the shorter the sales cycle should be (and vice versa). Use 2 weeks for 20K ACV as a guide.
 
-Prevented by: Pricing Matrix, Sales Efficiency Ratio.
+Prevented by: Pricing Matrix, Sales Efficiency Ratio, AI Pricing Model Selection.
 
 ## Mistake 140 · Not using Golden Section’s Recruiting arm (or hiring Continuum) and spending too much time hiring
 
@@ -1274,6 +1276,54 @@ Prevented by: Cash Flow Forecast.
 Founders often trust only the deals they originate. Ignoring qualified inbound or partner-sourced opportunities can stall growth and delay access to capital, customers, or strategic leverage.
 
 Prevented by: Sales Funnel Creation, Pipeline Creation.
+
+## Mistake 162 · Blending unproven customers into the core revenue line
+
+`Executive · Customers`
+
+Some customers cannot be underwritten at signature. If their churn sits in the same revenue line as your best accounts, one blended retention number goes to your board and your bank and your acquirer, and all three price the whole book to the weakest cohort in it.
+
+Prevented by: ARR Schedule, Core & Provisional Segmentation.
+
+## Mistake 163 · Treating a champion's enthusiasm as the company's commitment
+
+`Sales & Marketing`
+
+A buying decision and a commitment to change behavior are bought from different people. Find out who above or beside your champion can stop this, and whether anyone has spoken to him, before you call it a deal.
+
+Prevented by: Buyer Persona, Enterprise Sales Process, Core & Provisional Segmentation.
+
+## Mistake 164 · Optimizing services for margin instead of customer outcomes
+
+`Operations · Sales & Marketing`
+
+Where your moat is domain mastery, services are how the mastery gets delivered. An engagement at forty-five points of margin that puts a customer in the top quartile beats one at eighty-five that leaves him at the median. Watch margin as a floor and not a target.
+
+Prevented by: Adoption Process, Value Pinnacle Services.
+
+## Mistake 165 · Trading price for a close date
+
+`Sales & Marketing · Executive`
+
+Price is the only lever most sales teams are given for pulling a deal into the quarter, so that is the lever they pull. Give them delivery capacity instead. A discount teaches the buyer that waiting pays, and he remembers at renewal.
+
+Prevented by: Sales Philosophy, Pricing Matrix, Sales Compensation Plan, Implementation Window Scarcity.
+
+## Mistake 166 · Letting an implementation partner price you to your own customer
+
+`Vendors · Sales & Marketing`
+
+Much of what a partner quotes alongside your software is work the customer would incur whether he built or bought. Design and change management and training. If nobody says so, the whole number attaches itself to the decision to buy your product.
+
+Prevented by: Channel Partnerships, Partner Conflict Management.
+
+## Mistake 167 · Counting a seasonal pause as churn
+
+`Executive · Customers`
+
+Some verticals close for the season and reopen the next one, and if that pause is logged the same way as a lost account, your churn number rises every year whether the business is healthy or not. The board, the bank, and the acquirer all price the company off that number, and none of them know it is inflated by customers who were always coming back.
+
+Prevented by: Seasonal Churn Segmentation.
 
 ---
 
@@ -1797,7 +1847,7 @@ We will first go through plays that will clarify the appropriate market and cust
 
 **Summary:** Ground your go-to-market strategy in a process-oriented sales philosophy built on Moore's technology adoption curve—so you approach the right prospects with the right product at the right time.
 
-**Prevents mistakes:** #6 Demoing early in the sales process; #10 Selling phantom product; #13 Hiring sales for rolodex; #78 Ending up in win/lose ever; #87 Bluffing; #91 Engaging in brinkmanship; #125 Getting starstruck by big name companies.; #144 Waiting for the perfect product before selling; #151 Expecting sales hires to sell like founders
+**Prevents mistakes:** #6 Demoing early in the sales process; #10 Selling phantom product; #13 Hiring sales for rolodex; #78 Ending up in win/lose ever; #87 Bluffing; #91 Engaging in brinkmanship; #125 Getting starstruck by big name companies.; #144 Waiting for the perfect product before selling; #151 Expecting sales hires to sell like founders; #165 Trading price for a close date
 
 #### Background
 
@@ -1982,7 +2032,7 @@ The power of this thought exercise, though, is considering the area below the li
 
 **Summary:** Create detailed buyer personas for each customer segment—mapping decision-makers, their pain points, success metrics, and buying criteria to drive focused sales and marketing.
 
-**Prevents mistakes:** #11 Building without customer knowledge; #58 Not doing research on a customer before meeting; #111 Developing product in a vacuum; #133 Switching target customers too quickly
+**Prevents mistakes:** #11 Building without customer knowledge; #58 Not doing research on a customer before meeting; #111 Developing product in a vacuum; #133 Switching target customers too quickly; #163 Treating a champion's enthusiasm as the company's commitment
 
 **Templates:** Buyer Persona Template
 
@@ -2205,7 +2255,7 @@ Generally, it is crucial to be very rigorous and diligent in your approach to sa
 
 **Summary:** Build a repeatable enterprise sales process that clearly defines stages, qualification criteria, and resource allocation—enabling predictable forecasting and rapid new hire ramp-up.
 
-**Prevents mistakes:** #5 Delivering pricing before value; #6 Demoing early in the sales process; #7 Not qualifying sales opportunities; #52 Fuzzy requirements; #58 Not doing research on a customer before meeting; #134 Happy ears with customers; #156 Too Many Conversations, Not Enough Closures
+**Prevents mistakes:** #5 Delivering pricing before value; #6 Demoing early in the sales process; #7 Not qualifying sales opportunities; #52 Fuzzy requirements; #58 Not doing research on a customer before meeting; #134 Happy ears with customers; #156 Too Many Conversations, Not Enough Closures; #163 Treating a champion's enthusiasm as the company's commitment
 
 Your Sales Process outlines the steps necessary to take an opportunity to close. In detail, it systematizes your sales teams' methods for prospecting, sales calls, qualifying leads, closing, etc. The sales process is an important living document in which your sales team will accumulate best practices for engaging and converting prospects.
 
@@ -2351,7 +2401,7 @@ Finally, incorporate key language you created in your sales deck to use througho
 
 **Summary:** Identify and manage channel partners (resellers, integration partners, service providers) that can accelerate customer acquisition and expand your market reach.
 
-**Prevents mistakes:** #55 Betting a channel partner will sell for you
+**Prevents mistakes:** #55 Betting a channel partner will sell for you; #166 Letting an implementation partner price you to your own customer
 
 **Templates:** Channel Partnerships Template
 
@@ -2539,7 +2589,7 @@ Pre-determined, regular questions allow your sales rep to come to the meeting pr
 
 **Summary:** Design a value-based pricing matrix that captures the ROI you deliver to customers while remaining simple enough to reduce sales friction and support billing.
 
-**Prevents mistakes:** #4 Letting customers dictate the terms; #20 Hip-shot product pricing; #139 Disjointed pricing with sales cycle
+**Prevents mistakes:** #4 Letting customers dictate the terms; #20 Hip-shot product pricing; #139 Disjointed pricing with sales cycle; #165 Trading price for a close date
 
 **Templates:** Pricing Matrix Template
 
@@ -2603,7 +2653,7 @@ How to price your product:
 
 **Summary:** Build a compensation plan that aligns incentives with company strategy—balancing base salary for stability with commission/bonus structure that drives right behaviors.
 
-**Prevents mistakes:** #34 Not aligning interests; #35 Hasty commission structure
+**Prevents mistakes:** #34 Not aligning interests; #35 Hasty commission structure; #165 Trading price for a close date
 
 **Templates:** Sales Compensation Plan Template
 
@@ -2896,6 +2946,77 @@ One caveat, however, is that the CAC payback usually just considers gross margin
 3. Distribute meeting minutes, assign responsibilities for strategies, and execute
 4. Refine and repeat
 
+### How to Close a Deal on Time Without Discounting
+
+**Play:** Implementation Window Scarcity · **Owners:** Founder, Sales Lead · **Cadence:** Continuous · **Stage:** Early Traction · **Effort:** 5 SP initial, 3 SP ongoing
+
+**Summary:** Replace discounting as the lever your sales team uses to pull a deal into the quarter, using a real implementation capacity calendar so that scarcity moves the date and price holds.
+
+**Prevents mistakes:** #4 Letting customers dictate the terms; #20 Hip-shot product pricing; #78 Ending up in win/lose ever; #87 Bluffing; #165 Trading price for a close date
+
+One customer's old system is going dark. He has a date he cannot move and he needs you more than you need him. Another wanted this two years ago, lost a year to an internal group building a dashboard that missed the mark, and now has it in next year's budget with no urgency at all.
+
+Put a close date on both and watch what happens. Your salesman concedes price on the second one, because price is the only lever you have given him.
+
+So take that lever away and give him a different one. Implementation windows fill up. Every software company with a services layer knows it, and so does the customer. And scarcity moves a date. A discount teaches the buyer that waiting pays, and he will remember at renewal.
+
+> **The goal:** A monthly implementation capacity calendar your sales team sells against, and a contract that raises its own price without a negotiation.
+
+#### Steps
+
+1. Build the capacity calendar. Delivery slots by month, based on your actual bench and maintained by whoever owns implementation. This has to be true first.
+2. Give the sales team the script and make them say it out loud in a review. "If you don't start now we are talking about the third quarter of next year, which is fine. If this is a budget item for next year, I need paper by the fifteenth or I can't hold the slot for you." Note that this only works if the customer has already been convinced of value and is in 'closing' process.
+3. Take the quarter-end rescue off the table. If your deal owner carries a number that a discount can save, you have priced the deal for him. Move the incentive to booked revenue at rack rate, and leave it there.
+4. Walk away from the anchor. A prospect measuring you against the system he already owns is telling you he has no problem. Tell him to call when he is serious, and mention that the price will be higher then.
+5. Review discount from rack at every pipeline review, deal by deal and named, not as an average for the quarter. Watch two things over time. The spread between rack and realized price, and how many deals closed against a stated window deadline. The second number is what tells you the scarcity is real rather than theater.
+
+#### Troubleshooting
+
+*My team says the window is not credible.* It probably is not, because you do not have a capacity calendar. Build it before you ask them to sell against it.
+
+*I am walking away from more revenue than I am comfortable with.* Count how much of it was going to churn in year two. That revenue is already priced into your multiple.
+
+*My biggest prospect has a procurement process that ignores my calendar.* Some do. Hold the price and give the slot away to the next deal in line, then tell procurement which quarter opened up.
+
+### How to Choose an AI Pricing Model Without Breaking Your Existing Book
+
+**Play:** AI Pricing Model Selection · **Owners:** Founder, CFO, Product Manager · **Cadence:** As Needed · **Stage:** Growth · **Effort:** 8 SP initial, 3 SP ongoing
+
+**Summary:** Match your AI feature's pricing model to what the customer can already see as valuable, and sequence any change to your existing base as deliberately as the pricing decision itself.
+
+**Prevents mistakes:** #20 Hip-shot product pricing; #139 Disjointed pricing with sales cycle
+
+Every AI feature you ship comes with a pricing decision attached, and it is tempting to treat it as an afterthought: bolt on a token meter, or fold it into the tier you already sell, and move on. The companies that get this right treat the pricing model as a product decision, made before the sales team starts pitching it, not backed into after the first renewal conversation goes sideways.
+
+The mistake is rarely picking the wrong model. It is picking a defensible model and then converting your entire existing base to it in one move, without sequencing the change or telling anyone it was coming. A pricing model that is right for the long run can still read as a bad quarter if the transition into it was not managed as its own decision.
+
+> **The goal:** Choose the AI pricing model that matches what your customer can already see as valuable, and roll it out in a sequence that does not spook your existing base.
+
+#### Background
+
+AI pricing sorts into five broad models, and none of them is universally right:
+
+1. *Outcome pricing.* You charge for a result the customer can already name: a resolved ticket, a completed task, a basis point of margin. Most defensible when you can point to a specific number, and hardest to execute honestly, because you have to draw a straight line from your price to that number.
+2. *Bundled pricing.* The AI feature ships inside a tier or edition you already sell, with no new line item. Lowest risk and lowest visibility: you absorb the inference cost as overhead and cannot yet show a board a separate AI revenue line.
+3. *Usage or consumption pricing.* You charge per unit of something the customer consumes. This only survives contact with the customer when more usage is visibly more value to them. Where the metered unit is a backend cost like tokens or API calls that the customer cannot independently value, it reads as an unpredictable tax, not a fair exchange.
+4. *Hybrid subscription plus credits.* A base subscription with a consumption top-up. Honest about your cost structure, but it hands the job of translating "credits" into a felt outcome to your sales and success teams. Treat it as a transition state, not a destination.
+5. *Absorb the cost, don't reprice.* You leave pricing untouched and invest in cutting your own inference cost instead. Carries none of the sales-cycle risk of a pricing change, at the cost of a margin drag until the unit economics catch up.
+
+#### Steps
+
+1. Name the outcome your AI feature produces, in the customer's own words, before you touch a price. If you cannot say it in one sentence a customer would recognize, you do not yet have a candidate for outcome pricing, so bundle it into an existing tier until you do.
+2. If you are considering usage-based pricing, ask whether the metered unit is something the customer wants more of or something they are forced to tolerate. A meter on their outcome is durable; a meter on your cost is not.
+3. Decide whether you can carry the inference cost as a margin drag long enough to prove the feature, or whether it needs to be passed through now. If you have the runway, absorbing the cost buys you time and removes the pricing decision from the sales conversation entirely.
+4. Model the downside of any usage-based line as carefully as the upside: what happens to revenue if your most sophisticated customer becomes more efficient and consumes less.
+5. If the decision converts any part of your existing seat base rather than adding a new line for new logos, sequence it: launch it as a new-logo motion first, a renewal-time upsell second, never as a mid-contract change nobody saw coming.
+6. Write down, before you launch, what you will tell customers, your board, or your investors about why growth may look different for a quarter or two because of this choice. A deliberate pricing decision should never be allowed to read as a demand problem after the fact.
+7. Review the model against outcomes every quarter with the Founder and CFO: is the metered unit still something customers value, is churn or downgrade activity concentrated in the accounts you converted, and does the model still match the stage the product is at.
+
+#### Troubleshooting
+
+- *My board wants to see an AI revenue line, so I have to meter something.* A bundled feature that drives tier upgrades and retention is an AI revenue story without a separate SKU: the upgrade rate and the retention lift are the numbers to bring, not a token count.
+- *We already sold AI on seats, so can we still move to outcome pricing?* Yes, but not by converting everyone at once. Treat the existing base as its own rollout, sequenced behind new business, with the growth-rate conversation had proactively rather than discovered at the next board update.
+
 ## Customer
 
 ### How to Build an Account Management Process for B2B SaaS
@@ -2938,7 +3059,7 @@ The second stage, adoption, is similarly important. Its success is a function of
 
 The third stage, renewal, is administrative in nature. If the prior two stages are done well, the renewal stage will feel automatic. In fact, this stage can become so smooth that some companies are tempted to overlook it. This is a mistake. This low drama, but crucial step will ensure that the hard work of the first two stages is realized into a renewal. SaaS company multiples are heavily impacted by the customer churn metric. Renewal is the process whereby customers are 'anti-churned.' Of course, its the work of the sales team, the onboarding process, and the adoption process that ensure the customer will not want to churn at renewal.
 
-The fourth and final stage is offboarding. It may seem strange to focus on that as an account management step. The reality is that no process is perfect. Motivated sales people will push deals through qualification, customers will outgrow solutions, management will take a flyer on a new market\... things happen. If your company can no longer get that customer to the promised land or if a better promised land emerges for that customer (you get outcompeted), having a well designed offboarding process is crucial. Without one, each customer exit is a drama laced, self-induced dumpster-fire. You don't want to keep a customer that wants to go.
+The fourth and final stage is offboarding. As we established, the reality is that no process is perfect. Motivated sales people will push deals through qualification, customers will outgrow solutions, management will take a flyer on a new market\... things happen. If your company can no longer get that customer to the promised land or if a better promised land emerges for that customer (you get outcompeted), having a well designed offboarding process is crucial. Without one, each customer exit is a drama laced, self-induced dumpster-fire. You don't want to keep a customer that wants to go.
 
 #### Steps
 
@@ -2987,22 +3108,16 @@ Process Generation.
     - *Hand-off to Account Manager.* Once the adoption metric has been met, what needs to be done to pass the account back to the Account Manager?
 3. *Concluding Event*: What is the final outcome of the process that signals onboarding is complete? We don't want any processes to be left in limbo.
 4. *Timeframe.* How long should this process take? It is important to keep a steady cadence to these processes to maintain momentum. Remember that even small onboarding processes should be mapped (1 hour onboarding meetings) and tracked.
-
-1. *Key Performance Indicators (KPIs):* What metrics can be tracked to indicate the efficiency and effectiveness of this process? You don't want this process to be heavier than necessary, but you also don't want to short-change it.
-
-Post-onboarding surveys, account manager surveys, and renewal/churn data can all inform the efficacy of this process.
-
-1. **Codification.** Golden Section recommends creating a checklist from the above processes for your SE to follow. Each task must be completed before onboarding is complete and the account can be handed back to an account manager.
-
-Specific Notes on the Training Process.
-
-Preparation is key. The first step to successful onboarding is a clear understanding of a customer's needs and expectations.
-
-1. Create an Internal Training Cheat Sheet. Using the customer segments you have previously developed (ref Play: Customer Segmentation), create an Internal Training Cheat Sheet for each segment. Questions to answer on the Cheat Sheet:
+5. *Key Performance Indicators (KPIs):* What metrics can be tracked to indicate the efficiency and effectiveness of this process? You don't want this process to be heavier than necessary, but you also don't want to short-change it.
+	1. Post-onboarding surveys, account manager surveys, and renewal/churn data can all inform the efficacy of this process.
+6. **Codification.** Golden Section recommends creating a checklist from the above processes for your SE to follow. Each task must be completed before onboarding is complete and the account can be handed back to an account manager.
+	1. Specific Notes on the Training Process.
+	2. Preparation is key. The first step to successful onboarding is a clear understanding of a customer's needs and expectations.
+7. Create an Internal Training Cheat Sheet. Using the customer segments you have previously developed (ref Play: Customer Segmentation), create an Internal Training Cheat Sheet for each segment. Questions to answer on the Cheat Sheet:
     - *What is the specific value proposition to this segment?* Justify why your product is a good fit for this segment and what solution you are providing to what need.
     - *How do our most retained customers in this segment use the product?* Analyze the use case for your most satisfied customers to explore how to replicate that success.
     - *What are the MINIMUM features of your product that will get a customer from this segment to realize the value proposition (the promised land)?* One key to onboarding is to make it as simple as possible for your customer to feel like an adept user of your product. Do not overwhelm them with irrelevant information or features that don't speak to their minimum needs. Reduce the noise and help them focus on realizing their minimum value proposition during this time.
-2. Create Training Guides. Using the cheat sheet you just created, develop Training Guides for each segment to teach a user how to use the identified set of minimum features.
+8. Create Training Guides. Using the cheat sheet you just created, develop Training Guides for each segment to teach a user how to use the identified set of minimum features.
     - A Training Guide *must* lead a customer to immediate, relevant, easy action on your platform.
     - A Training Guide can take many forms, including training checklists, interactive onscreen guidance, automated process walkthroughs, and onboarding videos.
     - Golden Section recommends Training Checklists as an effective tool to give to customers during this process. A training checklist breaks down the larger workflow into meaningful, smaller steps. The outline form of a checklist gives a customer context for what they are doing and why, sets expectations for what he should be able to do by the end, and also anchors a customer's memory so the workflow becomes routine.
@@ -3023,7 +3138,7 @@ Unless the modification is urgent, don't rush iterations. Allow enough time for 
 
 **Summary:** Drive deeper product adoption after initial onboarding to increase customer feature utilization, reduce churn, and unlock expansion opportunities.
 
-**Prevents mistakes:** #68 Not accounting for the pain of change in customer behavior; #109 Expecting customers to expand without a pitch; #130 Expecting a customer to expand without selling
+**Prevents mistakes:** #68 Not accounting for the pain of change in customer behavior; #109 Expecting customers to expand without a pitch; #130 Expecting a customer to expand without selling; #164 Optimizing services for margin instead of customer outcomes
 
 **Templates:** Adoption Process Template
 
@@ -3239,7 +3354,7 @@ The A/R process you first set can always be improved. Over time, use the monthly
 
 **Summary:** Create an ARR schedule that tracks all customer contracts by cohort, predicts future revenue, and identifies at-risk accounts.
 
-**Prevents mistakes:** #85 Ignoring rev-rec
+**Prevents mistakes:** #85 Ignoring rev-rec; #162 Blending unproven customers into the core revenue line
 
 **Templates:** ARR Schedule Template
 
@@ -3312,7 +3427,6 @@ To maximize the impact of a strong contract on your company's growth and value, 
 
 1. Having different versions of contracts, especially when they differ in critical ways, is a value killer at your next round of funding. Potential investors or buyers are fundamentally buying your contracts, not your product, and so will want specific terms in your contracts. If there are differences between their needs and the existing contract terms, investors may significantly discount your value.
 2. It is your goal to create a scalable, efficient sales process. Streamlining the contract process as much as possible prevents lag on your part when the time comes for contract negotiation. You will have a contract template and a set process for term negotiations, reducing the need for executive or outside legal input. Spending less time in contract negotiation prevents stalls in your pipeline. You will also have clear boundaries for what terms are unacceptable for your company and can walk away from prospective deals more quickly if mutually agreeable terms can't be found.
-
 3. A contract playbook aligns all players (executive team, sales team, legal counsel). This can be particularly helpful for the sales team; it will save time for them to know upfront what terms are acceptable to your company and which ones will kill a deal so they can negotiate with a prospect more efficiently.
 4. Compiling a contract playbook is a financial investment. Even though you will need to pay legal fees to get assistance creating it, having a contract playbook will likely save your company money over time. Many decisions and scenarios will be considered at once in a more thoughtful and efficient approach so that you don't need to engage your attorney for future one-off questions as often.
 
@@ -3423,6 +3537,127 @@ One important prerequisite to late payment penalties: your company must have in 
 #### IDEAL STANDARD LANGUAGE
 
 1. Work with your legal counsel to develop Ideal Standard Language for this term.
+
+### How to Separate Core Customers From Provisional Ones
+
+**Play:** Core & Provisional Segmentation · **Owners:** Founder, CFO, Sales Lead · **Cadence:** Quarterly · **Stage:** Early Traction · **Effort:** 13 SP initial, 5 SP ongoing
+
+**Summary:** Route customers you cannot underwrite at signature into their own contract type and their own revenue line, so churn from unproven accounts never contaminates the retention number your valuation rests on.
+
+**Prevents mistakes:** #75 Counting deals as won before docs are signed; #116 Not managing expectations; #122 Not firing a customer; #162 Blending unproven customers into the core revenue line; #163 Treating a champion's enthusiasm as the company's commitment
+
+A professional services firm wanted it badly. Their chief executive had been asked by his largest customer why nothing anywhere tracked the twenty-some projects the two companies were running together, and he came back from that lunch wanting a system. The vendor moved heaven and earth to stand it up before the new year. The first task was simple. Every account owner picks five customers and writes a plan. Nobody did it, and nobody made them, and two years later the logo churned.
+
+The churn was not the damage. And some churn is the honest price of a market still forming. The damage was that one blended retention number went to the board and the bank and eventually to an acquirer, and each of them priced the whole book to the weakest cohort inside it.
+
+You cannot underwrite every customer at signature. Even the best qualification processes miss or, worse yet, reject what would have been a great long term customer. Two prospects present the same way, and one has an organization that will do the work while the other has a champion pushing a noodle uphill against a parent company that was never going to allow it. Sometimes the party who decides is not at the customer at all. An overseas owner, or a head office, or an acquirer who arrives in year two. You will not know for twelve to twenty-four months.
+
+But that is an argument for changing your accounting, not for turning the customer away. Take him. Keep him out of the core revenue line until he earns his way in.
+
+> **The goal:** Report three numbers. What the core book retains, what the provisional book is worth, and how often provisional becomes core.
+
+#### Background
+
+This only works if three things move together. Label the account without changing the paper and the accounting and you have relabeled a risk, nothing more.
+
+1. Services. A paid engagement, before any subscription, that finds out whether the customer is committed to the value. This can help drive internal business case for the product as well.
+2. Contract. Shorter term, priced to behave like services, with a promotion decision at the end and no roadmap commitments of any kind.
+3. Accounting. A separate general ledger revenue line from the first dollar, excluded from ARR and from gross and net retention.
+
+Founders skip the third and it carries all the weight at exit. A revenue line built at inception is evidence of discipline. The same line created six months before a process is evidence of nothing.
+
+#### Steps
+
+1. Write three to five core admission tests for your vertical. Each one tests organizational commitment instead of enthusiasm. This part is classic deal qualification, but geared specifically toward customer commitment. It is mapping the internal power dynamics and politics of the customer. Most verticals need some version of these:
+    - Does the buying team carry internal authority, or only influence?
+    - Is there a forcing event? A vendor sunset or a platform migration or a launch date or a competitor doing something.
+    - Is there a named executive who has committed to enforce a change in behavior, not merely endorse it?
+    - Can anyone above or beside the buyer overrule this, and has anyone spoken to that person?
+2. Route on the answers, not on the enthusiasm. Fail any test and the account is provisional. This routes the account. It does not reject it, and your sales lead needs to hear it that way or he will stop reporting honestly.
+3. Sell the provisional account a paid services engagement before any subscription. Paid, because payment is itself the test. A free pilot teaches the customer that the value is free. In the case above the answer would have arrived in eight weeks instead of two years.
+4. Write different paper. Shorter initial term, a promotion decision at the end, and pricing that behaves like services rather than subscription. Put the hard sentence in writing while you are at it: this does not work at the scale you are proposing, and here is what it has to become.
+5. Open the separate revenue line with your controller before the first invoice. Out of ARR and out of gross retention and out of net retention.
+6. Promote on evidence. The admission tests now pass on facts rather than intent, the account has reached critical mass inside the customer rather than a sliver of it, and a renewal has closed at or above the original number. Promotion is a dated event that moves the revenue line and goes in the board minutes.
+7. Review the three numbers every quarter with your board — core net retention, provisional book size, and provisional-to-core conversion rate. Demote where the evidence has gone the other way. Conversion rate is the number that tells you whether your qualification is improving.
+
+#### Troubleshooting
+
+*My sales lead is routing every hard conversation into the provisional bucket.* Your qualification discipline has moved into the accounting instead of the sales process. Cap provisional as a share of new logos and review each routing decision at the board.
+
+*Nobody has been promoted in two cycles.* The bucket is working correctly and your ideal customer profile is wrong. Go back to Customer Segmentation.
+
+*My customer found out he is in a bucket.* You named it badly. This is an internal designation and there is no version of that conversation that helps him.
+
+### How to Sell Services That Take Customers to the Top of Their Field
+
+**Play:** Value Pinnacle Services · **Owners:** Founder, CS Lead · **Cadence:** Annual · **Stage:** Growth · **Effort:** 21 SP initial, 13 SP ongoing
+
+**Summary:** Build a packaged services layer that measurably moves customers up a published maturity rubric, and judge it on outcomes and repeatability rather than on gross margin, where what differentiates your product is what your team knows about the vertical.
+
+**Prevents mistakes:** #68 Not accounting for the pain of change in customer behavior; #109 Expecting customers to expand without a pitch; #130 Expecting a customer to expand without selling; #164 Optimizing services for margin instead of customer outcomes
+
+A services lead put a single page in front of two customers. Three columns. What you do yourself day to day, what we do with you monthly, what we do together quarterly, with an asterisk on every line that costs money. Both customers came back and asked for three statements of work. Before that page existed, the same two had spent a year pulling her team through unpaid enhancement requests. Nothing about the product had changed. But the customer could now see what excellence looked like and what it cost.
+
+Read mistake 155 before running this play. Services replacing product is a real failure and this play does not license it. What this play addresses is the opposite error, which is starving the services function in a company whose whole moat is what its people know.
+
+If software gets cheap to build, three things still hold value. A network effect and integrated hardware and domain mastery. Most vertical companies have only the third. When that is your moat, the features are the vessel, and what you are selling is a customer arriving at the top of his own field.
+
+Two consequences follow and they arent necessarily intuitive. Services are where the mastery gets delivered, and they are the one thing an internal IT group cannot copy. In every build-versus-buy fight the software argument is contestable and the domain argument is not. And you optimize services for the outcome instead of the margin. A customer delivered to top-quartile performance renews forever, expands into the division next door, and sets the price ceiling for everyone behind him. An engagement at twenty-five points of margin that produces that is worth more than one at fifty-five that leaves him at the median. Margin is a floor to watch, not a number to maximize.
+
+> **The goal:** A packaged services catalog tied to a published maturity rubric, sold many times over rather than negotiated one deal at a time.
+
+#### Steps
+
+1. Publish what excellence means in your vertical. Five or six dimensions, scored, with named levels. Where the trade association charges for its assessment, give yours away. The data set is worth more than the fee.
+2. Assess the whole base and tell each customer where he ranks. Relative standing is the most reliable services trigger there is, and your base becomes a benchmark nobody else has.
+3. Build one package against each rubric dimension. Small repeatable units at a consistent price, sold many times and many times over. Never the large bespoke transformation sold rarely, because that engagement ends and leaves you with nothing to sell next.
+4. Put the catalog on one page and show it at kickoff. State plainly what the customer gets, what he must do himself, what is optional, and what costs extra. Showing it early is the whole trick; showing it during the first argument about scope reads as a bill.
+5. Keep the services number off the software sale. A subscription price sitting next to a services price of similar size hands the internal IT group everything it needs. Lead with speed to stand-up. Two working sessions and a configuration map, not a two-hundred-thousand-dollar requirements catalog. Then separate out the work the customer incurs either way, which is design and change management and training. He pays for that whether he builds or buys, and your implementation partner needs to say so too.
+6. Hire the bench from the practitioner base. People who did the job inside a customer organization know how to talk to a senior vice president, because that was their day job, and they arrive with credibility you cannot train into a consultant. Hold yourself to one test. Would you put any member of this team in front of any customer to deliver the promise? Until the answer is yes, the moat is a person and an acquirer cannot buy it.
+7. Re-assess the base annually and split it by services engagement. Track two numbers. Median movement on the rubric, and the share of services revenue coming from packaged rather than bespoke work. The second one is what keeps a software company from waking up as a consultancy. If the engaged cohort does not outperform the rest of the base on net retention, either the services are not producing outcomes or the outcomes are not driving retention, and you should abandon the play rather than defend it.
+
+#### Troubleshooting
+
+*My customers interact with my team more than with my product.* Stop. You have crossed into mistake 155 and you are running a services business.
+
+*Every engagement gets scoped from scratch.* Your rubric is not specific enough to generate packages. Go back to step one.
+
+*Services margin has fallen below my floor.* The package is mispriced or badly scoped. Fix the package, not the outcome.
+
+### How to Stop Seasonal Pauses From Counting as Churn
+
+**Play:** Seasonal Churn Segmentation · **Owners:** Founder, CFO, CS Lead · **Cadence:** Monthly · **Stage:** Growth · **Effort:** 8 SP initial, 5 SP ongoing
+
+**Summary:** Tag every seasonal pause the moment it happens and keep it out of your churn ledger, so net revenue retention reflects who actually left instead of who will be back in the spring.
+
+**Prevents mistakes:** #57 Not benchmarking results; #167 Counting a seasonal pause as churn
+
+A tour operator books nothing in January. A holiday lighting company books nothing in July. If your product serves a seasonal industry, some share of your customers will cancel or downgrade every year on a schedule, then come back the next season and buy again. Log that the same way you log a customer who quit for good, and your churn number goes up every winter whether or not you did anything wrong.
+
+That is not a rounding error. A board prices your growth off net revenue retention. A bank prices a covenant off it. An acquirer prices the whole company off the worst-looking cohort in the book. A company that watched its own churn events climb every winter for years, then recomputed retention with seasonal pauses pulled out, found a materially stronger number than the one it had been reporting the whole time. Nobody had lied. Nobody had checked.
+
+> **The goal:** A churn ledger that tags a seasonal pause the moment it happens, separate from real churn, so your reported retention number is the true one.
+
+#### Background
+
+Two things get confused when they should not be. A seasonal pause is a customer following a calendar you already know, because you sold to that vertical on purpose. Real churn is a customer who is gone and staying gone. The two produce the same event in most billing systems, a canceled subscription, and from there they get counted the same way unless someone builds the second bucket.
+
+The fix is not to hide the pause. It is to name it, watch it, and hold it to a standard: a seasonal account has to actually come back, on schedule, or it graduates into real churn and counts against you like it should.
+
+#### Steps
+
+1. Define the season, in writing, before you tag a single account. For each customer segment that follows a calendar, write down the months it goes quiet and the month it should return. Get this from the customer's business, not from your billing data. Ask them when they close instead of inferring it from when they stopped paying.
+2. Tag the pause at cancellation, not later. When a seasonal account cancels or downgrades inside its known window, mark it "seasonal pause" in the same system that logs churn, with the expected return date attached. Every other cancellation is churn until proven otherwise.
+3. Set a grace period and a graduation rule. Give a seasonal account a fixed number of weeks past its expected return date. If it has not reactivated by then, move it out of the seasonal bucket and into real churn, dated to when the grace period expired, not to when you noticed.
+4. Recompute retention on committed revenue, not logo count. Net revenue retention should net out seasonal-pause revenue for the months an account is expected to be paused, then include it again the month it returns. A twelve-month trailing view smooths this out; a monthly view does not, and monthly is what a board asks for first.
+5. Report both numbers, every time, to the same audience. Show gross churn including seasonal pauses, and net churn with them pulled out. The gap between the two is itself worth watching. It tells you how much of your book is seasonal, and whether that share is growing.
+6. Review the ledger monthly. The CS Lead owns the seasonal tag and the graduation rule. The Founder or CFO owns the recomputed retention number that goes to the board. An account reactivating outside its expected window, early or late, is worth a look. It usually means something changed in that customer's business before they told you.
+
+#### Troubleshooting
+
+*This just sounds like a way to make the churn number look better.* It would be, if the seasonal bucket were a place accounts go to disappear. It is not. The grace period and the graduation rule mean a seasonal account that does not come back becomes real churn on a fixed date, counted in full. The two-number report is what keeps this honest: if your gross and net numbers never move relative to each other, the tag is being applied too generously.
+
+*My board wants one number, not two.* Give them the net number as the headline and the gross number as a footnote, with the seasonal share named. A board member who later finds out a third of your "growth" was seasonal accounts coming back on schedule will ask why nobody said so.
 
 ## Operations
 
@@ -4595,4 +4830,47 @@ Multi-year price locks are very valuable at keeping your costs predictable and y
 **Term: Assignment w/o Approval**
 
 As mentioned in the Customer section, when it comes time to sell your company, you are fundamentally selling your contracts, including vendor contracts. A buyer wants to know what its expenses will be upon purchase. If your vendor contracts do not have an Assignment without Approval term, then your vendors will need to approve the reassignment of the contract to the buyer. This adds uncertainty and a potential pitfall to the buying process. No matter how nice, a vendor will likely use this situation as an opportunity to increase their contract value. You don't want a vendor to be able to renegotiate their contract at the moment you have the least leverage, so include an Assignment without Approval term in your vendor contracts.
+
+### How to Manage a Services Channel Partner Who Could Rebuild Your Product
+
+**Play:** Partner Conflict Management · **Owners:** Founder, Exec Team · **Cadence:** Quarterly · **Stage:** Growth · **Effort:** 8 SP initial, 5 SP ongoing
+
+**Summary:** Model the economics that would lead a large implementation partner to build what you built, then manage the relationship with visible consequence and demonstrated arithmetic rather than with goodwill and a clause.
+
+**Prevents mistakes:** #55 Betting a channel partner will sell for you; #81 Too much reliance on outsourcing; #92 Lack of vendor contract control; #166 Letting an implementation partner price you to your own customer
+
+A vendor was told they had won a large account. They had gone through every hoop with their implementation partner leading the process. Then it evaporated, and nobody at the partner would explain why. Some months later a senior partner at that same firm, which had already committed in writing not to build a competing product, floated the idea that perhaps they should pay a royalty to copy the system.
+
+That is economics rather than character. Large consultancies run their build practices offshore. For a partner sitting on a major account, standing up something shaped like your product is a multi-million-dollar engagement he has to consciously walk past. Goodwill can't carry that relationship. And no clause in a partner agreement survives it either.
+
+What does survive it is arithmetic the partner can see, plus a consequence he has already watched you impose.
+
+> **The goal:** A written partner economics model, reviewed quarterly, that says what the partner earns by reselling you and what he earns by replacing you.
+
+#### Background
+
+The partner is not one actor. Three groups inside the firm want different things, and you are managing all three at once.
+
+1. The account partner. Paid on the size of the engagement he sells into his account, and structurally indifferent to whose software sits underneath it.
+2. The build practice. Usually offshore, measured on utilization, and always looking for the next platform to construct.
+3. The firm. Wants durable revenue in the account and hates losing a competitive process, which is the only one of the three whose interest points the same way yours does.
+
+#### Steps
+
+1. Model the partner's economics rather than his intentions. What does building your product once earn him? What does reselling yours earn him per year, across every account you are both in? If you cannot answer both numbers you cannot manage the relationship.
+2. Take the sale. You lead the process and they deliver services. No situational hand-offs, and no partner-led processes where you are briefed at the end.
+3. Never let the partner set your price to the customer. A partner quoting three hundred thousand in services next to your four hundred thousand in software has lost you a build-versus-buy fight he did not have to win.
+4. Keep at least one flagship account the partner is not in. It is your proof that you do not need them, and it is the only thing that makes exclusion credible.
+5. Make the consequence visible when it comes. One founder cut a misbehaving partner out of his flagship account entirely and told them why. It cost some ripples, because the account mattered to them. And it worked, because it was specific and other partners heard about it.
+6. Show them the number they win by behaving. For example, a mid-size customer was a fifty-thousand-dollar software deal, small enough that the partner barely noticed the attached services. The vendor stayed in the account as the connective tissue between divisions, and the partner has since sold that customer a million-dollar program-reset project that would not otherwise exist.
+7. Teach them to sell the upgrade on its merits. Some customers genuinely need a five-million-dollar custom solution, those are not your deals, and pretending otherwise costs you the partner.
+8. Review the model quarterly with your exec team. Look at partner-sourced revenue and partner-influenced losses together, and follow-on partner services per dollar of your own ARR, and the count of flagship accounts they are not in. Reading only the first number is how a founder discovers the problem two deals late.
+
+#### Troubleshooting
+
+*A deal I was told I had won died and the partner will not explain why.* You have your answer. Act on it.
+
+*The partner has asked to renegotiate into a royalty.* He has already priced the alternative. Take the conversation seriously and take the warning seriously.
+
+*I only have one partner and cannot afford to lose them.* Then you do not have a partner strategy, you have a dependency. Run Channel Partnerships first and come back to this play when there is a second name.
 

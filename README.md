@@ -10,10 +10,14 @@ every mistake we have seen, and the play that prevents each one.
 It is the same material we use with our own portfolio. It is open because a
 mistake nobody warned you about is a bad reason to lose a company.
 
+Dougal Cameron's [letter to founders](LETTER-TO-FOUNDERS.md) covers why we
+published it, and how to tell the advice that is worth taking from the advice
+that is merely loud.
+
 <!-- GS:COUNTS start -->
-**161 mistakes · 63 plays · 59 templates.**  
-Plays by category: Executive 11 · Sales & Marketing 21 · Customer 8 · Operations 8 · Development 13 · Vendor 2.  
-147 of 161 mistakes have at least one play mapped.
+**167 mistakes · 69 plays · 59 templates.**  
+Plays by category: Executive 11 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
+154 of 167 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ## Start here
@@ -33,7 +37,7 @@ will always be *Running out of cash*, whatever the wording becomes.
 
 **If you are a founder.** Read the mistakes list once, end to end. It takes
 about twenty minutes and it is the highest-return twenty minutes in here —
-not because you will remember all 161, but because you will recognise three of
+not because you will remember all 161, but because you will recognize three of
 them as things happening in your company right now. Then run those plays.
 
 **If you are an operator or advisor.** The plays carry effort estimates in story

@@ -32,6 +32,7 @@ preventsMistakes:
   - 68
   - 109
   - 130
+  - 164
 ---
 Once a customer is onboarded, they should be adept at using your product to meet their needs. They understand and can see results from the value of your product. However, your job is not over! You have already invested in establishing a deeper, working relationship with the customer that now needs to be nurtured. The foundation of your continuing partnership is a mutual relationship and trust. As you continue investing in your customer relationship, the customer becomes fully adopted.
 
@@ -94,7 +95,7 @@ Some considerations if the KPIs start showing signs of process weakness:
 
 ---
 
-**Prevents** · [#68 Not accounting for the pain of change in customer behavior](../../MISTAKES.md#m068) · [#109 Expecting customers to expand without a pitch](../../MISTAKES.md#m109) · [#130 Expecting a customer to expand without selling](../../MISTAKES.md#m130)
+**Prevents** · [#68 Not accounting for the pain of change in customer behavior](../../MISTAKES.md#m068) · [#109 Expecting customers to expand without a pitch](../../MISTAKES.md#m109) · [#130 Expecting a customer to expand without selling](../../MISTAKES.md#m130) · [#164 Optimizing services for margin instead of customer outcomes](../../MISTAKES.md#m164)
 
 **Templates** · [Adoption Process Template](../../templates/3.12-adoption-process-template.xlsx)
 

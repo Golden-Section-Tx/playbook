@@ -32,6 +32,7 @@ preventsMistakes:
   - 4
   - 20
   - 139
+  - 165
 ---
 Pricing is a critical variable in your company's success; your product needs to be priced appropriately to gain traction among customers. It also affects your go-to-market strategy, sales process and cycle, net churn rate, as well as your bottom line.
 
@@ -91,7 +92,7 @@ How to price your product:
 
 ---
 
-**Prevents** · [#4 Letting customers dictate the terms](../../MISTAKES.md#m004) · [#20 Hip-shot product pricing](../../MISTAKES.md#m020) · [#139 Disjointed pricing with sales cycle](../../MISTAKES.md#m139)
+**Prevents** · [#4 Letting customers dictate the terms](../../MISTAKES.md#m004) · [#20 Hip-shot product pricing](../../MISTAKES.md#m020) · [#139 Disjointed pricing with sales cycle](../../MISTAKES.md#m139) · [#165 Trading price for a close date](../../MISTAKES.md#m165)
 
 **Templates** · [Pricing Matrix Template](../../templates/2.40-pricing-matrix-template.xlsx)
 

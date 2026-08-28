@@ -30,6 +30,7 @@ questions:
   - Should I track customer cohorts in my ARR schedule?
 preventsMistakes:
   - 85
+  - 162
 ---
 ARR is the key metric for your company. It is a measure of your growth and directly tracks your creation of enterprise value. To this end, it is a tremendously important factor to track.
 
@@ -58,7 +59,7 @@ Another area the ARR schedule helps is in defining what makes up revenue. Most e
 
 ---
 
-**Prevents** · [#85 Ignoring rev-rec](../../MISTAKES.md#m085)
+**Prevents** · [#85 Ignoring rev-rec](../../MISTAKES.md#m085) · [#162 Blending unproven customers into the core revenue line](../../MISTAKES.md#m162)
 
 **Templates** · [ARR Schedule Template](../../templates/3.40-arr-schedule-template.xlsx)
 

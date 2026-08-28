@@ -30,6 +30,7 @@ questions:
   - How do I build a repeatable process for evaluating and tracking partnerships?
 preventsMistakes:
   - 55
+  - 166
 ---
 A company can form channel partnerships with other companies to increase its exposure or improve its product offering for buyers. You can choose to partner with another company to enhance your efficacy in marketing, sales, service, support, or improving your solution for mutual customers.
 
@@ -65,7 +66,7 @@ Types of Channel Partners:
 
 ---
 
-**Prevents** · [#55 Betting a channel partner will sell for you](../../MISTAKES.md#m055)
+**Prevents** · [#55 Betting a channel partner will sell for you](../../MISTAKES.md#m055) · [#166 Letting an implementation partner price you to your own customer](../../MISTAKES.md#m166)
 
 **Templates** · [Channel Partnerships Template](../../templates/2.32-channel-partnerships-template.xlsx)
 

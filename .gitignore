@@ -8,6 +8,7 @@ node_modules/
 # editor
 .vscode/
 .idea/
+.obsidian/
 *.swp
 
 # Excel lock files, which macOS scatters next to open workbooks

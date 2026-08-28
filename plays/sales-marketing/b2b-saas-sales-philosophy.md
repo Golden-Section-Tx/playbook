@@ -35,6 +35,7 @@ preventsMistakes:
   - 125
   - 144
   - 151
+  - 165
 ---
 #### Background
 
@@ -69,7 +70,7 @@ We think this exercise establishes a strong foundation for future exercises. And
 
 ---
 
-**Prevents** · [#6 Demoing early in the sales process](../../MISTAKES.md#m006) · [#10 Selling phantom product](../../MISTAKES.md#m010) · [#13 Hiring sales for rolodex](../../MISTAKES.md#m013) · [#78 Ending up in win/lose ever](../../MISTAKES.md#m078) · [#87 Bluffing](../../MISTAKES.md#m087) · [#91 Engaging in brinkmanship](../../MISTAKES.md#m091) · [#125 Getting starstruck by big name companies.](../../MISTAKES.md#m125) · [#144 Waiting for the perfect product before selling](../../MISTAKES.md#m144) · [#151 Expecting sales hires to sell like founders](../../MISTAKES.md#m151)
+**Prevents** · [#6 Demoing early in the sales process](../../MISTAKES.md#m006) · [#10 Selling phantom product](../../MISTAKES.md#m010) · [#13 Hiring sales for rolodex](../../MISTAKES.md#m013) · [#78 Ending up in win/lose ever](../../MISTAKES.md#m078) · [#87 Bluffing](../../MISTAKES.md#m087) · [#91 Engaging in brinkmanship](../../MISTAKES.md#m091) · [#125 Getting starstruck by big name companies.](../../MISTAKES.md#m125) · [#144 Waiting for the perfect product before selling](../../MISTAKES.md#m144) · [#151 Expecting sales hires to sell like founders](../../MISTAKES.md#m151) · [#165 Trading price for a close date](../../MISTAKES.md#m165)
 
 **Category** · [Sales & Marketing](../README.md) · **Effort** · 5 SP initial, 3 SP ongoing · **Cadence** · Quarterly
 

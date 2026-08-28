@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-> 63 plays and 161 mistakes for building a B2B vertical SaaS
+> 69 plays and 167 mistakes for building a B2B vertical SaaS
 > company, from a firm that has watched over 400 of them. Every mistake is
 > paired with the play that prevents it.
 
@@ -14,8 +14,8 @@ licensed. Alternative terms on request: open an issue.
 
 ## Primary documents
 
-- [MISTAKES.md](MISTAKES.md): all 161 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
-- [plays/README.md](plays/README.md): index of all 63 plays with owners, cadence, and effort.
+- [MISTAKES.md](MISTAKES.md): all 167 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
+- [plays/README.md](plays/README.md): index of all 69 plays with owners, cadence, and effort.
 - [templates/](templates/): 59 working Excel models, mapped to plays.
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to propose a change.
 - [GOVERNANCE.md](GOVERNANCE.md): who can change this and how.
@@ -59,6 +59,8 @@ licensed. Alternative terms on request: open an issue.
 - [Unit Economics](plays/sales-marketing/saas-unit-economics.md): Model the financial return of each customer cohort to understand if your business is inherently profitable—enabling capital-efficient growth and demonstrating unit economics to acquirers.
 - [Sales Metrics by FTE/Role/Team](plays/sales-marketing/saas-sales-metrics-by-role.md): Track sales productivity metrics by rep, role, and team to identify top performers, weak links, and where to invest coaching or additional resources.
 - [Sales Efficiency Ratio](plays/sales-marketing/saas-sales-efficiency-ratio.md): Calculate your sales efficiency ratio (the magic number) to understand if your sales and marketing investment is generating returns—critical for demonstrating unit economics.
+- [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md): Replace discounting as the lever your sales team uses to pull a deal into the quarter, using a real implementation capacity calendar so that scarcity moves the date and price holds.
+- [AI Pricing Model Selection](plays/sales-marketing/ai-pricing-model-selection.md): Match your AI feature's pricing model to what the customer can already see as valuable, and sequence any change to your existing base as deliberately as the pricing decision itself.
 
 ### Customer
 
@@ -70,6 +72,9 @@ licensed. Alternative terms on request: open an issue.
 - [ARR Schedule](plays/customer/saas-arr-schedule.md): Create an ARR schedule that tracks all customer contracts by cohort, predicts future revenue, and identifies at-risk accounts.
 - [Contract Register](plays/customer/saas-contract-register.md): Maintain a master contract register that tracks all customer contracts—renewal dates, terms, pricing, and key obligations—as your primary source of revenue truth.
 - [Contract Playbook](plays/customer/saas-contract-playbook.md): Establish standard customer contract terms and a negotiation process that protects your company while remaining competitive—covering data rights, assignment restrictions, SLAs, and liability.
+- [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md): Route customers you cannot underwrite at signature into their own contract type and their own revenue line, so churn from unproven accounts never contaminates the retention number your valuation rests on.
+- [Value Pinnacle Services](plays/customer/saas-value-pinnacle-services.md): Build a packaged services layer that measurably moves customers up a published maturity rubric, and judge it on outcomes and repeatability rather than on gross margin, where what differentiates your product is what your team knows about the vertical.
+- [Seasonal Churn Segmentation](plays/customer/saas-seasonal-churn-segmentation.md): Tag every seasonal pause the moment it happens and keep it out of your churn ledger, so net revenue retention reflects who actually left instead of who will be back in the spring.
 
 ### Operations
 
@@ -102,3 +107,4 @@ licensed. Alternative terms on request: open an issue.
 
 - [Vendor Contract Register](plays/vendor/saas-vendor-contract-register.md): Maintain a master register of all vendor contracts—tracking renewals, pricing, key terms, and obligations to ensure you're getting fair deals.
 - [Vendor Contract Playbook](plays/vendor/saas-vendor-contract-playbook.md): Establish negotiation strategies and standard vendor contract terms that protect your company while maintaining positive vendor relationships.
+- [Partner Conflict Management](plays/vendor/saas-partner-conflict-management.md): Model the economics that would lead a large implementation partner to build what you built, then manage the relationship with visible consequence and demonstrated arithmetic rather than with goodwill and a clause.

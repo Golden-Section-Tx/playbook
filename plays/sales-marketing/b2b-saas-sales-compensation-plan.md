@@ -31,6 +31,7 @@ questions:
 preventsMistakes:
   - 34
   - 35
+  - 165
 ---
 A Sales Rep is often paid differently than other employees: they typically earn a relatively low base salary supplemented with commissions. This comp plan aligns the company's and the sales rep's interests to earn the biggest pay off for both the company and rep.
 
@@ -85,7 +86,7 @@ Additionally, you can consider refusing commissions on contracts that are not tr
 
 ---
 
-**Prevents** · [#34 Not aligning interests](../../MISTAKES.md#m034) · [#35 Hasty commission structure](../../MISTAKES.md#m035)
+**Prevents** · [#34 Not aligning interests](../../MISTAKES.md#m034) · [#35 Hasty commission structure](../../MISTAKES.md#m035) · [#165 Trading price for a close date](../../MISTAKES.md#m165)
 
 **Templates** · [Sales Compensation Plan Template](../../templates/2.50-sales-comp-plan-template.xlsx)
 
