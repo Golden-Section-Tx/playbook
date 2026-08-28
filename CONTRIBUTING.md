@@ -12,7 +12,7 @@ to use your contribution in our own commercial products.
 
 **A mistake worth adding** is one you have watched happen, more than once or
 once vividly, in a B2B software company. Not a category of risk — a specific
-behaviour with a specific consequence. Compare the tone of the existing 161:
+behaviour with a specific consequence. Compare the tone of the existing 168:
 they are short, blunt, and earned.
 
 **A play worth adding** tells someone what to do on Monday morning. Steps,
@@ -32,7 +32,7 @@ is not about B2B vertical software.
 ### Repository shape
 
 ```
-MISTAKES.md            all 161, numbered, with stable #mNNN anchors
+MISTAKES.md            all 168, numbered, with stable #mNNN anchors
 plays/<category>/      one Markdown file per play, six categories
 templates/             the Excel templates, binder-numbered
 stories/               longer write-ups attached to individual mistakes

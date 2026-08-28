@@ -9,6 +9,33 @@ recorded as removed rather than renumbered.
 
 ## [Unreleased]
 
+### Added
+
+- **Play 70, Board Meeting Preparation** (`plays/executive/saas-board-meeting-prep.md`)
+  — Executive, quarterly, Founder/Board/CFO. Covers what goes in front of a board
+  before the meeting and what the meeting itself is for: the plan of record, the
+  packet, the recorded walkthrough sent a week ahead, and an agenda built backwards
+  from one or two decisions the founder is genuinely unsure about.
+- **Mistake 168, Building the board meeting to win approval instead of to get help.**
+
+### Changed
+
+- **Play 7, Board of Directors** — the "Create the content plan" step no longer
+  carries its own packet contents list and 48-hour send window. Both now live in
+  Board Meeting Preparation, and the step points there. The four items unique to
+  the old list (operational statistics, gross margin and support hours by customer)
+  were folded into the new play's contents so nothing was lost.
+- Hand-authored counts in `README.md`, `CONTRIBUTING.md` and `package.json` brought
+  up to 70 plays and 168 mistakes. They had been stale at 63 and 161 since the
+  1.0.0 release.
+
+### Notes
+
+- Mistake 70, *Mistaking communication brevity for clarity*, now has a play mapped
+  to it for the first time. Unmapped mistakes drop from 13 to 12: 3, 18, 40, 41,
+  62, 82, 98, 99, 105, 110, 140, 146.
+- 267 play-mistake edges, up from 257.
+
 ## [1.0.0] — 2026-08-23
 
 First public release.

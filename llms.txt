@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-> 69 plays and 167 mistakes for building a B2B vertical SaaS
+> 70 plays and 168 mistakes for building a B2B vertical SaaS
 > company, from a firm that has watched over 400 of them. Every mistake is
 > paired with the play that prevents it.
 
@@ -14,8 +14,8 @@ licensed. Alternative terms on request: open an issue.
 
 ## Primary documents
 
-- [MISTAKES.md](MISTAKES.md): all 167 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
-- [plays/README.md](plays/README.md): index of all 69 plays with owners, cadence, and effort.
+- [MISTAKES.md](MISTAKES.md): all 168 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
+- [plays/README.md](plays/README.md): index of all 70 plays with owners, cadence, and effort.
 - [templates/](templates/): 59 working Excel models, mapped to plays.
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to propose a change.
 - [GOVERNANCE.md](GOVERNANCE.md): who can change this and how.
@@ -35,6 +35,7 @@ licensed. Alternative terms on request: open an issue.
 - [IP & Confidentiality](plays/executive/saas-ip-confidentiality.md): Protect your intellectual property and trade secrets with IP & Confidentiality Agreements that prove your company took reasonable measures to keep them secret.
 - [Audited Financials](plays/executive/saas-audited-financials.md): Engage auditors to produce audited financial statements that instill investor and customer confidence, reveal operational issues, and demonstrate governance maturity to potential acquirers.
 - [Insurance](plays/executive/saas-company-insurance.md): Secure the essential insurance policies (E&O/professional liability and D&O) that protect your company, directors, and investors from catastrophic financial risk.
+- [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md): Prepare your board before the meeting rather than during it, with a fixed packet measured against a plan they already approved, a narrated walkthrough sent a week ahead, and an agenda carrying no more than two decisions you are genuinely unsure about.
 
 ### Sales & Marketing
 

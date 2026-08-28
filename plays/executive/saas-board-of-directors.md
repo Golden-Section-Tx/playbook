@@ -59,31 +59,7 @@ When operating correctly, a board gives management the following benefits:
     - **Incentives:** Every board member needs a reason to give the company their strengths. Sometimes well-meaning founders try to get major investors to join thinking that protecting their investment is the only incentive they need. This is a bad strategy and results in the investor - now board member - making decisions in light of their investment and not for the good of all stakeholders.
 2. **Setting expectations:** Next, you should meet with each board member to walk through expectations. At this point, it is good to have a job description for board members already designed so that you are working off of a document. Board members need as much (if not more) onboarding than an employee. This means product demos, customer tours, employee meetings, and the like.
 
-1. **Create the content plan:** Effective board content updates the board members with all the data they need prior to the meeting so that the meeting can focus on the strategic issues and the most critical data elements that management wants to focus on. Here is a good general guideline of the report which should be sent to the board a minimum of 48 hours prior to a meeting:
-    - Progress Update.
-    - P&L vs Budget
-    - Revenue vs Budget
-    - Sales & marketing statistics
-    - Operational statistics
-    - Support metrics
-    - Customer satisfaction scores
-    - R&D roadmap, changes, and progress
-    - Employee headcount and changes
-    - Strategic initiatives status and progress
-    - New Strategic Data
-    - Closed-lost report with reasons
-    - Churn report with reasons
-    - Employee turnover report with exit interview content
-    - Gross margin by customer
-    - Support hours by customer
-    - Fundraising conversations and progress
-    - Risk Update
-    - Existing risk overview and status
-    - New risk overview and status
-    - Resolutions and administration
-    - Resolutions approved at the last meeting
-    - Tabled resolutions from prior meetings
-    - Proposed new resolutions
+1. **Create the content plan:** Effective board content updates the board members with all the data they need prior to the meeting so that the meeting can focus on the strategic issues and the most critical data elements that management wants to focus on. What goes in the packet, when it is sent, and the recorded walkthrough that should go with it are the subject of the Board Meeting Preparation play. Send it a week ahead of the meeting, not the night before.
 2. **Set the Board meeting calendar & set roles:** It is best to set the board meeting calendar at least one year out and add to every board meeting the task of creating the meeting for the 13th month out in that meeting. Sometimes it can work to set a xth day of the month as the permanent board date, but this can fall on a holiday or otherwise run into issues. Hence having each board member actively vote on a day helps with attendance. In addition, the following roles are a must on every board:
 
 - Chairman - responsible for setting the agenda and going over the resolutions with management prior to the meeting.

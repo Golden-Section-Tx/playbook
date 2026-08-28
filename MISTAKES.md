@@ -13,9 +13,9 @@ The plays live in [`plays/`](plays/README.md). Downloadable working templates
 live in [`templates/`](templates/).
 
 <!-- GS:COUNTS start -->
-**167 mistakes · 69 plays · 59 templates.**  
-Plays by category: Executive 11 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
-154 of 167 mistakes have at least one play mapped.
+**168 mistakes · 70 plays · 59 templates.**  
+Plays by category: Executive 12 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
+156 of 168 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ---
@@ -170,7 +170,7 @@ _No play is mapped to this mistake yet._
 
 If you don't, then you might as well shut down... keep investors well informed and not only positive stuff.
 
-**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [Board of Directors](plays/executive/saas-board-of-directors.md)
+**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
 
 ### <a id="m020"></a>20 · Hip-shot product pricing
 
@@ -322,7 +322,7 @@ Minutes prove meetings and give accountability for the white space on an org cha
 
 Meetings without an agenda might as well be a brunch. Nothing will get done.
 
-**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md)
+**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
 
 ### <a id="m039"></a>39 · No employee onboarding
 
@@ -354,7 +354,7 @@ _No play is mapped to this mistake yet._
 
 Bad expectations can box you into a set of bad choices. Keep investors in the loop but be careful about future expectations.
 
-**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md)
+**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
 
 ### <a id="m043"></a>43 · Horizontally scaling
 
@@ -450,7 +450,7 @@ Similar to fuzzy requirements; make sure your scope is deliverable, demonstrable
 
 Somethings can be decided quickly, some not. Make sure to identify strategic decisions from tactical and spend time with wise counsel.
 
-**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md)
+**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
 
 ### <a id="m055"></a>55 · Betting a channel partner will sell for you
 
@@ -578,7 +578,7 @@ Fundraising is hard... selling to customers is easier. Raise money from customer
 
 High stakes tasks need clear communication and clear communication takes time. Get it right.
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
 
 ### <a id="m071"></a>71 · No active data room
 
@@ -714,7 +714,7 @@ Hard-close financial statements and don't reopen for edits. Changing historical 
 
 Don't bluff... ever. It never works.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
 
 ### <a id="m088"></a>88 · No customer contract register
 
@@ -944,7 +944,7 @@ There are tons of tensions in software companies. Don't let problems keep emergi
 
 Investment commitments slip, customer interest wanes, potential exit conversations die... life is full of disappointments. Don't magnify them by passing expectations down the line without managing them.
 
-**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md)
+**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
 
 ### <a id="m117"></a>117 · Expecting too much out of software ‘automation’
 
@@ -1144,7 +1144,7 @@ _No play is mapped to this mistake yet._
 
 Being a founder is tough and you will face many challenges. Utilize your partners. They are there to help.
 
-**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md)
+**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
 
 ### <a id="m142"></a>142 · Not proactively managing cash
 
@@ -1192,7 +1192,7 @@ _No play is mapped to this mistake yet._
 
 Delaying difficult decisions only makes problems worse. Proactive decision-making prevents crises and builds long-term stability.
 
-**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md)
+**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
 
 ### <a id="m148"></a>148 · Changing value proposition after receiving captial
 
@@ -1353,3 +1353,11 @@ Much of what a partner quotes alongside your software is work the customer would
 Some verticals close for the season and reopen the next one, and if that pause is logged the same way as a lost account, your churn number rises every year whether the business is healthy or not. The board, the bank, and the acquirer all price the company off that number, and none of them know it is inflated by customers who were always coming back.
 
 **Prevented by** · [Seasonal Churn Segmentation](plays/customer/saas-seasonal-churn-segmentation.md)
+
+### <a id="m168"></a>168 · Building the board meeting to win approval instead of to get help
+
+`Executive`
+
+You bring the board the version of the quarter that makes your case, and you bring decisions you have already made and want ratified. That room holds the widest range of view you will assemble all year, and you have spent it on applause. You leave with a rubber stamp and without the one thing you actually needed.
+
+**Prevented by** · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
