@@ -28,6 +28,7 @@ Plays by category: Executive 12 · Sales & Marketing 23 · Customer 11 · Operat
 | **[plays/](plays/README.md)** | The 70 plays, one Markdown file each — what to do, who owns it, how long it takes. Start here if you are building rather than firefighting. |
 | **[templates/](templates/)** | 59 working Excel templates, one or more per play. The actual models, not screenshots of them. |
 | **[dist/playbook-full.md](dist/playbook-full.md)** | The entire corpus as one file. For feeding to an AI, or reading on a plane. |
+| **[skills/](skills/README.md)** | Eight agent skills that work the corpus with you — interview, triage, review what you have, turn a play into assigned work, watch for mistakes, contribute back. Plain Markdown, no dependencies. |
 
 Every mistake links to its plays and every play links back to its mistakes, so
 you can enter from either side. Mistake anchors are stable — `MISTAKES.md#m016`
@@ -58,6 +59,84 @@ git pull upstream main
 
 Your fork is yours. If you improve something and want it back in here, open a
 pull request — see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Using this with an AI assistant
+
+The corpus is text, so any assistant can read it — point one at
+[`dist/playbook-full.md`](dist/playbook-full.md) and ask it questions today.
+
+What that does not do is tell you *which* of the plays you should run, in
+what order, given the company you actually have. The [`skills/`](skills/README.md)
+folder is eight small instruction files that do. Copy them into your assistant,
+and it can interview you, work out which of the mistakes on the list are live in your
+business right now, prescribe two or three plays rather than all of them, check
+the spreadsheets you already have against the plays that govern them, and turn a
+play into dated tasks assigned to real people.
+
+They are plain Markdown. No code, no keys, no service to sign up for, nothing
+that stops working when we stop maintaining it.
+
+### Your company's information stays on your machine
+
+For any of that to be useful, the assistant has to know things about your
+company: revenue, cash, churn, who works there, what is broken this quarter.
+That has to live somewhere, so it lives in a folder called
+[`workspace/`](workspace/README.md) inside your copy of this repository.
+
+**Nothing in `workspace/` is ever sent back to us.** Concretely:
+
+- `.gitignore` excludes everything in that folder, so it is not committed and not
+  pushed. Only its README is tracked.
+- The skills are instructed never to put anything from it into a commit, a
+  branch name, an issue, or a pull request.
+- When you contribute something back — a field report, a fix to a play — the
+  skill builds it on a fresh branch taken from this repository, not from the
+  branch you have been working in. That matters, because a pull request carries
+  every commit on its branch, not just the file you meant to change.
+- Nothing is ever submitted without showing you the exact text first and waiting
+  for you to say yes.
+
+Two honest caveats, because "it's gitignored" is a weaker promise than it sounds.
+Ignoring a file has no effect once git is already tracking it — so a file that
+gets committed once, by accident or by force, stays committed. And git history
+keeps what you delete, so removing a file later does not remove it from the
+history you would push.
+
+So there is a check, not just a promise:
+
+```bash
+python3 scripts/check_private.py
+```
+
+Run it before you push. It tells you exactly what would leave your machine, and
+if something private is tracked, staged, sitting in your history, or riding
+along on a contribution branch, it says so and tells you how to fix it. It
+changes nothing by itself. It needs only Python 3.
+
+If you would rather keep your workspace in version control — it is a useful
+record, and a cofounder may want it — make your fork **private** and delete the
+`workspace` lines from `.gitignore`. That is a perfectly good setup. The risk
+lies only in a public fork.
+
+### What the skills are
+
+| For founders | |
+|---|---|
+| `context-interview` | Fifteen minutes, once. Writes what your assistant knows about your company. |
+| `playbook-triage` | Which mistakes are live, the two or three plays to run now, and what you are choosing to skip. |
+| `artifact-review` | Your cash model, pricing matrix, or ARR schedule, held against the play that governs it. |
+| `run-play` | One play into assigned, dated work — in your task manager, as a CSV, or as a PDF with a page per person. |
+| `mistake-watch` | Your own meeting notes against the mistakes list, monthly, so you can see what has been live for a quarter. |
+| `field-report` | What actually happened when you ran a play, sent back anonymized. This is how the corpus gets better. |
+
+| For operators, advisors, and contributors | |
+|---|---|
+| `play-hunt` | Meetings across many companies against the corpus, hunting patterns that deserve to be plays. |
+| `play-forge` | Write a play or a mistake to this repository's contract, and open the pull request. |
+
+Start with `playbook-triage` — it works before you have done anything else, on
+five questions asked out loud. The interview is what you do second, when you
+have decided this is worth fifteen minutes.
 
 ## License, plainly
 

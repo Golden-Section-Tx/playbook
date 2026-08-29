@@ -17,3 +17,7 @@ node_modules/
 # local scratch
 _to_delete/
 *.local.md
+
+# Your company workspace — never committed. See workspace/README.md
+workspace/*
+!workspace/README.md
