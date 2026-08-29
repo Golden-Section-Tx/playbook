@@ -28,6 +28,10 @@ jobs:
 
   confidentiality:
     name: confidentiality scan
+    # Only the canonical repository holds CONFIDENTIAL_TERMS. A fork has no
+    # blocklist to scan against, so running it there produces nothing but a
+    # confusing warning on every pull request a founder opens.
+    if: github.repository == 'Golden-Section-Tx/playbook'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -41,31 +45,63 @@ jobs:
       # This is a backstop, not the control. Anonymisation is the
       # contributor's responsibility, and for LookingGlass it happens inside
       # LookingGlass before a pull request is ever opened. See GOVERNANCE.md.
-      - name: scan the diff for blocked terms
+      - name: scan for blocked terms
         env:
           TERMS: ${{ vars.CONFIDENTIAL_TERMS }}
+          PR_BASE: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD: ${{ github.event.pull_request.head.sha }}
+          PUSH_BEFORE: ${{ github.event.before }}
         run: |
-          if [ -z "$TERMS" ]; then
+          set -u
+          if [ -z "${TERMS:-}" ]; then
             echo "::warning::CONFIDENTIAL_TERMS is not set — scan skipped."
             exit 0
           fi
-          base="${{ github.event.pull_request.base.sha }}"
-          head="${{ github.event.pull_request.head.sha }}"
-          if [ -z "$base" ]; then
-            echo "Not a pull request — nothing to diff."
-            exit 0
+
+          # A pull request scans its diff. A push to main scans what the push
+          # added — previously that case exited without scanning anything, so
+          # a direct push to main was never checked. Anything else, or a base
+          # commit we cannot resolve (a new branch, a force push), falls back
+          # to scanning the whole tree, which is a strict superset.
+          MODE=diff
+          if [ -n "${PR_BASE:-}" ]; then
+            WHAT="pull request diff"
+            git diff "$PR_BASE" "$PR_HEAD" > /tmp/scan.txt || true
+          elif [ -n "${PUSH_BEFORE:-}" ] \
+               && [ "$PUSH_BEFORE" != "0000000000000000000000000000000000000000" ] \
+               && git cat-file -e "${PUSH_BEFORE}^{commit}" 2>/dev/null; then
+            WHAT="pushed commits"
+            git diff "$PUSH_BEFORE" "$GITHUB_SHA" > /tmp/scan.txt || true
+          else
+            MODE=tree
+            WHAT="whole tree (no diff base available)"
           fi
-          git diff "$base" "$head" > /tmp/diff.txt || true
+          echo "Scanning the $WHAT."
+
+          match() {
+            if [ "$MODE" = tree ]; then
+              git grep -Fqi -- "$1"
+            else
+              grep -Fqi -- "$1" /tmp/scan.txt
+            fi
+          }
+
           status=0
           while IFS= read -r term; do
+            term="$(printf '%s' "$term" | tr -d '\r')"
             [ -z "$term" ] && continue
-            if grep -Fqi -- "$term" /tmp/diff.txt; then
-              echo "::error::The diff contains a blocked term: $term"
+            if match "$term"; then
+              echo "::error::The $WHAT contains a blocked term: $term"
               status=1
             fi
           done <<< "$TERMS"
+
           if [ "$status" -ne 0 ]; then
-            echo "Close this pull request rather than amending it — a public PR cannot be unpublished. See GOVERNANCE.md."
+            if [ -n "${PR_BASE:-}" ]; then
+              echo "Close this pull request rather than amending it — a public pull request cannot be unpublished. See GOVERNANCE.md."
+            else
+              echo "This was pushed to a public repository. Treat the terms above as disclosed and see GOVERNANCE.md; removing them in a later commit does not remove them from history."
+            fi
             exit 1
           fi
           echo "No blocked terms found."
