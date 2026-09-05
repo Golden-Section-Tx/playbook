@@ -16,7 +16,7 @@ Pairs with `run-play`, which turns a committed play into an assigned plan.
 | Source | Why |
 |---|---|
 | `workspace/company-context.md` | Fit inputs, roles, play coverage, conflicts. Read `_shared/workspace.md` before you write anything back. |
-| `plays/README.md` | Owners, cadence, initial and ongoing story points, and the mistakes each play prevents. |
+| `plays/README.md` | Owners, cadence, initial and ongoing story points, and the mistakes each play prevents. `EFFORT.md` converts the points to person-days. |
 | `MISTAKES.md` | The numbered list. Cite by number and anchor — `#142`, `#m142` — because numbers are permanent and titles are not. |
 | The bodies of every candidate play | Non-negotiable. Prerequisites, and what step one actually produces, live only here. |
 
@@ -38,7 +38,7 @@ git clone https://github.com/golden-section-tx/playbook.git
 
 5. **Note the stage, then set it aside.** See below — it is a note, never a filter.
 
-6. **Price it in story points** against who actually owns what.
+6. **Price it in person-days** — build and annual cadence both — against who actually owns what, and how much of a week they have.
 
 7. **Cut to three, in prerequisite order.**
 
@@ -80,11 +80,21 @@ Read the play, then decide. Three failure modes, all seen in real runs:
 - **The prerequisite is genuinely missing.** Then the prerequisite *is* the prescription, and the play that needs it moves to "Not now" with a named condition. Pipeline Management & Review builds on the PDCA loop from Quality Management System and on stage criteria from Pipeline Creation; without those it becomes a status meeting.
 - **The prerequisite does not exist in the corpus.** Four executive plays name a Strategic Planning playbook as a prerequisite, and there is no Strategic Planning play. Say so in the output rather than substituting a play that sounds close. It is also a decent candidate for `play-hunt`.
 
-## Capacity, in story points
+## Capacity, in person-days
 
-Sum the `initial` effort of the prescription. Add the `ongoing` effort of everything already `running` in `commitments.md`, at its cadence — 8 SP monthly is not a rounding error. Then look at the `Owners` column against the "Who we have" table.
+**Convert to person-days before you add anything up.** Story points size one play; they do not sum. The point-to-day curve is not linear — 13 SP is one person-week and 21 SP is two — so a total in points understates the big plays and flatters the prescription. `EFFORT.md` has the table.
 
-Two founders and a CTO cannot absorb 60 SP of initial build plus three new monthly cadences, however good each play is. If the arithmetic is implausible, cut to two plays, or one, and say which number made you cut. A prescription nobody has the hours for produces the same outcome as no prescription, minus the honesty.
+Three numbers, and the third is the one that gets skipped:
+
+1. **Initial.** Sum the `initial` effort of the prescription in person-days. Three plays at 21, 13 and 8 SP is 10 + 5 + 2.5 — seventeen and a half person-days of build, not "42 SP".
+2. **New ongoing, annualized.** `ongoing` is one recurrence. Multiply by the cadence. A monthly 8 SP play is 30 person-days a year; a weekly 3 SP play is 52. Three new monthly cadences can cost more across the year than every stand-up in the prescription combined, and they never end.
+3. **Ongoing already committed.** The same arithmetic over everything `running` in `commitments.md`. This is the load the company is carrying before you propose anything.
+
+Then set that against the `Days/wk` column in "Who we have". Two founders and a CTO with a day a week each have roughly 150 person-days a year between them for playbook work — and most of it is already spoken for by whatever is `running`. Seventeen days of build plus 90 days a year of new cadence does not fit inside that, however good each play is.
+
+Say the arithmetic out loud in the output, in days and weeks. "Your CFO owns 15 of the 17 build days and has one day a week, so that is fifteen weeks before the first artifact exists" is a sentence a founder can act on. "42 SP" is not.
+
+If it does not fit, cut to two plays, or one, and name the number that made you cut. A prescription nobody has the hours for produces the same outcome as no prescription, minus the honesty. Where the `Days/wk` column is blank, say you assumed a figure and what it was, rather than planning as though the team were free.
 
 Where a role is `✗`, name the human who will actually own it. A play with no owner is not committed.
 

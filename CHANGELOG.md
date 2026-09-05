@@ -17,6 +17,17 @@ recorded as removed rather than renumbered.
   packet, the recorded walkthrough sent a week ahead, and an agenda built backwards
   from one or two decisions the founder is genuinely unsure about.
 - **Mistake 168, Building the board meeting to win approval instead of to get help.**
+- **`EFFORT.md`** — what the story points on every play mean. A point is one
+  person's working time; the scale runs 1 SP (one meeting) to 34 SP (three
+  person-weeks) with a person-day column. Also states what the points do *not*
+  do: they size one play rather than summing across several, and they say
+  nothing about elapsed time. Generated from `EFFORT_SCALE` in
+  `scripts/build.mjs`, which now also rejects an off-scale effort value and
+  renders the legend into `plays/README.md` and `dist/playbook-full.md`.
+- **A `Days/wk` column** in the "Who we have" table of
+  `skills/_shared/company-context.template.md` — how much of a week each owner
+  can give to playbook work. `context-interview` asks for it, and it is what
+  turns an effort estimate into a date.
 
 ### Changed
 
@@ -28,6 +39,41 @@ recorded as removed rather than renumbered.
 - Hand-authored counts in `README.md`, `CONTRIBUTING.md` and `package.json` brought
   up to 70 plays and 168 mistakes. They had been stale at 63 and 161 since the
   1.0.0 release.
+- **`run-play` schedules off the play's own estimates.** A new "Effort and dates"
+  section converts `initialEffort` to person-days, divides by the owner's
+  `Days/wk` for the elapsed span, distributes the days across the play's steps,
+  and schedules the recurrence at `ongoingEffort` per occurrence with the annual
+  figure quoted once. The "do not invent effort" guardrail now says to convert
+  it and show the arithmetic, and adds a rule to escalate rather than quietly
+  stretch dates when the arithmetic does not fit.
+- **`playbook-triage` prices prescriptions in person-days**, not points, since
+  the point-to-day curve is not linear and points do not sum. Ongoing load is
+  now annualized against the cadence and set against the team's `Days/wk`.
+- **`field-report` asks for actuals in person-days**, and for elapsed time and
+  availability as separate figures. It previously told contributors there was no
+  defined conversion and not to invent one — true until `EFFORT.md` existed.
+- `play-hunt`, `play-forge` and `schema/play.schema.json` link to `EFFORT.md`
+  rather than restating the vocabulary, and `play-forge` now asks an author to
+  say the estimate out loud as a duration before writing the number.
+- **`mistake-watch` grades against what a mistake actually names.** From a field
+  test: #8, *No meeting cadence with sales*, was graded `confirmed` off notes
+  from a sales meeting that happened and skipped the pipeline — dated, quotable
+  evidence that argues against #8 rather than for it. The skill already carried
+  the rule, and already used #8 as its example, but the rule sat in prose while
+  the grade table asked only for "a quote or a figure, with a date and a
+  source". The `confirmed` row now also requires that the evidence be of the
+  behavior the mistake names; a new step 6 makes the assistant write out what
+  the evidence shows against what the mistake claims before grading, and then
+  go looking for the number that does fit. 46 of the 168 titles are phrased as
+  absences and the skill now says so, because every one of them will accept
+  evidence that a process merely ran badly. Two matching guardrails added, and
+  a play whose artifact exists but whose cadence stopped now routes to `lapsed`
+  in `commitments.md` rather than `[absent]` in coverage.
+- **`mistake-watch` output** opens with a one-line summary — live, new, and the
+  most expensive one by name — strictly derived from the sections beneath it,
+  for readers meeting the report for the first time. The "Also live" section now
+  specifies its markdown table with a header and separator row instead of an
+  inline list of column names, which is why it was rendering collapsed.
 
 ### Notes
 

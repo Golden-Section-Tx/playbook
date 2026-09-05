@@ -53,20 +53,24 @@ Roles that actually exist, in the playbook's vocabulary. `✓` in place ·
 `✗` nobody does this · `?` unknown. A part-time or fractional person is `✓`
 with a note — the plays care whether someone owns it, not how many hours.
 
-| Role | | Who | Notes |
-|---|---|---|---|
-| Founder | | | |
-| Exec Team | | | |
-| Board | | | |
-| CFO | | | |
-| COO | | | |
-| CTO | | | |
-| Sales Lead | | | |
-| SDR | | | |
-| CS Lead | | | |
-| Product Manager | | | |
-| Engineering Lead | | | |
-| Legal | | | |
+`Days/wk` is how much of a working week that person can realistically give to
+playbook work, on top of their job. It is the number that turns a play's effort
+estimate into a date, so a rough `0.5` beats a blank. `[not asked]` is fine.
+
+| Role | | Who | Days/wk | Notes |
+|---|---|---|---|---|
+| Founder | | | | |
+| Exec Team | | | | |
+| Board | | | | |
+| CFO | | | | |
+| COO | | | | |
+| CTO | | | | |
+| Sales Lead | | | | |
+| SDR | | | | |
+| CS Lead | | | | |
+| Product Manager | | | | |
+| Engineering Lead | | | | |
+| Legal | | | | |
 
 ## Play coverage
 

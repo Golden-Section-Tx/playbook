@@ -43,14 +43,26 @@ format:           # OPTIONAL — only "html", used by exactly one play
 |---|---|
 | `category` | `executive` · `sales-marketing` · `customer` · `operations` · `development` · `vendor` |
 | `players` | Founder · Exec Team · Board · CFO · COO · CTO · Legal · Sales Lead · SDR · CS Lead · Product · Product Manager · Engineering Lead · DevOps · Security Lead · Implementation · Implementation Lead |
-| `initialEffort` / `ongoingEffort` | `1 SP` · `2 SP` · `3 SP` · `5 SP` · `8 SP` · `13 SP` · `21 SP` · `34 SP` · `—` |
+| `initialEffort` / `ongoingEffort` | One of the values in [`EFFORT.md`](../../../EFFORT.md), or `—` |
 | `frequency` | Continuous · Weekly · Monthly · Quarterly · Bi-Annually · Annual · As Needed · Per Customer · Per Project |
 | `stage` | Pre-Revenue · Early Traction · Growth · All Stages |
 | `format` | `html` — only where the body needs headings inside list items |
 
-Story points are Fibonacci. A 34 that should be an 8 is how a play becomes
-shelfware; an 8 that should be a 34 is how a founder loses a quarter trusting
-your estimate.
+[`EFFORT.md`](../../../EFFORT.md) is the scale, and it is stated in durations
+rather than points for a reason. **Before writing either number, say it out
+loud as time and see whether you believe it**: 8 SP claims half a person-week,
+13 SP a person-week, 34 SP three. A point is one person's working time, so a
+step that puts three people in a room for a morning costs a day and a half, not
+half a day.
+
+`ongoingEffort` is the cost of a *single* recurrence, never the annual total.
+Quoting a year in that field silently multiplies the play's cost by twelve
+everywhere downstream.
+
+A 34 that should be an 8 is how a play becomes shelfware; an 8 that should be a
+34 is how a founder loses a quarter trusting your estimate. If the honest answer
+is above 34 — more than three person-weeks to stand up — the play is more than
+one play, and the fix is to split it, not to write `34 SP` and hope.
 
 `stage` is the earliest stage at which the play *pays for itself*, not the
 earliest at which it is possible.
