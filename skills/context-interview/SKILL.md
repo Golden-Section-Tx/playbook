@@ -49,6 +49,14 @@ lead, legal. For each, a name or a no. Fractional and part-time count as yes,
 with a note — the plays care whether someone owns the thing, not how many hours
 they own it for.
 
+Then one follow-up on the two or three names that came up most: **how much of a
+week can that person actually give to this, on top of their job?** Half a day,
+one day, two. It goes in the `Days/wk` column, and it is the only number that
+turns a play's effort estimate into a date — `run-play` needs it to schedule anything and `playbook-triage` needs it
+to know what the company can carry — and a founder guessing `0.5` is worth far
+more than a blank. Do not walk all twelve roles for this; get the people who
+will actually own plays and move on.
+
 **0:09–0:13 — What you already run.** Not "do you have a process for X" — every
 founder says yes to that. Ask what exists as an artifact and when it was last
 updated. "Is there a cash flow model, and when did someone last put actuals in
@@ -121,7 +129,9 @@ skill ever captures.
 
 - The numbers block, quarterly — or the week after a raise, a layoff, or a
   pricing change.
-- The roles block, whenever someone senior joins or leaves.
+- The roles block, whenever someone senior joins or leaves — and the days-a-week
+  numbers whenever the team's load visibly changes, since every date this
+  repo produces is computed off them.
 - Everything, if six months have passed.
 
 `artifact-review` and `mistake-watch` keep parts of the file current as a side

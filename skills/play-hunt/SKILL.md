@@ -55,7 +55,7 @@ Every finding carries its source and date. A finding without a quote is not a fi
 |---|---|---|
 | 1 | **Recurrence** | Seen in two or more companies, or once with a cost you can name in dollars, months, or a lost customer. |
 | 2 | **Not covered** | The nearest existing play does not produce this artifact. Name that play and say why it isn't it. |
-| 3 | **Schedulable** | An owning role, a cadence, ordered steps, and an honest effort estimate all exist. If not, it is an essay. |
+| 3 | **Schedulable** | An owning role, a cadence, ordered steps, and an honest effort estimate all exist. If any one of them is missing, it is an essay. If the stand-up would honestly cost more than three person-weeks, it is more than one play — see `EFFORT.md`. |
 | 4 | **Preventive** | It maps to at least one numbered mistake, or to a mistake candidate from this same run. |
 | 5 | **In scope** | B2B vertical software. Not generic startup advice, not a restatement of an existing play, not marketing for a service. |
 | 6 | **Evidenced** | At least one verbatim quote, with speaker role, date, and source. |
@@ -84,7 +84,7 @@ One document, in this order. Findings only — no restatement of the corpus.
   | `players` | Roles from the vocabulary — Founder, CFO, Sales Lead, CS Lead, CTO, … |
   | `frequency` | Continuous · Weekly · Monthly · Quarterly · Bi-Annually · Annual · As Needed · Per Customer · Per Project |
   | `stage` | Pre-Revenue · Early Traction · Growth · All Stages — earliest stage at which it pays for itself |
-  | `initialEffort` / `ongoingEffort` | Fibonacci story points: 1 · 2 · 3 · 5 · 8 · 13 · 21 · 34 SP |
+  | `initialEffort` / `ongoingEffort` | Story points, one of the values in [`EFFORT.md`](../../EFFORT.md). Say the duration out loud before writing the number: 13 SP claims a person-week, 34 SP three. `ongoing` is one recurrence, not the year. |
   | `preventsMistakes` | The numbered mistakes it would prevent |
   | The artifact | What the play produces — the thing that exists afterwards that did not before |
 

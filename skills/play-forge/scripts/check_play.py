@@ -37,6 +37,8 @@ PLAYERS = ["Founder", "Exec Team", "Board", "CFO", "COO", "CTO", "Legal",
            "Sales Lead", "SDR", "CS Lead", "Product", "Product Manager",
            "Engineering Lead", "DevOps", "Security Lead", "Implementation",
            "Implementation Lead"]
+# Mirrors EFFORT_SCALE in scripts/build.mjs; kept here so this checker runs
+# standalone against one file. Change both together. EFFORT.md is the prose.
 EFFORT = ["1 SP", "2 SP", "3 SP", "5 SP", "8 SP", "13 SP", "21 SP", "34 SP",
           "—", "-", "--"]
 FREQUENCY = ["Continuous", "Weekly", "Monthly", "Quarterly", "Bi-Annually",
@@ -176,8 +178,8 @@ def check_frontmatter(data: dict, path: str, rep: Report) -> None:
     for key in ("initialEffort", "ongoingEffort"):
         v = val(key)
         if v is not None and v not in EFFORT:
-            rep.error(f"{key} {v!r} is not a Fibonacci story-point value "
-                      "(1/2/3/5/8/13/21/34 SP) or an em dash")
+            rep.error(f"{key} {v!r} is not a value on the effort scale "
+                      "(1/2/3/5/8/13/21/34 SP) or an em dash — see EFFORT.md")
 
     if val("frequency") and val("frequency") not in FREQUENCY:
         rep.error(f"frequency {val('frequency')!r} not in {FREQUENCY}")
