@@ -46,11 +46,11 @@
       "minLength": 2
     },
     "initialEffort": {
-      "description": "Effort to stand the play up the first time, in story points, e.g. '21 SP'. An em dash where effort is not meaningfully bounded.",
+      "description": "Effort to stand the play up the first time, in story points, e.g. '21 SP'. A point is one person's working time; see EFFORT.md for the scale. An em dash where effort is not meaningfully bounded.",
       "type": "string"
     },
     "ongoingEffort": {
-      "description": "Effort per recurrence, in story points. An em dash where not applicable.",
+      "description": "Effort for ONE recurrence at the play's cadence, in story points, not the annual total; see EFFORT.md. An em dash where not applicable.",
       "type": "string"
     },
     "frequency": {

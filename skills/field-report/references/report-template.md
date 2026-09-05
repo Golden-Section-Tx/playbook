@@ -38,14 +38,26 @@ information, an invented one is not.
 
 <!-- The most valuable section here. It is how the story points get accurate,
      and you can answer it completely honestly without revealing anything about
-     your company. Points are Fibonacci — 1, 2, 3, 5, 8, 13, 21, 34. If you
-     track hours or person-days instead, put those in and label them; there is
-     no defined conversion, so do not invent one. -->
+     your company.
+
+     Give person-days — EFFORT.md maps the scale (3 SP = one day, 13 SP = one
+     person-week, 34 SP = three), so person-days land straight against the
+     estimate. Points are fine if that is how your team sizes; pick one unit
+     and label it. A point is one person's working time, so two people for a
+     day is two days. "Ongoing" is ONE recurrence, not the year. -->
 
 |  | Play says | We actually spent |
 |---|---|---|
 | Initial (standing it up) | | |
 | Ongoing (per recurrence) | | |
+
+**Elapsed time and availability**
+
+<!-- Effort and calendar are different numbers and both are useful. How long
+     did it take end to end, and roughly how much of the week did the owner
+     actually have for it? Five person-days over six weeks at half a day a
+     week is not a bad estimate — it is a scheduling fact the plan should
+     have anticipated. -->
 
 **Where the time actually went**
 

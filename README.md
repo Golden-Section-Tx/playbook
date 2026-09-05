@@ -27,6 +27,7 @@ Plays by category: Executive 12 · Sales & Marketing 23 · Customer 11 · Operat
 | **[MISTAKES.md](MISTAKES.md)** | All 168, numbered, with the plays that prevent each one. Start here if something already hurts. |
 | **[plays/](plays/README.md)** | The 70 plays, one Markdown file each — what to do, who owns it, how long it takes. Start here if you are building rather than firefighting. |
 | **[templates/](templates/)** | 59 working Excel templates, one or more per play. The actual models, not screenshots of them. |
+| **[EFFORT.md](EFFORT.md)** | What the story points on every play mean, in person-days — and what they do not mean. Read before scheduling anything. |
 | **[dist/playbook-full.md](dist/playbook-full.md)** | The entire corpus as one file. For feeding to an AI, or reading on a plane. |
 | **[skills/](skills/README.md)** | Eight agent skills that work the corpus with you — interview, triage, review what you have, turn a play into assigned work, watch for mistakes, contribute back. Plain Markdown, no dependencies. |
 
@@ -42,8 +43,10 @@ not because you will remember all 168, but because you will recognize three of
 them as things happening in your company right now. Then run those plays.
 
 **If you are an operator or advisor.** The plays carry effort estimates in story
-points and a cadence, so they can be scheduled rather than admired. Category
-hubs are in [plays/README.md](plays/README.md).
+points and a cadence, so they can be scheduled rather than admired. A point is
+one person's working time and `13 SP` is one person-week — [EFFORT.md](EFFORT.md)
+has the scale, including what it will not tell you. Category hubs are in
+[plays/README.md](plays/README.md).
 
 **If you are an AI agent, or you are pointing one at this.** Use
 [`dist/playbook-full.md`](dist/playbook-full.md) — the whole corpus in one file,

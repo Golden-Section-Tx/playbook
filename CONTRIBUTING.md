@@ -16,8 +16,9 @@ behaviour with a specific consequence. Compare the tone of the existing 168:
 they are short, blunt, and earned.
 
 **A play worth adding** tells someone what to do on Monday morning. Steps,
-owners, an honest effort estimate. If it cannot be scheduled, it is an essay,
-not a play.
+owners, an honest effort estimate — [EFFORT.md](EFFORT.md) says what the story
+points mean, and say the duration out loud before you write a number. If it
+cannot be scheduled, it is an essay, not a play.
 
 **Improvements to what is here** are the most valuable contributions and the
 easiest to merge. A clearer step, a corrected number, a mistake that needs its
@@ -68,8 +69,8 @@ title: Pricing Matrix            # short label
 h1: How to Build a SaaS Pricing Matrix
 category: sales-marketing        # must match the containing folder
 players: Founder, Sales Lead, CFO
-initialEffort: 21 SP
-ongoingEffort: 8 SP
+initialEffort: 21 SP             # see EFFORT.md — 21 SP is two person-weeks
+ongoingEffort: 8 SP              # cost of ONE recurrence, not the year
 frequency: Quarterly
 stage: Pre-Revenue
 summary: One paragraph, a direct answer, used as the lead everywhere.

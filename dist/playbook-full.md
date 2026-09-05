@@ -1339,6 +1339,25 @@ Prevented by: Board Meeting Preparation.
 
 # Part II — The plays
 
+Each play carries two effort estimates: what it costs to stand up the first
+time, and what one recurrence costs at its cadence. A point is one person's
+working time, not elapsed calendar time and not the team combined.
+
+| SP | Effort | Person-days |
+|---|---|---|
+| 1 | One meeting | 0.25 |
+| 2 | Half a day | 0.5 |
+| 3 | One day | 1 |
+| 5 | One to two days | 1.5 |
+| 8 | Half a week | 2.5 |
+| 13 | One week | 5 |
+| 21 | Two weeks | 10 |
+| 34 | Three weeks | 15 |
+
+Points size one play; they do not sum. To weigh several plays against a
+team, convert each to person-days and add those. Effort also says nothing
+about elapsed time, which depends on how much of the week the owner has.
+
 ## Executive
 
 ### How to Run Executive Execution at a Vertical SaaS Company

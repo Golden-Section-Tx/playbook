@@ -58,8 +58,11 @@ State the basis in the first line. One run at one company is an anecdote and sho
 It is how the corpus's story points get accurate, it takes ten minutes, and a founder can answer it completely honestly without revealing anything about their company.
 
 - Give **initial** and **ongoing** separately. A play whose stand-up is fair but whose recurrence costs triple has a different defect from one simply underestimated.
-- Story points here are Fibonacci — 1, 2, 3, 5, 8, 13, 21, 34. Give points if your team sizes in points, hours or person-days if that is what you track, and label which. The corpus does not define a point in hours, so do not convert.
-- Report the **whole** cost — the two weeks the artifact sat waiting on someone, and the pre-work the play assumed you had done.
+- **Report in person-days.** `EFFORT.md` maps the scale — 3 SP is one day, 13 SP is one person-week, 34 SP is three — so an actual in person-days lands directly against the estimate without anyone guessing at a conversion. Points are fine too if that is how your team sizes; give one or the other, labelled, not a mix.
+- **A point is one person's working time.** Two people for a day is two days. If a step pulled in someone the play never named, their hours count, and say who they were — a play that quietly costs a second person is a defect in the estimate, not a rounding error.
+- **Ongoing is one recurrence**, not the year. If you ran it four times, give the per-recurrence cost and say it is an average of four.
+- Report the **whole** cost — the pre-work the play assumed you had done, and anything you had to rebuild before step 1 was possible.
+- **Elapsed time is a separate number from effort, and both are worth having.** Five person-days spread over six weeks because the owner had half a day a week is not a bad estimate; it is a scheduling fact. Give the calendar span alongside the effort and say roughly how much of the week the owner had.
 - If you stopped partway, say what you spent and where. A play people quit at step 6 has a step-6 problem.
 
 ## Issue or pull request
