@@ -137,7 +137,7 @@ One to three sentences. What happens, and why it costs something.
 - A behavior with a consequence, not a category of risk. "Letting customers
   dictate the terms" is a mistake; "contract risk" is not.
 - Leave out the `**Prevented by**` line. The build writes it from the plays.
-- One of the 168 has no detail sentence, so detail is optional — but write it.
+- One of the 169 has no detail sentence, so detail is optional — but write it.
 
 ## What the build checks
 

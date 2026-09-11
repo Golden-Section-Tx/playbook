@@ -65,7 +65,7 @@ subject of this repo.
 
 Mark what you learn as `Running`, `[absent]`, or `[not asked]`. **Only write
 `[absent]` when it was actually checked.** Most cells will be `[not asked]` and
-that is correct — you have fifteen minutes and there are 70 plays.
+that is correct — you have fifteen minutes and there are 72 plays.
 
 **0:13–0:15 — The conflict question, then close.** Ask it exactly like this:
 *"If I asked your CRM and your accountant for last quarter's revenue, would they

@@ -1,11 +1,11 @@
 ---
 name: playbook-triage
-description: Diagnoses which of the 168 Golden Section mistakes are live in your company, prescribes at most three plays to run now in prerequisite order, states plainly what is being skipped and which numbered mistake each skip accepts, and records in workspace/commitments.md only the plays you explicitly say yes to — use when deciding what to run this quarter, when the playbook feels like 63 things at once, or when someone asks "where do we start".
+description: Diagnoses which of the 169 Golden Section mistakes are live in your company, prescribes at most three plays to run now in prerequisite order, states plainly what is being skipped and which numbered mistake each skip accepts, and records in workspace/commitments.md only the plays you explicitly say yes to — use when deciding what to run this quarter, when the playbook feels like 72 things at once, or when someone asks "where do we start".
 ---
 
 # playbook-triage
 
-Sixty-three plays, 168 mistakes, one quarter, one team that is already busy. Triage is the skill that turns that into three things and a written record of what you chose not to do.
+Seventy-two plays, 169 mistakes, one quarter, one team that is already busy. Triage is the skill that turns that into three things and a written record of what you chose not to do.
 
 The hard part is not finding a play worth running. Almost all of them are. The hard part is being honest about the sixty you are skipping, so that when one of those mistakes lands you recognize it as a decision you made rather than a surprise.
 
@@ -106,7 +106,7 @@ Mandatory. For every play you considered and cut: the play, the mistake numbers 
 |---|---|---|
 | Contract Playbook | [#21](../../MISTAKES.md#m021), [#51](../../MISTAKES.md#m051), [#80](../../MISTAKES.md#m080), [#90](../../MISTAKES.md#m090), [#121](../../MISTAKES.md#m121) | First deal above ACV where a customer redlines the MSA |
 
-**Sole-preventer escalation.** 67 of the 168 mistakes have exactly one play preventing them. Where a cut accepts a mistake you marked `confirmed`, whose cost is high, and whose *only* preventer in the corpus is the play being cut, that acceptance does not sit in the table. Pull it above the table, in one sentence, with the condition that would reverse it. Cutting Cash Flow Forecast at a company with nine months of runway accepts [#142](../../MISTAKES.md#m142) and [#136](../../MISTAKES.md#m136) with nothing else in the corpus standing behind them.
+**Sole-preventer escalation.** 59 of the 169 mistakes have exactly one play preventing them. Where a cut accepts a mistake you marked `confirmed`, whose cost is high, and whose *only* preventer in the corpus is the play being cut, that acceptance does not sit in the table. Pull it above the table, in one sentence, with the condition that would reverse it. Cutting Cash Flow Forecast at a company with nine months of runway accepts [#142](../../MISTAKES.md#m142) and [#136](../../MISTAKES.md#m136) with nothing else in the corpus standing behind them.
 
 And note the floor: 12 mistakes have no preventing play at all. If a live mistake is one of them, no prescription will cover it — say that instead of prescribing something adjacent.
 

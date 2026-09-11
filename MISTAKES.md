@@ -13,9 +13,9 @@ The plays live in [`plays/`](plays/README.md). Downloadable working templates
 live in [`templates/`](templates/).
 
 <!-- GS:COUNTS start -->
-**168 mistakes · 70 plays · 59 templates.**  
-Plays by category: Executive 12 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
-156 of 168 mistakes have at least one play mapped.
+**169 mistakes · 72 plays · 59 templates.**  
+Plays by category: Executive 14 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
+158 of 169 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ---
@@ -306,7 +306,7 @@ Commission structures are semi-permanent in nature. It is hard to walk one back.
 
 Something goes wrong, someone needs to account for it. Don't tolerate ambiguity here.
 
-**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md)
+**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m037"></a>37 · No meetings... no minutes
 
@@ -314,7 +314,7 @@ Something goes wrong, someone needs to account for it. Don't tolerate ambiguity 
 
 Minutes prove meetings and give accountability for the white space on an org chart. Don't skip them.
 
-**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md)
+**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m038"></a>38 · No agendas for meetings
 
@@ -322,7 +322,7 @@ Minutes prove meetings and give accountability for the white space on an org cha
 
 Meetings without an agenda might as well be a brunch. Nothing will get done.
 
-**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
+**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m039"></a>39 · No employee onboarding
 
@@ -474,7 +474,7 @@ Start with value. A product without value isn't anything. And value without dist
 
 How do you know where you are if you don't have a map? Benchmark your company and keep track. The harder to measure, the more valuable the practice.
 
-**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [SaaS Metrics](plays/sales-marketing/saas-metrics-guide.md) · [Seasonal Churn Segmentation](plays/customer/saas-seasonal-churn-segmentation.md)
+**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [SaaS Metrics](plays/sales-marketing/saas-metrics-guide.md) · [Seasonal Churn Segmentation](plays/customer/saas-seasonal-churn-segmentation.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
 
 ### <a id="m058"></a>58 · Not doing research on a customer before meeting
 
@@ -818,7 +818,7 @@ _No play is mapped to this mistake yet._
 
 Document your key processes.
 
-**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md)
+**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m101"></a>101 · Lack of process ownership
 
@@ -826,7 +826,7 @@ Document your key processes.
 
 Every process needs an owner.
 
-**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md)
+**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m102"></a>102 · No proof of process conformance
 
@@ -834,7 +834,7 @@ Every process needs an owner.
 
 Every process should have a deliverable and evidence of conformance. Demand this.
 
-**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md)
+**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m103"></a>103 · Sweating the small expenses
 
@@ -858,7 +858,7 @@ The only valid activity from S&M is sales activity. Don't let the activity shift
 
 Make sure your team has appropriate recharge time. Make sure you do too.
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
 
 ### <a id="m106"></a>106 · Founder stepping into a subordinate’s process
 
@@ -882,7 +882,7 @@ Get on top of AR and do it quickly. Bad AR processes is like running a marathon 
 
 Every core activity in your company needs a person accountable for it. Don't let overlapping responsibilities cause underperformance.
 
-**Prevented by** · [Sales Org Chart](plays/sales-marketing/saas-sales-org-chart.md) · [Dev Org Chart](plays/development/saas-dev-org-chart.md)
+**Prevented by** · [Sales Org Chart](plays/sales-marketing/saas-sales-org-chart.md) · [Dev Org Chart](plays/development/saas-dev-org-chart.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m109"></a>109 · Expecting customers to expand without a pitch
 
@@ -920,7 +920,7 @@ A product roadmap is an investment plan. Don't tolerate low resolution on the pl
 
 Software companies are all about people. Poor performance can become cultural. Dive in on missed goals (budgets, promises, etc.) and find the reasons with your team. Don't let it slip by; even the small stuff.
 
-**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Quality Management System](plays/operations/saas-quality-management-system.md)
+**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m114"></a>114 · Accepting the phrase “we’re too thinly staffed”
 
@@ -936,7 +936,7 @@ Every software company, regardless the size, is ‘too thinly staffed.’ This i
 
 There are tons of tensions in software companies. Don't let problems keep emerging (similar to #93). When you hear your team talk about a problem more than once, stop and dig in and help them solve it. Unmanaged problems grow like debt and are harder to control.
 
-**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Quality Management System](plays/operations/saas-quality-management-system.md)
+**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m116"></a>116 · Not managing expectations
 
@@ -1048,7 +1048,7 @@ Culture Flywheel - the more you invest into your company culture, the more devot
 
 Part of being a founder is making the tough calls. Don’t make other people do this for you. Delegating when you feel the urge to run is a guarantee for failure.
 
-**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md)
+**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
 
 ### <a id="m130"></a>130 · Expecting a customer to expand without selling
 
@@ -1064,7 +1064,7 @@ Pay requires work and work requires effort. Don’t expect customers to expand w
 
 Stop wasting time on things that aren’t going to grow your company.
 
-**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md)
+**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
 
 ### <a id="m132"></a>132 · Too broad of product
 
@@ -1192,7 +1192,7 @@ _No play is mapped to this mistake yet._
 
 Delaying difficult decisions only makes problems worse. Proactive decision-making prevents crises and builds long-term stability.
 
-**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
+**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
 
 ### <a id="m148"></a>148 · Changing value proposition after receiving captial
 
@@ -1240,7 +1240,7 @@ You don’t operate in a vacuum. Competitors emerge, power shifts, and new playe
 
 Progress requires concentrated force. Spreading your energy across 25 half-baked strategies won’t get you anywhere. Pick one, apply real weight, and see if it moves. You can’t cheat physics.
 
-**Prevented by** · [Define the Mission](plays/executive/define-saas-company-mission.md) · [Go-to-Market Strategy](plays/sales-marketing/vertical-saas-go-to-market-strategy.md)
+**Prevented by** · [Define the Mission](plays/executive/define-saas-company-mission.md) · [Go-to-Market Strategy](plays/sales-marketing/vertical-saas-go-to-market-strategy.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
 
 ### <a id="m154"></a>154 · Revolving Door of Technical Talent
 
@@ -1280,7 +1280,7 @@ Users don’t experience your product’s codebase, they experience how it feels
 
 Pushing for volume when the engine is cracked just makes the breakdown faster. Growth only works if the foundation is sound. Pause, check your unit economics and ICP, and then pour gas on it. Don’t sprint the wrong direction.
 
-**Prevented by** · [Unit Economics](plays/sales-marketing/saas-unit-economics.md) · [Sales Efficiency Ratio](plays/sales-marketing/saas-sales-efficiency-ratio.md)
+**Prevented by** · [Unit Economics](plays/sales-marketing/saas-unit-economics.md) · [Sales Efficiency Ratio](plays/sales-marketing/saas-sales-efficiency-ratio.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
 
 ### <a id="m159"></a>159 · Quitting Strategy Too Early
 
@@ -1361,3 +1361,11 @@ Some verticals close for the season and reopen the next one, and if that pause i
 You bring the board the version of the quarter that makes your case, and you bring decisions you have already made and want ratified. That room holds the widest range of view you will assemble all year, and you have spent it on applause. You leave with a rubber stamp and without the one thing you actually needed.
 
 **Prevented by** · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
+
+### <a id="m169"></a>169 · Running the company without an execution operating system
+
+`Executive · Operations`
+
+The experienced managers skip this most often, because they have run teams before and the running lived in their head. A team cannot read your head: with no named cadence, no scorecard carrying an owner on every line, no three priorities for the quarter and no single name in each seat, the all-hands where you get real about performance is a threat rather than a system — and strong people read a threat without a structure as a leader who does not know what is wrong. The tell is asking what operating system the company runs on and getting "dashboards and accountability" back, with nothing after it.
+
+**Prevented by** · [Execution Operating System](plays/executive/saas-execution-operating-system.md)

@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-**70 plays and 168 mistakes for building a B2B vertical SaaS company.**
+**72 plays and 169 mistakes for building a B2B vertical SaaS company.**
 
 Golden Section has spent more than a decade operating alongside vertical SaaS
 founders, and has watched over 400 companies make the same mistakes in roughly
@@ -15,17 +15,17 @@ published it, and how to tell the advice that is worth taking from the advice
 that is merely loud.
 
 <!-- GS:COUNTS start -->
-**168 mistakes · 70 plays · 59 templates.**  
-Plays by category: Executive 12 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
-156 of 168 mistakes have at least one play mapped.
+**169 mistakes · 72 plays · 59 templates.**  
+Plays by category: Executive 14 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
+158 of 169 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ## Start here
 
 | | |
 |---|---|
-| **[MISTAKES.md](MISTAKES.md)** | All 168, numbered, with the plays that prevent each one. Start here if something already hurts. |
-| **[plays/](plays/README.md)** | The 70 plays, one Markdown file each — what to do, who owns it, how long it takes. Start here if you are building rather than firefighting. |
+| **[MISTAKES.md](MISTAKES.md)** | All 169, numbered, with the plays that prevent each one. Start here if something already hurts. |
+| **[plays/](plays/README.md)** | The 72 plays, one Markdown file each — what to do, who owns it, how long it takes. Start here if you are building rather than firefighting. |
 | **[templates/](templates/)** | 59 working Excel templates, one or more per play. The actual models, not screenshots of them. |
 | **[EFFORT.md](EFFORT.md)** | What the story points on every play mean, in person-days — and what they do not mean. Read before scheduling anything. |
 | **[dist/playbook-full.md](dist/playbook-full.md)** | The entire corpus as one file. For feeding to an AI, or reading on a plane. |
@@ -39,7 +39,7 @@ will always be *Running out of cash*, whatever the wording becomes.
 
 **If you are a founder.** Read the mistakes list once, end to end. It takes
 about twenty minutes and it is the highest-return twenty minutes in here —
-not because you will remember all 168, but because you will recognize three of
+not because you will remember all 169, but because you will recognize three of
 them as things happening in your company right now. Then run those plays.
 
 **If you are an operator or advisor.** The plays carry effort estimates in story

@@ -1,11 +1,11 @@
 ---
 name: mistake-watch
-description: Reads your own record of the period — meeting notes, transcripts, standups, a board deck, a Slack export, or just a conversation about the month — against the 168 numbered Golden Section mistakes and reports which are visibly in progress, each with a dated quote or figure, a confirmed or suspected grade, the play that prevents it, and how it moved since the last run. Use monthly, before a board meeting, or after a quarter that got away from you.
+description: Reads your own record of the period — meeting notes, transcripts, standups, a board deck, a Slack export, or just a conversation about the month — against the 169 numbered Golden Section mistakes and reports which are visibly in progress, each with a dated quote or figure, a confirmed or suspected grade, the play that prevents it, and how it moved since the last run. Use monthly, before a board meeting, or after a quarter that got away from you.
 ---
 
 # mistake-watch
 
-`play-hunt` reads transcripts to find what the corpus is missing. This is the same discipline pointed the other way: read what actually happened at **your** company against the 168 mistakes that are already numbered, and say which ones you are making.
+`play-hunt` reads transcripts to find what the corpus is missing. This is the same discipline pointed the other way: read what actually happened at **your** company against the 169 mistakes that are already numbered, and say which ones you are making.
 
 Monthly is the natural cadence. The value is not in any single run — it is in the third one, when a mistake you first flagged in June is still live in August. That is why this skill keeps a log.
 
@@ -29,7 +29,7 @@ Monthly is the natural cadence. The value is not in any single run — it is in 
 
 **A match requires a specific observed behavior, with a quote or a figure, and a date.** Not a mood, not a theme, not an inference from tone.
 
-This is the whole skill. There are 168 mistakes and every company is doing something wrong; an assistant that pattern-matches moods onto that list produces a horoscope, and a monthly horoscope is worse than nothing because it trains you to ignore it.
+This is the whole skill. There are 169 mistakes and every company is doing something wrong; an assistant that pattern-matches moods onto that list produces a horoscope, and a monthly horoscope is worse than nothing because it trains you to ignore it.
 
 Grade every match:
 
@@ -45,7 +45,7 @@ The second half of the `confirmed` requirement is the one that gets skipped, bec
 
 **A process working badly is not the same finding as a process not existing.** #8 is *No meeting cadence with sales*. A sales meeting that happened and skipped the pipeline is evidence about the quality of that cadence, dated and quotable and entirely real — and it argues against #8 rather than for it, because the meeting took place. That is a `suspected` at most, and usually it is pointing at a different mistake (see step 6).
 
-Watch for this everywhere, not just on #8: **46 of the 168 titles are phrased as absences** — *No…*, *Not…*, *Failing to…*. Every one of them will accept, without complaining, evidence that the thing is merely being done badly. Slow down on that whole class.
+Watch for this everywhere, not just on #8: **46 of the 169 titles are phrased as absences** — *No…*, *Not…*, *Failing to…*. Every one of them will accept, without complaining, evidence that the thing is merely being done badly. Slow down on that whole class.
 
 If the honest answer for a run is two confirmed and nothing else, that is the answer. Do not pad to look thorough.
 
@@ -60,7 +60,7 @@ If the honest answer for a run is two confirmed and nothing else, that is the an
 
    When they are not the same claim, ask the next question rather than stopping: **which numbered mistake does the evidence actually name?** Grep for it. A cadence that runs but skips the pipeline is a finding about how the preventing play is being run, so check whether it belongs in the context as `lapsed` rather than `absent` — a play whose artifact exists and whose discipline has stopped is the single most useful thing this skill can catch, and it is invisible if the evidence gets filed against an absence mistake instead.
 7. **Check the previous run's live list one by one.** Each is still live, closed, or unevidenced this period. "Unevidenced this period" is not closed — say so and keep it live with a note.
-8. **Find the preventing play** for every confirmed match, from that mistake's `Prevented by` line in `MISTAKES.md` (generated from each play's `preventsMistakes` frontmatter — that graph is the source of truth, so do not invent a pairing). Then check the context: do they run it, is it absent, or is it unchecked? Fourteen of the 168 have no play mapped. If yours is one, say so — that is a `play-hunt` finding, not a hole in your operation.
+8. **Find the preventing play** for every confirmed match, from that mistake's `Prevented by` line in `MISTAKES.md` (generated from each play's `preventsMistakes` frontmatter — that graph is the source of truth, so do not invent a pairing). Then check the context: do they run it, is it absent, or is it unchecked? Twelve of the 169 have no play mapped. If yours is one, say so — that is a `play-hunt` finding, not a hole in your operation.
 9. **Rank by cost** — money, months, or a customer at risk. Not by how confident you feel.
 10. **Write the log entry, then the output.**
 11. **Update the context** with any coverage fact or fit input the sources revealed, per `_shared/workspace.md`.

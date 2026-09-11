@@ -1,11 +1,11 @@
 ---
 name: play-hunt
-description: Read founder and portfolio meeting transcripts against the Golden Section corpus of 70 plays and 168 mistakes — flag the mistakes visibly in progress, surface new mistake candidates, and hunt new play candidates, each with a short anonymized case study and a scored argument for why it deserves to be a play. Use when reviewing calls, board meetings, or a week of meetings for what the playbook does and does not already cover.
+description: Read founder and portfolio meeting transcripts against the Golden Section corpus of 72 plays and 169 mistakes — flag the mistakes visibly in progress, surface new mistake candidates, and hunt new play candidates, each with a short anonymized case study and a scored argument for why it deserves to be a play. Use when reviewing calls, board meetings, or a week of meetings for what the playbook does and does not already cover.
 ---
 
 # play-hunt
 
-The corpus in this repository came from watching over 400 companies make the same mistakes in roughly the same order. This skill is how that watching continues: read what founders actually said against all 70 plays and 168 mistakes, and come back with three things.
+The corpus in this repository came from watching over 400 companies make the same mistakes in roughly the same order. This skill is how that watching continues: read what founders actually said against all 72 plays and 169 mistakes, and come back with three things.
 
 1. The numbered mistakes visibly in progress, with the play that prevents each.
 2. The mistakes the list does not have yet.

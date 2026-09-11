@@ -12,10 +12,10 @@ right now, and what to do about it on Monday.**
 | Skill | What it does |
 |---|---|
 | [`context-interview`](context-interview/SKILL.md) | Fifteen minutes on the clock, once. Writes `workspace/company-context.md`, which every other skill reads. |
-| [`playbook-triage`](playbook-triage/SKILL.md) | Which of the 168 mistakes are live in your company, at most three plays to run now in the right order, and what you are choosing to skip — with the mistake each skip accepts. |
+| [`playbook-triage`](playbook-triage/SKILL.md) | Which of the 169 mistakes are live in your company, at most three plays to run now in the right order, and what you are choosing to skip — with the mistake each skip accepts. |
 | [`artifact-review`](artifact-review/SKILL.md) | The cash model, pricing matrix, or ARR schedule you already have, held against the play that governs it. Grades it Running, Nominal, Hollow, or Absent. |
 | [`run-play`](run-play/SKILL.md) | One play into assigned, dated work — in your task manager, as a CSV import, or as a PDF with one page per person. |
-| [`mistake-watch`](mistake-watch/SKILL.md) | Your own meeting notes and records against the 168, monthly, so a mistake live for three runs looks different from a new one. |
+| [`mistake-watch`](mistake-watch/SKILL.md) | Your own meeting notes and records against the 169, monthly, so a mistake live for three runs looks different from a new one. |
 | [`field-report`](field-report/SKILL.md) | What actually happened when you ran a play, contributed back anonymized. Including — especially — when it didn't work. |
 
 ## For operators, advisors, and contributors
@@ -30,8 +30,8 @@ right now, and what to do about it on Monday.**
 | File | What it is |
 |---|---|
 | [`play-forge/references/play-template.md`](play-forge/references/play-template.md) | The scaffold. Correct frontmatter key order, correct body markers. |
-| [`play-forge/references/play-anatomy.md`](play-forge/references/play-anatomy.md) | Every field rule and body convention, with how many of the 70 plays use each. |
-| [`play-forge/scripts/check_play.py`](play-forge/scripts/check_play.py) | `python3 check_play.py DRAFT.md --corpus .` — validates a draft. No dependencies. Passes all 70 existing plays. |
+| [`play-forge/references/play-anatomy.md`](play-forge/references/play-anatomy.md) | Every field rule and body convention, with how many of the 72 plays use each. |
+| [`play-forge/scripts/check_play.py`](play-forge/scripts/check_play.py) | `python3 check_play.py DRAFT.md --corpus .` — validates a draft. No dependencies. Passes all 72 existing plays. |
 
 ## Shared
 

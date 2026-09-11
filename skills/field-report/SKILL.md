@@ -7,7 +7,7 @@ description: Turn a play the company actually ran into an anonymized field repor
 
 You ran the play. Standing it up took half again what the estimate said. You cut a step because you have no CS Lead. The artifact got built, held for six weeks, and then nobody updated it.
 
-That is the most useful thing anyone can send this corpus, and almost nobody sends it. The 70 plays were written from watching companies operate; they get better the same way. This skill turns one run of one play into a structured, anonymized report and gets it upstream — as an issue, or a pull request.
+That is the most useful thing anyone can send this corpus, and almost nobody sends it. The 72 plays were written from watching companies operate; they get better the same way. This skill turns one run of one play into a structured, anonymized report and gets it upstream — as an issue, or a pull request.
 
 It is the only skill in this set whose output leaves your machine, so read the anonymization section first. Pairs with [`play-forge`](../play-forge/SKILL.md), which owns authoring — when the report has become a proposed edit to the play, hand off to it.
 

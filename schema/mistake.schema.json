@@ -32,7 +32,7 @@
       }
     },
     "detail": {
-      "description": "One to three sentences: what happens, and why it costs something. Optional — one of the 161 has none.",
+      "description": "One to three sentences: what happens, and why it costs something. Optional — one of the 169 has none.",
       "type": "string"
     },
     "preventedBy": {

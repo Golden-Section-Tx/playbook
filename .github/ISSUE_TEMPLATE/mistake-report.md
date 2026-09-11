@@ -1,6 +1,6 @@
 ---
 name: A mistake we are missing
-about: Something you have watched happen that is not in the 161
+about: Something you have watched happen that is not in the 169
 title: 'Mistake: '
 labels: mistake-candidate
 ---
@@ -17,7 +17,7 @@ labels: mistake-candidate
 **The mistake, as a behaviour**
 
 <!-- What the company actually did. Not the category of risk — the specific
-     thing. Compare the tone of the existing 161: short, blunt, earned. -->
+     thing. Compare the tone of the existing 169: short, blunt, earned. -->
 
 **What it cost**
 

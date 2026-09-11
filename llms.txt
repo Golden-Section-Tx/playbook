@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-> 70 plays and 168 mistakes for building a B2B vertical SaaS
+> 72 plays and 169 mistakes for building a B2B vertical SaaS
 > company, from a firm that has watched over 400 of them. Every mistake is
 > paired with the play that prevents it.
 
@@ -14,8 +14,8 @@ licensed. Alternative terms on request: open an issue.
 
 ## Primary documents
 
-- [MISTAKES.md](MISTAKES.md): all 168 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
-- [plays/README.md](plays/README.md): index of all 70 plays with owners, cadence, and effort.
+- [MISTAKES.md](MISTAKES.md): all 169 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
+- [plays/README.md](plays/README.md): index of all 72 plays with owners, cadence, and effort.
 - [EFFORT.md](EFFORT.md): what the story-point estimates on each play mean, and what they do not.
 - [templates/](templates/): 59 working Excel models, mapped to plays.
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to propose a change.
@@ -37,6 +37,8 @@ licensed. Alternative terms on request: open an issue.
 - [Audited Financials](plays/executive/saas-audited-financials.md): Engage auditors to produce audited financial statements that instill investor and customer confidence, reveal operational issues, and demonstrate governance maturity to potential acquirers.
 - [Insurance](plays/executive/saas-company-insurance.md): Secure the essential insurance policies (E&O/professional liability and D&O) that protect your company, directors, and investors from catastrophic financial risk.
 - [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md): Prepare your board before the meeting rather than during it, with a fixed packet measured against a plan they already approved, a narrated walkthrough sent a week ahead, and an agenda carrying no more than two decisions you are genuinely unsure about.
+- [Execution Operating System](plays/executive/saas-execution-operating-system.md): Pick one execution framework — EOS, Scaling Up, or OKRs — and install it whole, with an accountability chart carrying one owner per seat, a weekly scorecard with a target beside every number, three to five priorities a quarter, a fixed meeting rhythm that solves issues instead of reporting them, and one platform where all of it lives.
+- [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md): Complete the Meaningful Exit form to state in writing what the end of this company looks like and what it has to be worth, derive from it the buyer archetype that ends up owning the business, benchmark yourself against what that buyer underwrites, and hand the gaps to your operating system as quarterly priorities so every quarter moves toward the exit on purpose.
 
 ### Sales & Marketing
 

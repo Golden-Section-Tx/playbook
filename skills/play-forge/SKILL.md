@@ -16,7 +16,7 @@ Do not write a play from a description of the format, including this one. The fo
 | File | What it is |
 |---|---|
 | [`references/play-template.md`](references/play-template.md) | The scaffold. Copy it and fill it in. Correct key order, correct markers. |
-| [`references/play-anatomy.md`](references/play-anatomy.md) | Every field rule and every body convention, with how many of the 70 plays use each. The authority on everything the JSON schema cannot express. |
+| [`references/play-anatomy.md`](references/play-anatomy.md) | Every field rule and every body convention, with how many of the 72 plays use each. The authority on everything the JSON schema cannot express. |
 | [`scripts/check_play.py`](scripts/check_play.py) | The validator. Run it before you commit. No dependencies. |
 
 Then read the nearest three existing plays in the category you are writing for. The template gets the structure right; only the real plays get the voice right.
@@ -53,7 +53,7 @@ curl -sS -O https://raw.githubusercontent.com/golden-section-tx/playbook/main/MI
 
    All four must answer. If it cannot be scheduled, it is an essay. Also declined at source: generic startup advice, anything that reads as marketing for a product or service, and material that is not about B2B vertical software.
 
-3. **Copy `references/play-template.md`** to `plays/<category>/<slug>.md` and fill it in. The two things authors get wrong: `templates:` sits **before** `summary:`, not at the end; and the key order is fixed — every one of the 70 plays uses it.
+3. **Copy `references/play-template.md`** to `plays/<category>/<slug>.md` and fill it in. The two things authors get wrong: `templates:` sits **before** `summary:`, not at the end; and the key order is fixed — every one of the 72 plays uses it.
 
 4. **Write the body to the measured shape**, not to a remembered one. `references/play-anatomy.md` carries the counts; the short version:
    - **Opening prose**, one to four paragraphs (66/70). The case for why this matters, second person, to a founder who is busy. One earned observation — what you know from watching it go wrong.
@@ -73,7 +73,7 @@ curl -sS -O https://raw.githubusercontent.com/golden-section-tx/playbook/main/MI
 
    It checks required fields, key order, the closed vocabularies, slug-equals-filename, category-equals-folder, uniqueness of `order`/`slug`/`anchor` against the corpus, that every `preventsMistakes` number exists in `MISTAKES.md`, that every referenced template is on disk, the body conventions above, and a short list of filler phrases. Errors fail; warnings are conventions the corpus itself breaks occasionally and are worth a second look rather than obedience.
 
-   It passes all 70 existing plays, so a failure on yours means yours is the outlier.
+   It passes all 72 existing plays, so a failure on yours means yours is the outlier.
 
 ## Steps — authoring a mistake
 
