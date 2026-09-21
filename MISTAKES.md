@@ -13,9 +13,9 @@ The plays live in [`plays/`](plays/README.md). Downloadable working templates
 live in [`templates/`](templates/).
 
 <!-- GS:COUNTS start -->
-**169 mistakes · 72 plays · 59 templates.**  
-Plays by category: Executive 14 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
-158 of 169 mistakes have at least one play mapped.
+**169 mistakes · 73 plays · 60 templates.**  
+Plays by category: Executive 15 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
+161 of 169 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ---
@@ -26,7 +26,7 @@ Plays by category: Executive 14 · Sales & Marketing 23 · Customer 11 · Operat
 
 Trust but verify… especially when equity is involved.
 
-**Prevented by** · [Employee Agreement](plays/executive/saas-employee-agreements.md)
+**Prevented by** · [Employee Agreement](plays/executive/saas-employee-agreements.md) · [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md)
 
 ### <a id="m002"></a>2 · Letting logic get into the database
 
@@ -42,7 +42,7 @@ Never let tech put logic in the database.
 
 There are no ‘deals’ where people are concerned. Don’t hire cheap and expect expertise.
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md)
 
 ### <a id="m004"></a>4 · Letting customers dictate the terms
 
@@ -130,7 +130,7 @@ Rolodex sales people never deliver. Don’t do it.
 
 You need experience in building a company. Training is a luxury of big firms. Not small ones.
 
-**Prevented by** · [Training Process](plays/operations/saas-customer-training.md)
+**Prevented by** · [Training Process](plays/operations/saas-customer-training.md) · [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md)
 
 ### <a id="m015"></a>15 · Focusing on input cost rather than output cost
 
@@ -242,7 +242,7 @@ Focus on the cost and quality of the output... its harder to measure but ultimat
 
 Vetting technical talent is important and nearly impossible without technical know-how.
 
-**Prevented by** · [Dev Org Chart](plays/development/saas-dev-org-chart.md)
+**Prevented by** · [Dev Org Chart](plays/development/saas-dev-org-chart.md) · [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md)
 
 ### <a id="m029"></a>29 · Obsession with full-stack engineers
 
@@ -274,7 +274,7 @@ Scale requires second and third order thinking. Don't be myopic. Think about the
 
 Be careful here. You company needs different skills as it scales. If you can't fire someone who isn't a fit anymore then you have a liability that will never go away.
 
-**Prevented by** · [Employee Agreement](plays/executive/saas-employee-agreements.md)
+**Prevented by** · [Employee Agreement](plays/executive/saas-employee-agreements.md) · [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md)
 
 ### <a id="m033"></a>33 · Overpaying for talent... underpaying for talent
 
@@ -282,7 +282,7 @@ Be careful here. You company needs different skills as it scales. If you can't f
 
 Talent is worth what it is worth. If you need a heavy hitter, then you need to be prepared to pay for it. There are no ‘deals’ in this space. Be careful about paying more than market but be fearful about paying under it.
 
-**Prevented by** · [Employee Agreement](plays/executive/saas-employee-agreements.md)
+**Prevented by** · [Employee Agreement](plays/executive/saas-employee-agreements.md) · [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md)
 
 ### <a id="m034"></a>34 · Not aligning interests
 
@@ -1136,7 +1136,7 @@ Your pricing should be inline how long your sales cycle is. The less you charge 
 
 Hiring takes more time than you think. Utilize the resources that Golden Section provides. (If you are using Guide Services, you get 4 free hires every year!)
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md)
 
 ### <a id="m141"></a>141 · Disconnecting from partners (isolating)
 
@@ -1184,7 +1184,7 @@ Hiring doesn’t directly correlate to creating value. Make sure you aren’t de
 
 Don’t be fearful of hiring someone who is better than you at something. You should hire people to fill in your weak spots.
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md)
 
 ### <a id="m147"></a>147 · Avoiding tough but proactive decision making
 
@@ -1248,7 +1248,7 @@ Progress requires concentrated force. Spreading your energy across 25 half-baked
 
 If every product update comes with a new engineering lead, you don’t have a team, you have a temp agency. Talent turnover kills product memory and momentum.
 
-**Prevented by** · [Dev Org Chart](plays/development/saas-dev-org-chart.md)
+**Prevented by** · [Dev Org Chart](plays/development/saas-dev-org-chart.md) · [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md)
 
 ### <a id="m155"></a>155 · Services Should Support Product, Not Replace It
 
