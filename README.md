@@ -15,9 +15,9 @@ published it, and how to tell the advice that is worth taking from the advice
 that is merely loud.
 
 <!-- GS:COUNTS start -->
-**169 mistakes · 72 plays · 59 templates.**  
-Plays by category: Executive 14 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
-158 of 169 mistakes have at least one play mapped.
+**169 mistakes · 73 plays · 60 templates.**  
+Plays by category: Executive 15 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
+161 of 169 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ## Start here
