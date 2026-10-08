@@ -11,6 +11,18 @@ recorded as removed rather than renumbered.
 
 ### Added
 
+- **The Exit Playbook** (`EXIT-PLAYBOOK.md`) — a sequence of eight executive plays
+  that takes a founder from defining the exit to negotiating it, with an
+  introduction and a guide to where to start by time to exit. Builds on the
+  existing Meaningful Exit Plan (72) and adds plays 75 to 81:
+  **Exit Roadmap** (a dated exit window and gaps sequenced by lead time, structural
+  work first), **Exit Data Room**, **Founder Independence (The Vacation Test)**,
+  **Pre-Sale Value Levers**, **Selecting an Investment Banker**,
+  **Running the Company During a Sale** and **Negotiating the Exit**. Number 74
+  is held for AI Vendor Continuity.
+- **Skill `leader-time-audit`** — a leader's stated priorities against where
+  their calendar, meetings and email show the time went.
+
 - **Play 70, Board Meeting Preparation** (`plays/executive/saas-board-meeting-prep.md`)
   — Executive, quarterly, Founder/Board/CFO. Covers what goes in front of a board
   before the meeting and what the meeting itself is for: the plan of record, the

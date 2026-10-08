@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-> 73 plays and 169 mistakes for building a B2B vertical SaaS
+> 80 plays and 169 mistakes for building a B2B vertical SaaS
 > company, from a firm that has watched over 400 of them. Every mistake is
 > paired with the play that prevents it.
 
@@ -15,7 +15,7 @@ licensed. Alternative terms on request: open an issue.
 ## Primary documents
 
 - [MISTAKES.md](MISTAKES.md): all 169 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
-- [plays/README.md](plays/README.md): index of all 73 plays with owners, cadence, and effort.
+- [plays/README.md](plays/README.md): index of all 80 plays with owners, cadence, and effort.
 - [EFFORT.md](EFFORT.md): what the story-point estimates on each play mean, and what they do not.
 - [templates/](templates/): 59 working Excel models, mapped to plays.
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to propose a change.
@@ -40,6 +40,13 @@ licensed. Alternative terms on request: open an issue.
 - [Execution Operating System](plays/executive/saas-execution-operating-system.md): Pick one execution framework — EOS, Scaling Up, or OKRs — and install it whole, with an accountability chart carrying one owner per seat, a weekly scorecard with a target beside every number, three to five priorities a quarter, a fixed meeting rhythm that solves issues instead of reporting them, and one platform where all of it lives.
 - [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md): Complete the Meaningful Exit form to state in writing what the end of this company looks like and what it has to be worth, derive from it the buyer archetype that ends up owning the business, benchmark yourself against what that buyer underwrites, and hand the gaps to your operating system as quarterly priorities so every quarter moves toward the exit on purpose.
 - [Hiring A Players (Topgrading)](plays/executive/saas-topgrading-hiring.md): Define the role on a weighted scorecard before you meet anyone, set the budget before you fall in love with a candidate, and score every competency against evidence a dispassionate third party would accept—so a new hire adds leverage instead of subtracting it.
+- [Exit Roadmap](plays/executive/saas-exit-roadmap.md): Take the gaps from the Meaningful Exit plan's benchmark sheet, sort them into workstreams by area, sequence them by lead time so the structural work that takes years starts first, give each one an owner and a quarterly rock, and anchor the whole thing to a dated exit window, so the company is shaped toward what buyers pay for instead of scrambled into it in the last six months.
+- [Exit Data Room](plays/executive/saas-exit-data-room.md): Assemble the data room by the questions a buyer asks, give every folder an executive owner, then read the whole thing yourself as a hostile buyer would and send your team the questions without your answers, so that every anomaly has either an explanation on file or a fix on the calendar before anyone outside the company opens it, and keep it current on the monthly close instead of rebuilding it when a process starts.
+- [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md): Measure how much of the company still runs through you, starting with your share of new ACV, the top accounts only you hold and the decisions only you make, then hand those off on purpose, prove it with staged absences of 30 days, 90 days and six months, and put a successor, written decision rights and a pre-sized retention pool in place, so a buyer is paying for a business and not for you.
+- [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md): Pick the handful of metrics your buyer actually prices — Rule of 40, net revenue retention, proven pricing power, customer concentration, gross margin and clean earnings — and spend the last four to six quarters before a process moving them in run-rate where a buyer can see them, while clearing the tax, cap table and contract debris that turns into escrow and price chips in diligence, and refusing the cosmetic moves a buyer will normalize away.
+- [Selecting an Investment Banker](plays/executive/saas-investment-banker-selection.md): Start banker conversations twelve to eighteen months before you intend to sell, build a shortlist from closed transactions in your size band and vertical rather than from brand names, interview the people who will actually run your deal, negotiate the engagement letter's fee, tail, term and carve-outs with counsel before you sign, agree the process design in writing, and then run the relationship on a fixed weekly cadence.
+- [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md): Treat the quarters you sell in as the most scrutinized of the company's life — stand up a small deal team with a code name, hand day-to-day operations to a named operator, protect a forecast you will beat, run diligence from a single request tracker, decide in advance who learns about the sale and when, put retention agreements in place for the people the buyer is paying for, and keep the exec team on their weekly numbers so the business does not drift while the founder negotiates.
+- [Negotiating the Exit](plays/executive/saas-exit-negotiation.md): Convert every offer into what actually reaches you after net debt, the working capital peg, fees, escrow, earnout, rollover and the preference stack, negotiate the terms that decide that number before you sign exclusivity rather than after, expect a re-trade and prepare the evidence to resist it, keep a second bidder warm until signing, and hold a walk-away anchored to the Floor, Enough and Temptation in your Meaningful Exit Plan.
 
 ### Sales & Marketing
 

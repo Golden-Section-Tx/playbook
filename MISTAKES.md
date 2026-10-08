@@ -13,9 +13,9 @@ The plays live in [`plays/`](plays/README.md). Downloadable working templates
 live in [`templates/`](templates/).
 
 <!-- GS:COUNTS start -->
-**169 mistakes · 73 plays · 60 templates.**  
-Plays by category: Executive 15 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
-161 of 169 mistakes have at least one play mapped.
+**169 mistakes · 80 plays · 60 templates.**  
+Plays by category: Executive 22 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
+164 of 169 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ---
@@ -162,7 +162,7 @@ Nothing works out the way you think it will. Protect your future self.
 
 Keep it simple silly...
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Exit Data Room](plays/executive/saas-exit-data-room.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md)
 
 ### <a id="m019"></a>19 · Not communicating with investors
 
@@ -170,7 +170,7 @@ _No play is mapped to this mistake yet._
 
 If you don't, then you might as well shut down... keep investors well informed and not only positive stuff.
 
-**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
+**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md) · [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md)
 
 ### <a id="m020"></a>20 · Hip-shot product pricing
 
@@ -178,7 +178,7 @@ If you don't, then you might as well shut down... keep investors well informed a
 
 Pricing should ALWAYS be informed by customer value. Pricing in a vacuum is either too much or too little or too confusing...
 
-**Prevented by** · [Value Proposition & Customer ROI](plays/sales-marketing/saas-value-proposition-customer-roi.md) · [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md) · [AI Pricing Model Selection](plays/sales-marketing/ai-pricing-model-selection.md)
+**Prevented by** · [Value Proposition & Customer ROI](plays/sales-marketing/saas-value-proposition-customer-roi.md) · [Pricing Matrix](plays/sales-marketing/saas-pricing-matrix.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md) · [AI Pricing Model Selection](plays/sales-marketing/ai-pricing-model-selection.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md)
 
 ### <a id="m021"></a>21 · Founder playing ‘lawyer’ on contracts
 
@@ -186,7 +186,7 @@ Pricing should ALWAYS be informed by customer value. Pricing in a vacuum is eith
 
 Don’t play lawyer. Get a good one, keep them focused and make sure your contracts are well designed for their purpose.
 
-**Prevented by** · [Contract Playbook](plays/customer/saas-contract-playbook.md)
+**Prevented by** · [Contract Playbook](plays/customer/saas-contract-playbook.md) · [Selecting an Investment Banker](plays/executive/saas-investment-banker-selection.md) · [Negotiating the Exit](plays/executive/saas-exit-negotiation.md)
 
 ### <a id="m022"></a>22 · No IP protection with employees or contractors
 
@@ -202,7 +202,7 @@ Yikes... not good. Get a lawyer, get that fixed asap. If you need to pay someone
 
 Uncle Sam is always going to get his...
 
-**Prevented by** · [Audited Financials](plays/executive/saas-audited-financials.md)
+**Prevented by** · [Audited Financials](plays/executive/saas-audited-financials.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md)
 
 ### <a id="m024"></a>24 · No documentation in code
 
@@ -306,7 +306,7 @@ Commission structures are semi-permanent in nature. It is hard to walk one back.
 
 Something goes wrong, someone needs to account for it. Don't tolerate ambiguity here.
 
-**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
+**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md) · [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md)
 
 ### <a id="m037"></a>37 · No meetings... no minutes
 
@@ -450,7 +450,7 @@ Similar to fuzzy requirements; make sure your scope is deliverable, demonstrable
 
 Somethings can be decided quickly, some not. Make sure to identify strategic decisions from tactical and spend time with wise counsel.
 
-**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
+**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md) · [Selecting an Investment Banker](plays/executive/saas-investment-banker-selection.md)
 
 ### <a id="m055"></a>55 · Betting a channel partner will sell for you
 
@@ -586,7 +586,7 @@ High stakes tasks need clear communication and clear communication takes time. G
 
 A lack of an organized data room results in months long delays for new funding. Keep your systems organized, your deck fresh, and your cash flow managed.
 
-**Prevented by** · [Audited Financials](plays/executive/saas-audited-financials.md) · [Contract Register](plays/customer/saas-contract-register.md)
+**Prevented by** · [Audited Financials](plays/executive/saas-audited-financials.md) · [Contract Register](plays/customer/saas-contract-register.md) · [Exit Data Room](plays/executive/saas-exit-data-room.md) · [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md)
 
 ### <a id="m072"></a>72 · Leaving finances to the numbers people
 
@@ -610,7 +610,7 @@ Exponential growth consumes resources exponentially. We often think linearly. Th
 
 Exponential growth is hard. Don't bank on it.
 
-**Prevented by** · [Budget Creation](plays/executive/saas-budget-creation.md) · [Unit Economics](plays/sales-marketing/saas-unit-economics.md)
+**Prevented by** · [Budget Creation](plays/executive/saas-budget-creation.md) · [Unit Economics](plays/sales-marketing/saas-unit-economics.md) · [Exit Roadmap](plays/executive/saas-exit-roadmap.md)
 
 ### <a id="m075"></a>75 · Counting deals as won before docs are signed
 
@@ -618,7 +618,7 @@ Exponential growth is hard. Don't bank on it.
 
 It's not done until it's done. Don't let your team socialize unsigned deals as done. At best it’s silly, at worst it hides the true state of the company and can result in devastation when funds run out.
 
-**Prevented by** · [Pipeline Management & Review](plays/sales-marketing/b2b-saas-pipeline-management.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md)
+**Prevented by** · [Pipeline Management & Review](plays/sales-marketing/b2b-saas-pipeline-management.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md) · [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md) · [Negotiating the Exit](plays/executive/saas-exit-negotiation.md)
 
 ### <a id="m076"></a>76 · Letting customers drop CYA comments in meetings
 
@@ -642,7 +642,7 @@ Performance reviews are mandatory. They feel weird early on when everyone knows 
 
 Look for win-win. If you are being forced to do lose/win, walk away, it's not worth it. Alternatively if you see your team pushing for win/lose address that immediately.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md) · [Negotiating the Exit](plays/executive/saas-exit-negotiation.md)
 
 ### <a id="m079"></a>79 · Giving extra-contractual concessions
 
@@ -698,7 +698,7 @@ Own what you can, but put boundaries on frustrated customers and don't own what 
 
 Get a rev rec policy and make sure it is GAAP. Keep good records.
 
-**Prevented by** · [P&L Explained](plays/sales-marketing/saas-p-and-l-explained.md) · [ARR Schedule](plays/customer/saas-arr-schedule.md)
+**Prevented by** · [P&L Explained](plays/sales-marketing/saas-p-and-l-explained.md) · [ARR Schedule](plays/customer/saas-arr-schedule.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md)
 
 ### <a id="m086"></a>86 · Not hard-closing financial statements
 
@@ -706,7 +706,7 @@ Get a rev rec policy and make sure it is GAAP. Keep good records.
 
 Hard-close financial statements and don't reopen for edits. Changing historical financials is a sure-fire way to destroy trust with investors.
 
-**Prevented by** · [Audited Financials](plays/executive/saas-audited-financials.md) · [P&L Explained](plays/sales-marketing/saas-p-and-l-explained.md)
+**Prevented by** · [Audited Financials](plays/executive/saas-audited-financials.md) · [P&L Explained](plays/sales-marketing/saas-p-and-l-explained.md) · [Exit Data Room](plays/executive/saas-exit-data-room.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md)
 
 ### <a id="m087"></a>87 · Bluffing
 
@@ -714,7 +714,7 @@ Hard-close financial statements and don't reopen for edits. Changing historical 
 
 Don't bluff... ever. It never works.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md) · [Negotiating the Exit](plays/executive/saas-exit-negotiation.md)
 
 ### <a id="m088"></a>88 · No customer contract register
 
@@ -722,7 +722,7 @@ Don't bluff... ever. It never works.
 
 Keep all customer contracts in a register with all relevant information.
 
-**Prevented by** · [Contract Register](plays/customer/saas-contract-register.md)
+**Prevented by** · [Contract Register](plays/customer/saas-contract-register.md) · [Exit Data Room](plays/executive/saas-exit-data-room.md)
 
 ### <a id="m089"></a>89 · Poor customer contract management
 
@@ -730,7 +730,7 @@ Keep all customer contracts in a register with all relevant information.
 
 Keep all customer contracts organized and versioned in the final executed form.
 
-**Prevented by** · [Contract Register](plays/customer/saas-contract-register.md) · [Contract Playbook](plays/customer/saas-contract-playbook.md)
+**Prevented by** · [Contract Register](plays/customer/saas-contract-register.md) · [Contract Playbook](plays/customer/saas-contract-playbook.md) · [Exit Data Room](plays/executive/saas-exit-data-room.md)
 
 ### <a id="m090"></a>90 · No contractual teeth
 
@@ -746,7 +746,7 @@ Your contracts should be worth defending. Poor remedies in the contract results 
 
 Don't engage in brinkmanship. Look for win-win. It never wins to plan to loose.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Account Management Process](plays/customer/b2b-saas-account-management.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Negotiating the Exit](plays/executive/saas-exit-negotiation.md)
 
 ### <a id="m092"></a>92 · Lack of vendor contract control
 
@@ -762,7 +762,7 @@ Failure to control vendor contracts means auto-renewals, escalations etc. that y
 
 Ignoring a problem results in the problem growing. Don't ignore it. Set time and knock it out.
 
-**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md)
+**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md)
 
 ### <a id="m094"></a>94 · Tolerating brinkmanship
 
@@ -770,7 +770,7 @@ Ignoring a problem results in the problem growing. Don't ignore it. Set time and
 
 When faced with brinkmanship, if it is possible to lose, you did something wrong already. Never back down. And don't bluff.
 
-**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Contract Playbook](plays/customer/saas-contract-playbook.md)
+**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Contract Playbook](plays/customer/saas-contract-playbook.md) · [Negotiating the Exit](plays/executive/saas-exit-negotiation.md)
 
 ### <a id="m095"></a>95 · Tolerating misunderstanding from customers
 
@@ -810,7 +810,7 @@ _No play is mapped to this mistake yet._
 
 There are a ton of people who will charge you to ‘find money’, don't do it. NOTE: this is different than banking your company for sale or finding a financial partner.
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Selecting an Investment Banker](plays/executive/saas-investment-banker-selection.md)
 
 ### <a id="m100"></a>100 · Lack of documented operating processes
 
@@ -818,7 +818,7 @@ _No play is mapped to this mistake yet._
 
 Document your key processes.
 
-**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
+**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md)
 
 ### <a id="m101"></a>101 · Lack of process ownership
 
@@ -826,7 +826,7 @@ Document your key processes.
 
 Every process needs an owner.
 
-**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
+**Prevented by** · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Exit Data Room](plays/executive/saas-exit-data-room.md)
 
 ### <a id="m102"></a>102 · No proof of process conformance
 
@@ -858,7 +858,7 @@ The only valid activity from S&M is sales activity. Don't let the activity shift
 
 Make sure your team has appropriate recharge time. Make sure you do too.
 
-**Prevented by** · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
+**Prevented by** · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md) · [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md)
 
 ### <a id="m106"></a>106 · Founder stepping into a subordinate’s process
 
@@ -866,7 +866,7 @@ Make sure your team has appropriate recharge time. Make sure you do too.
 
 Once a process is set and ownership is given, then founders need to get out of the way. Stepping back in subverts growth.
 
-**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [Quality Management System](plays/operations/saas-quality-management-system.md)
+**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md)
 
 ### <a id="m107"></a>107 · Letting AR age
 
@@ -882,7 +882,7 @@ Get on top of AR and do it quickly. Bad AR processes is like running a marathon 
 
 Every core activity in your company needs a person accountable for it. Don't let overlapping responsibilities cause underperformance.
 
-**Prevented by** · [Sales Org Chart](plays/sales-marketing/saas-sales-org-chart.md) · [Dev Org Chart](plays/development/saas-dev-org-chart.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
+**Prevented by** · [Sales Org Chart](plays/sales-marketing/saas-sales-org-chart.md) · [Dev Org Chart](plays/development/saas-dev-org-chart.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md)
 
 ### <a id="m109"></a>109 · Expecting customers to expand without a pitch
 
@@ -896,7 +896,7 @@ Every core activity in your company needs a person accountable for it. Don't let
 
 A pitch is exciting, but be careful to stay grounded. A pitch necessarily must show the financial benefits of success. It can easily disorient founders from the task at hand. Stay focused.
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Selecting an Investment Banker](plays/executive/saas-investment-banker-selection.md)
 
 ### <a id="m111"></a>111 · Developing product in a vacuum
 
@@ -944,7 +944,7 @@ There are tons of tensions in software companies. Don't let problems keep emergi
 
 Investment commitments slip, customer interest wanes, potential exit conversations die... life is full of disappointments. Don't magnify them by passing expectations down the line without managing them.
 
-**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md)
+**Prevented by** · [Board of Directors](plays/executive/saas-board-of-directors.md) · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md) · [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md)
 
 ### <a id="m117"></a>117 · Expecting too much out of software ‘automation’
 
@@ -1008,7 +1008,7 @@ Your team is your most strategic resource. Onboarding the team is the most impor
 
 Don't put all your eggs in one basket for one customer. Make sure you are talking to multiple potential customers at one time.
 
-**Prevented by** · [Customer Segmentation](plays/sales-marketing/b2b-saas-customer-segmentation.md) · [Pipeline Creation](plays/sales-marketing/b2b-saas-pipeline-creation.md)
+**Prevented by** · [Customer Segmentation](plays/sales-marketing/b2b-saas-customer-segmentation.md) · [Pipeline Creation](plays/sales-marketing/b2b-saas-pipeline-creation.md) · [Exit Roadmap](plays/executive/saas-exit-roadmap.md)
 
 ### <a id="m125"></a>125 · Getting starstruck by big name companies.
 
@@ -1016,7 +1016,7 @@ Don't put all your eggs in one basket for one customer. Make sure you are talkin
 
 Don't let the name of a company or organization convince you to take part in something just because of who they are. Only take part in something if it will add real value to your company. Your time is valuable. Don't waste it.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Selecting an Investment Banker](plays/executive/saas-investment-banker-selection.md)
 
 ### <a id="m126"></a>126 · Not having clear messaging.
 
@@ -1048,7 +1048,7 @@ Culture Flywheel - the more you invest into your company culture, the more devot
 
 Part of being a founder is making the tough calls. Don’t make other people do this for you. Delegating when you feel the urge to run is a guarantee for failure.
 
-**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
+**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md) · [Selecting an Investment Banker](plays/executive/saas-investment-banker-selection.md)
 
 ### <a id="m130"></a>130 · Expecting a customer to expand without selling
 
@@ -1064,7 +1064,7 @@ Pay requires work and work requires effort. Don’t expect customers to expand w
 
 Stop wasting time on things that aren’t going to grow your company.
 
-**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
+**Prevented by** · [KPI Dashboard Creation](plays/executive/saas-kpi-dashboard.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md) · [Exit Roadmap](plays/executive/saas-exit-roadmap.md)
 
 ### <a id="m132"></a>132 · Too broad of product
 
@@ -1088,7 +1088,7 @@ It takes time to figure out the correct messaging and channels to reach your cus
 
 Be careful to not just hear what you WANT to hear, but actually hear what the customer is communicating. People don’t like letting others down. They will be indirect with their “no”. Always assume the “no” as a base hypothesis and let the opportunity earn your time.
 
-**Prevented by** · [Enterprise Sales Process](plays/sales-marketing/enterprise-saas-sales-process.md) · [Net Promoter Score (NPS)](plays/customer/saas-net-promoter-score.md)
+**Prevented by** · [Enterprise Sales Process](plays/sales-marketing/enterprise-saas-sales-process.md) · [Net Promoter Score (NPS)](plays/customer/saas-net-promoter-score.md) · [Negotiating the Exit](plays/executive/saas-exit-negotiation.md)
 
 ### <a id="m135"></a>135 · Not owning the customer service delivery
 
@@ -1192,7 +1192,7 @@ Don’t be fearful of hiring someone who is better than you at something. You sh
 
 Delaying difficult decisions only makes problems worse. Proactive decision-making prevents crises and builds long-term stability.
 
-**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
+**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Board Meeting Preparation](plays/executive/saas-board-meeting-prep.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md) · [Exit Roadmap](plays/executive/saas-exit-roadmap.md)
 
 ### <a id="m148"></a>148 · Changing value proposition after receiving captial
 
@@ -1224,7 +1224,7 @@ A sleek brand won’t save a sinking ship. Flashy marketing and reputation matte
 
 Founders forget how long it took them to learn the product and market. New hires need time, training, and clear process to catch up. Don’t just hand off sales and hope, simplify the process, bake in support, and budget for the real cost of getting them fully productive.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Sales Scripts](plays/sales-marketing/b2b-saas-sales-scripts.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Sales Scripts](plays/sales-marketing/b2b-saas-sales-scripts.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md)
 
 ### <a id="m152"></a>152 · Forgetting You're Part of a Bigger Ecosystem
 
@@ -1240,7 +1240,7 @@ You don’t operate in a vacuum. Competitors emerge, power shifts, and new playe
 
 Progress requires concentrated force. Spreading your energy across 25 half-baked strategies won’t get you anywhere. Pick one, apply real weight, and see if it moves. You can’t cheat physics.
 
-**Prevented by** · [Define the Mission](plays/executive/define-saas-company-mission.md) · [Go-to-Market Strategy](plays/sales-marketing/vertical-saas-go-to-market-strategy.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md)
+**Prevented by** · [Define the Mission](plays/executive/define-saas-company-mission.md) · [Go-to-Market Strategy](plays/sales-marketing/vertical-saas-go-to-market-strategy.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md) · [Exit Roadmap](plays/executive/saas-exit-roadmap.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md)
 
 ### <a id="m154"></a>154 · Revolving Door of Technical Talent
 
@@ -1312,7 +1312,7 @@ Founders often trust only the deals they originate. Ignoring qualified inbound o
 
 Some customers cannot be underwritten at signature. If their churn sits in the same revenue line as your best accounts, one blended retention number goes to your board and your bank and your acquirer, and all three price the whole book to the weakest cohort in it.
 
-**Prevented by** · [ARR Schedule](plays/customer/saas-arr-schedule.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md)
+**Prevented by** · [ARR Schedule](plays/customer/saas-arr-schedule.md) · [Core & Provisional Segmentation](plays/customer/saas-core-provisional-segmentation.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md)
 
 ### <a id="m163"></a>163 · Treating a champion's enthusiasm as the company's commitment
 
@@ -1368,4 +1368,4 @@ You bring the board the version of the quarter that makes your case, and you bri
 
 The experienced managers skip this most often, because they have run teams before and the running lived in their head. A team cannot read your head: with no named cadence, no scorecard carrying an owner on every line, no three priorities for the quarter and no single name in each seat, the all-hands where you get real about performance is a threat rather than a system — and strong people read a threat without a structure as a leader who does not know what is wrong. The tell is asking what operating system the company runs on and getting "dashboards and accountability" back, with nothing after it.
 
-**Prevented by** · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
+**Prevented by** · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Exit Roadmap](plays/executive/saas-exit-roadmap.md)

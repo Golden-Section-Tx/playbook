@@ -1,6 +1,6 @@
 # The Golden Section Playbook — complete corpus
 
-73 plays and 169 mistakes for building a B2B vertical SaaS company,
+80 plays and 169 mistakes for building a B2B vertical SaaS company,
 in one file.
 
 **Source:** https://github.com/golden-section-tx/playbook
@@ -159,13 +159,15 @@ Prevented by: Employee Agreement.
 
 Keep it simple silly...
 
+Prevented by: Exit Data Room, Pre-Sale Value Levers.
+
 ## Mistake 19 · Not communicating with investors
 
 `Executive`
 
 If you don't, then you might as well shut down... keep investors well informed and not only positive stuff.
 
-Prevented by: KPI Dashboard Creation, Board of Directors, Board Meeting Preparation.
+Prevented by: KPI Dashboard Creation, Board of Directors, Board Meeting Preparation, Running the Company During a Sale.
 
 ## Mistake 20 · Hip-shot product pricing
 
@@ -173,7 +175,7 @@ Prevented by: KPI Dashboard Creation, Board of Directors, Board Meeting Preparat
 
 Pricing should ALWAYS be informed by customer value. Pricing in a vacuum is either too much or too little or too confusing...
 
-Prevented by: Value Proposition & Customer ROI, Pricing Matrix, Implementation Window Scarcity, AI Pricing Model Selection.
+Prevented by: Value Proposition & Customer ROI, Pricing Matrix, Implementation Window Scarcity, AI Pricing Model Selection, Pre-Sale Value Levers.
 
 ## Mistake 21 · Founder playing ‘lawyer’ on contracts
 
@@ -181,7 +183,7 @@ Prevented by: Value Proposition & Customer ROI, Pricing Matrix, Implementation W
 
 Don’t play lawyer. Get a good one, keep them focused and make sure your contracts are well designed for their purpose.
 
-Prevented by: Contract Playbook.
+Prevented by: Contract Playbook, Selecting an Investment Banker, Negotiating the Exit.
 
 ## Mistake 22 · No IP protection with employees or contractors
 
@@ -197,7 +199,7 @@ Prevented by: Employee Agreement, IP & Confidentiality.
 
 Uncle Sam is always going to get his...
 
-Prevented by: Audited Financials.
+Prevented by: Audited Financials, Pre-Sale Value Levers.
 
 ## Mistake 24 · No documentation in code
 
@@ -301,7 +303,7 @@ Prevented by: Sales Compensation Plan.
 
 Something goes wrong, someone needs to account for it. Don't tolerate ambiguity here.
 
-Prevented by: Executive Execution, KPI & Strategic Meetings, Execution Operating System.
+Prevented by: Executive Execution, KPI & Strategic Meetings, Execution Operating System, Founder Independence (The Vacation Test), Running the Company During a Sale.
 
 ## Mistake 37 · No meetings... no minutes
 
@@ -441,7 +443,7 @@ Prevented by: Implementation Project Lifecycle.
 
 Somethings can be decided quickly, some not. Make sure to identify strategic decisions from tactical and spend time with wise counsel.
 
-Prevented by: Board of Directors, Board Meeting Preparation.
+Prevented by: Board of Directors, Board Meeting Preparation, Selecting an Investment Banker.
 
 ## Mistake 55 · Betting a channel partner will sell for you
 
@@ -575,7 +577,7 @@ Prevented by: Board Meeting Preparation.
 
 A lack of an organized data room results in months long delays for new funding. Keep your systems organized, your deck fresh, and your cash flow managed.
 
-Prevented by: Audited Financials, Contract Register.
+Prevented by: Audited Financials, Contract Register, Exit Data Room, Running the Company During a Sale.
 
 ## Mistake 72 · Leaving finances to the numbers people
 
@@ -599,7 +601,7 @@ Prevented by: Cash Flow Forecast, Unit Economics.
 
 Exponential growth is hard. Don't bank on it.
 
-Prevented by: Budget Creation, Unit Economics.
+Prevented by: Budget Creation, Unit Economics, Exit Roadmap.
 
 ## Mistake 75 · Counting deals as won before docs are signed
 
@@ -607,7 +609,7 @@ Prevented by: Budget Creation, Unit Economics.
 
 It's not done until it's done. Don't let your team socialize unsigned deals as done. At best it’s silly, at worst it hides the true state of the company and can result in devastation when funds run out.
 
-Prevented by: Pipeline Management & Review, Core & Provisional Segmentation.
+Prevented by: Pipeline Management & Review, Core & Provisional Segmentation, Running the Company During a Sale, Negotiating the Exit.
 
 ## Mistake 76 · Letting customers drop CYA comments in meetings
 
@@ -631,7 +633,7 @@ Prevented by: KPI & Strategic Meetings.
 
 Look for win-win. If you are being forced to do lose/win, walk away, it's not worth it. Alternatively if you see your team pushing for win/lose address that immediately.
 
-Prevented by: Sales Philosophy, Implementation Window Scarcity.
+Prevented by: Sales Philosophy, Implementation Window Scarcity, Negotiating the Exit.
 
 ## Mistake 79 · Giving extra-contractual concessions
 
@@ -685,7 +687,7 @@ Prevented by: Account Management Process, Implementation Hours Tracking.
 
 Get a rev rec policy and make sure it is GAAP. Keep good records.
 
-Prevented by: P&L Explained, ARR Schedule.
+Prevented by: P&L Explained, ARR Schedule, Pre-Sale Value Levers.
 
 ## Mistake 86 · Not hard-closing financial statements
 
@@ -693,7 +695,7 @@ Prevented by: P&L Explained, ARR Schedule.
 
 Hard-close financial statements and don't reopen for edits. Changing historical financials is a sure-fire way to destroy trust with investors.
 
-Prevented by: Audited Financials, P&L Explained.
+Prevented by: Audited Financials, P&L Explained, Exit Data Room, Pre-Sale Value Levers.
 
 ## Mistake 87 · Bluffing
 
@@ -701,7 +703,7 @@ Prevented by: Audited Financials, P&L Explained.
 
 Don't bluff... ever. It never works.
 
-Prevented by: Sales Philosophy, Implementation Window Scarcity, Board Meeting Preparation.
+Prevented by: Sales Philosophy, Implementation Window Scarcity, Board Meeting Preparation, Negotiating the Exit.
 
 ## Mistake 88 · No customer contract register
 
@@ -709,7 +711,7 @@ Prevented by: Sales Philosophy, Implementation Window Scarcity, Board Meeting Pr
 
 Keep all customer contracts in a register with all relevant information.
 
-Prevented by: Contract Register.
+Prevented by: Contract Register, Exit Data Room.
 
 ## Mistake 89 · Poor customer contract management
 
@@ -717,7 +719,7 @@ Prevented by: Contract Register.
 
 Keep all customer contracts organized and versioned in the final executed form.
 
-Prevented by: Contract Register, Contract Playbook.
+Prevented by: Contract Register, Contract Playbook, Exit Data Room.
 
 ## Mistake 90 · No contractual teeth
 
@@ -733,7 +735,7 @@ Prevented by: Contract Playbook.
 
 Don't engage in brinkmanship. Look for win-win. It never wins to plan to loose.
 
-Prevented by: Sales Philosophy, Account Management Process.
+Prevented by: Sales Philosophy, Account Management Process, Negotiating the Exit.
 
 ## Mistake 92 · Lack of vendor contract control
 
@@ -749,7 +751,7 @@ Prevented by: Vendor Contract Register, Vendor Contract Playbook, Partner Confli
 
 Ignoring a problem results in the problem growing. Don't ignore it. Set time and knock it out.
 
-Prevented by: KPI & Strategic Meetings.
+Prevented by: KPI & Strategic Meetings, Pre-Sale Value Levers.
 
 ## Mistake 94 · Tolerating brinkmanship
 
@@ -757,7 +759,7 @@ Prevented by: KPI & Strategic Meetings.
 
 When faced with brinkmanship, if it is possible to lose, you did something wrong already. Never back down. And don't bluff.
 
-Prevented by: Account Management Process, Contract Playbook.
+Prevented by: Account Management Process, Contract Playbook, Negotiating the Exit.
 
 ## Mistake 95 · Tolerating misunderstanding from customers
 
@@ -795,13 +797,15 @@ Don't tolerate dishonesty. Address it directly with team members, investors, cus
 
 There are a ton of people who will charge you to ‘find money’, don't do it. NOTE: this is different than banking your company for sale or finding a financial partner.
 
+Prevented by: Selecting an Investment Banker.
+
 ## Mistake 100 · Lack of documented operating processes
 
 `Operations`
 
 Document your key processes.
 
-Prevented by: Quality Management System, Execution Operating System.
+Prevented by: Quality Management System, Execution Operating System, Founder Independence (The Vacation Test).
 
 ## Mistake 101 · Lack of process ownership
 
@@ -809,7 +813,7 @@ Prevented by: Quality Management System, Execution Operating System.
 
 Every process needs an owner.
 
-Prevented by: Quality Management System, Execution Operating System.
+Prevented by: Quality Management System, Execution Operating System, Exit Data Room.
 
 ## Mistake 102 · No proof of process conformance
 
@@ -841,7 +845,7 @@ Prevented by: Pipeline Management & Review, Sales Metrics by FTE/Role/Team.
 
 Make sure your team has appropriate recharge time. Make sure you do too.
 
-Prevented by: Meaningful Exit Plan.
+Prevented by: Meaningful Exit Plan, Founder Independence (The Vacation Test), Running the Company During a Sale.
 
 ## Mistake 106 · Founder stepping into a subordinate’s process
 
@@ -849,7 +853,7 @@ Prevented by: Meaningful Exit Plan.
 
 Once a process is set and ownership is given, then founders need to get out of the way. Stepping back in subverts growth.
 
-Prevented by: Executive Execution, Quality Management System.
+Prevented by: Executive Execution, Quality Management System, Founder Independence (The Vacation Test).
 
 ## Mistake 107 · Letting AR age
 
@@ -865,7 +869,7 @@ Prevented by: Accounts Receivable Process.
 
 Every core activity in your company needs a person accountable for it. Don't let overlapping responsibilities cause underperformance.
 
-Prevented by: Sales Org Chart, Dev Org Chart, Execution Operating System.
+Prevented by: Sales Org Chart, Dev Org Chart, Execution Operating System, Founder Independence (The Vacation Test).
 
 ## Mistake 109 · Expecting customers to expand without a pitch
 
@@ -878,6 +882,8 @@ Prevented by: Account Management Process, Adoption Process, Value Pinnacle Servi
 `Executive`
 
 A pitch is exciting, but be careful to stay grounded. A pitch necessarily must show the financial benefits of success. It can easily disorient founders from the task at hand. Stay focused.
+
+Prevented by: Selecting an Investment Banker.
 
 ## Mistake 111 · Developing product in a vacuum
 
@@ -925,7 +931,7 @@ Prevented by: KPI & Strategic Meetings, Quality Management System, Execution Ope
 
 Investment commitments slip, customer interest wanes, potential exit conversations die... life is full of disappointments. Don't magnify them by passing expectations down the line without managing them.
 
-Prevented by: Board of Directors, Account Management Process, Core & Provisional Segmentation, Board Meeting Preparation.
+Prevented by: Board of Directors, Account Management Process, Core & Provisional Segmentation, Board Meeting Preparation, Running the Company During a Sale.
 
 ## Mistake 117 · Expecting too much out of software ‘automation’
 
@@ -989,7 +995,7 @@ Prevented by: Training Process.
 
 Don't put all your eggs in one basket for one customer. Make sure you are talking to multiple potential customers at one time.
 
-Prevented by: Customer Segmentation, Pipeline Creation.
+Prevented by: Customer Segmentation, Pipeline Creation, Exit Roadmap.
 
 ## Mistake 125 · Getting starstruck by big name companies.
 
@@ -997,7 +1003,7 @@ Prevented by: Customer Segmentation, Pipeline Creation.
 
 Don't let the name of a company or organization convince you to take part in something just because of who they are. Only take part in something if it will add real value to your company. Your time is valuable. Don't waste it.
 
-Prevented by: Sales Philosophy.
+Prevented by: Sales Philosophy, Selecting an Investment Banker.
 
 ## Mistake 126 · Not having clear messaging.
 
@@ -1029,7 +1035,7 @@ Prevented by: Define the Mission.
 
 Part of being a founder is making the tough calls. Don’t make other people do this for you. Delegating when you feel the urge to run is a guarantee for failure.
 
-Prevented by: Executive Execution, Meaningful Exit Plan.
+Prevented by: Executive Execution, Meaningful Exit Plan, Selecting an Investment Banker.
 
 ## Mistake 130 · Expecting a customer to expand without selling
 
@@ -1045,7 +1051,7 @@ Prevented by: Account Management Process, Adoption Process, Value Pinnacle Servi
 
 Stop wasting time on things that aren’t going to grow your company.
 
-Prevented by: KPI Dashboard Creation, Execution Operating System, Meaningful Exit Plan.
+Prevented by: KPI Dashboard Creation, Execution Operating System, Meaningful Exit Plan, Exit Roadmap.
 
 ## Mistake 132 · Too broad of product
 
@@ -1069,7 +1075,7 @@ Prevented by: Customer Segmentation, Buyer Persona.
 
 Be careful to not just hear what you WANT to hear, but actually hear what the customer is communicating. People don’t like letting others down. They will be indirect with their “no”. Always assume the “no” as a base hypothesis and let the opportunity earn your time.
 
-Prevented by: Enterprise Sales Process, Net Promoter Score (NPS).
+Prevented by: Enterprise Sales Process, Net Promoter Score (NPS), Negotiating the Exit.
 
 ## Mistake 135 · Not owning the customer service delivery
 
@@ -1173,7 +1179,7 @@ Prevented by: Hiring A Players (Topgrading).
 
 Delaying difficult decisions only makes problems worse. Proactive decision-making prevents crises and builds long-term stability.
 
-Prevented by: Executive Execution, KPI & Strategic Meetings, Board Meeting Preparation, Meaningful Exit Plan.
+Prevented by: Executive Execution, KPI & Strategic Meetings, Board Meeting Preparation, Meaningful Exit Plan, Exit Roadmap.
 
 ## Mistake 148 · Changing value proposition after receiving captial
 
@@ -1205,7 +1211,7 @@ Prevented by: Budget Creation, P&L Explained.
 
 Founders forget how long it took them to learn the product and market. New hires need time, training, and clear process to catch up. Don’t just hand off sales and hope, simplify the process, bake in support, and budget for the real cost of getting them fully productive.
 
-Prevented by: Sales Philosophy, Sales Scripts.
+Prevented by: Sales Philosophy, Sales Scripts, Founder Independence (The Vacation Test).
 
 ## Mistake 152 · Forgetting You're Part of a Bigger Ecosystem
 
@@ -1221,7 +1227,7 @@ Prevented by: Vertical Specific.
 
 Progress requires concentrated force. Spreading your energy across 25 half-baked strategies won’t get you anywhere. Pick one, apply real weight, and see if it moves. You can’t cheat physics.
 
-Prevented by: Define the Mission, Go-to-Market Strategy, Execution Operating System, Meaningful Exit Plan.
+Prevented by: Define the Mission, Go-to-Market Strategy, Execution Operating System, Meaningful Exit Plan, Exit Roadmap, Pre-Sale Value Levers.
 
 ## Mistake 154 · Revolving Door of Technical Talent
 
@@ -1293,7 +1299,7 @@ Prevented by: Sales Funnel Creation, Pipeline Creation.
 
 Some customers cannot be underwritten at signature. If their churn sits in the same revenue line as your best accounts, one blended retention number goes to your board and your bank and your acquirer, and all three price the whole book to the weakest cohort in it.
 
-Prevented by: ARR Schedule, Core & Provisional Segmentation.
+Prevented by: ARR Schedule, Core & Provisional Segmentation, Pre-Sale Value Levers.
 
 ## Mistake 163 · Treating a champion's enthusiasm as the company's commitment
 
@@ -1349,7 +1355,7 @@ Prevented by: Board Meeting Preparation.
 
 The experienced managers skip this most often, because they have run teams before and the running lived in their head. A team cannot read your head: with no named cadence, no scorecard carrying an owner on every line, no three priorities for the quarter and no single name in each seat, the all-hands where you get real about performance is a threat rather than a system — and strong people read a threat without a structure as a leader who does not know what is wrong. The tell is asking what operating system the company runs on and getting "dashboards and accountability" back, with nothing after it.
 
-Prevented by: Execution Operating System.
+Prevented by: Execution Operating System, Exit Roadmap.
 
 ---
 
@@ -2118,6 +2124,419 @@ Topgrading is the framework Golden Section uses for this. Companies that run it 
 3. Strengths presented as weaknesses are the most common evasion in the room. "I care too much" is not a weaker point. Keep asking until you get one you recognise as real, and treat the refusal to produce one as data.
 4. Do not let an impressive candidate rewrite the scorecard. If the finalist is excellent at something the role does not need, you have found a good person for a different job. Changing the scorecard after meeting the candidate is how founders talk themselves into the hire they already wanted to make.
 5. Vetting technical talent without technical judgement in the room does not work, whatever the process. Borrow the competence — a fractional CTO, a venture partner, a trusted engineer — and have them sit the tandem interview.
+
+### How to Turn Exit Gaps Into a Sequenced, Multi-Quarter Roadmap
+
+**Play:** Exit Roadmap · **Owners:** Founder, Exec Team, Board · **Cadence:** Quarterly · **Stage:** Growth · **Effort:** 21 SP initial, 8 SP ongoing
+
+**Summary:** Take the gaps from the Meaningful Exit plan's benchmark sheet, sort them into workstreams by area, sequence them by lead time so the structural work that takes years starts first, give each one an owner and a quarterly rock, and anchor the whole thing to a dated exit window, so the company is shaped toward what buyers pay for instead of scrambled into it in the last six months.
+
+**Prevents mistakes:** #74 Banking on exponential forces; #124 Only selling to one customer.; #131 Busy work; #147 Avoiding tough but proactive decision making; #153 Diluting Effort Instead of Concentrating Force; #169 Running the company without an execution operating system
+
+Robert Shiller published *Irrational Exuberance* in 2000, at the top of the dot-com bubble, borrowing the phrase Alan Greenspan had used in 1996 to wonder aloud whether asset prices had come loose from anything real. The Nasdaq peaked that same spring. Shiller had not predicted a date. He had simply noticed how far prices had drifted from the ratios that had held for a century, and said so. He noticed the same thing about housing a few years later.
+
+Founders should take the lesson. Markets move, and sometimes they reward growth and user counts over profit and cash flow. That never lasts. Financial assets are valued on their capacity to produce cash, and in a software company that capacity comes down to three things: gross margin, net retention and sales efficiency. In a frothy market, buyers pay a premium for companies spending those margins on fast growth. When capital tightens, they want breakeven or profitable companies and discount everything else. Know which regime you are selling into and it can be worth millions. Build only for the one you are in today and you may find it gone by the time you are ready.
+
+That is the case for a roadmap. The Meaningful Exit Plan play tells you which buyer you are building for. Its benchmark sheet tells you how far you are from that buyer. Neither tells you what to work on first, and the most common failure is doing the work in the wrong order: polishing the dashboard and the data room, which take a quarter, while customer concentration, founder dependency and a contract book that does not survive a change of control, which take years, sit untouched until a buyer finds them.
+
+> **The goal:** A dated exit window and a sequenced roadmap of exit workstreams by area, structural gaps first, with an owner, a quarterly rock and a measurable definition of done for every workstream, reviewed each quarter against the latest readiness score.
+
+#### Background
+
+**Three kinds of gap, three lead times.** The Meaningful Exit plan sorts gaps this way, and the sort is what drives the sequence.
+
+1. *Structural gaps, 6–12 quarters.* Customer concentration, founder dependency, contracts that do not assign or that carry change-of-control terminations, revenue mixed in from a business the buyer will not pay for, a cap table that needs restructuring, a product built on a platform the buyer will not want to inherit. These change what the company is. The practitioner rule of thumb is a 10–20% discount once a single customer passes 20–35% of revenue, and more above 40%, and 15–25% of enterprise value for a founder-dependent business. Treat both as orders of magnitude, not quotes; your banker's numbers for your buyers are the ones that count. Neither is fixed in a year.
+2. *Operating gaps, 3–6 quarters.* Net retention, gross margin, sales efficiency, Rule of 40, a proven price increase. The number is genuinely short and a year of focused work moves it. Published SaaS valuation work generally finds roughly a turn of revenue multiple for every ten points of Rule of 40, a premium for net retention above 110% and a discount below 90%. Again, direction and order of magnitude, not a quote.
+3. *Measurement gaps, 1–2 quarters.* The number is probably fine but you cannot evidence it: no cohort retention report, no clean ARR schedule, expenses not categorized, board minutes missing from the data room. Cheap to fix, and embarrassing to be caught without.
+
+**Sequence by lead time, not by ease.** Start the structural work first, even though it is the hardest and the least visible, because nothing you do later can compress it. Run operating work alongside it. Leave measurement work until the last three or four quarters before the window, except where missing measurement is hiding whether an operating gap exists at all; in that case, measure first.
+
+**Market regime changes the targets, not the sequence.** In a growth-rewarding market, buyers price the growth rate and forgive the burn. In a capital-scarce market, they price profitability and cash generation, and a company that has been buying growth with a sales budget it cannot sustain gets repriced. A good roadmap names both: which targets hold regardless, which are gross margin, retention and efficiency, and which shift with the market, which are growth rate versus EBITDA margin.
+
+#### Steps
+
+1. Gather the inputs: the Meaningful Exit plan with its primary and alternate buyer archetype, and the benchmark sheet for that archetype. The sheet is your gap list, and any blank on it is a measurement gap to close first. If you do not have the plan, stop and run that play first. A roadmap built without a buyer is a roadmap toward nowhere in particular.
+2. Set the exit window as a range of two to four quarters, not a date, and write the reasoning beside it. Work backwards from it. A company eight quarters out can fix structural gaps; a company three quarters out can only disclose them. If the structural gaps on your list cannot close inside the window, you have three honest options: move the window, change the archetype to a buyer who cares less about those gaps, or accept the discount and write down roughly what it costs. Pick one now.
+3. Consolidate every gap into a single list and tag each one with its area (Financial, Product, Customers and demand, Strategy and operating rhythm, Risk and legal, People), its kind (structural, operating or measurement) and your best estimate of quarters to close. Be pessimistic about the estimate. Structural work runs through customers, employees and counterparties who do not share your deadline.
+4. Group the list into workstreams, one per area where the gaps cluster, and no more than six in total. A workstream is a body of work with a single outcome a buyer would recognize: top customer under 15% of revenue; net retention above 110% for four straight quarters; founder under 30% of new ACV; data room at the level a buyer's counsel can review without a call. Anything that does not ladder to one of those outcomes is not exit work and comes off the list.
+5. Give each workstream one owner from the executive team and one definition of done a buyer's diligence team could verify. The founder owns no more than one workstream. Most founders volunteer for all six and finish none, because every one of them loses to the quarter.
+6. Sequence the workstreams on an eight-quarter grid, and draw it. A typical shape for a company two years out from its window:
+    - *Quarters 1–2.* Start every structural workstream: begin diversifying away from the largest customer, name the successor candidate and start the founder-independence work, have counsel review the top 20 contracts for assignment and change of control. Close the measurement gaps that are hiding operating problems, usually cohort retention and gross margin by revenue line.
+    - *Quarters 3–4.* Operating workstreams at full weight: pricing change tested on new customers, then applied to renewals; churn work on the weakest cohort; sales efficiency against a target. Run the first 30-day founder absence. Commission the first review-level audit.
+    - *Quarters 5–6.* Prove the operating improvements in run-rate, not in plan. Complete the full audit. Take the data room to its buyer-ready level. Run the 90-day founder absence. Begin conversations with bankers.
+    - *Quarters 7–8.* Hold the numbers, build a forecast you can beat, and let the structural changes show two or three clean quarters. No new strategic initiatives. The Pre-Sale Value Levers play covers what to tune in this last stretch.
+7. Convert the first two quarters into rocks. Every workstream contributes one quarterly priority to the operating system each quarter, with an owner and a definition of done, and the two or three slowest-moving exit metrics go on the weekly scorecard. See the Execution Operating System play. If the exit rocks are always the ones that slip, the roadmap has become a parallel plan, and parallel plans lose to the real one every time.
+8. Take the roadmap to the board: the window, the grid, the owners and the targets that shift with the market. Ask the board one question explicitly: whether the window is honest given the structural list. Directors who have sold companies will usually tell you it is optimistic by two to four quarters. Believe them.
+9. Review the roadmap every quarter, straight after you refresh the benchmark sheet. Mark each workstream green, yellow or red against its definition of done, re-estimate the remaining quarters, and read the market: what are buyers in your archetype currently paying for, and has that moved? When the evidence says the window is wrong, move it on paper that quarter rather than letting the grid quietly slide. Once a year, when you re-run the Meaningful Exit plan, rebuild the roadmap from scratch rather than editing it.
+
+#### Troubleshooting
+
+*Everything on the list feels urgent.* Then sort by lead time and ask what happens if each item starts next quarter instead of this one. For measurement gaps, nothing. For a customer-concentration gap, the window moves. Urgency belongs to whatever cannot be compressed later.
+
+*We might never sell, so this is wasted work.* Look at the list. Lower concentration, higher retention, a better gross margin, a company that runs without you: every item makes the business more valuable and more durable whether or not a buyer ever sees it. Exit readiness is operating discipline with a date attached. The date is what makes it happen.
+
+*The market is hot. Should we chase growth instead?* Chase it with the sales efficiency to show for it. Growth bought at a CAC payback the next buyer will not underwrite gets repriced the moment the regime turns, and it tends to turn while a process is under way. Build the roadmap so the company is sellable in either market, then let the market decide the premium.
+
+*A buyer showed up early.* Take the call, and use the roadmap to know what you are giving up by selling now. Every open workstream is a discount the early buyer is entitled to take. If the offer clears your Enough after those discounts, the roadmap has done its job by telling you so.
+
+### How to Build an Exit Data Room That Survives a Buyer's Diligence
+
+**Play:** Exit Data Room · **Owners:** Founder, Exec Team, CFO, Legal · **Cadence:** Monthly · **Stage:** Growth · **Effort:** 34 SP initial, 5 SP ongoing
+
+**Summary:** Assemble the data room by the questions a buyer asks, give every folder an executive owner, then read the whole thing yourself as a hostile buyer would and send your team the questions without your answers, so that every anomaly has either an explanation on file or a fix on the calendar before anyone outside the company opens it, and keep it current on the monthly close instead of rebuilding it when a process starts.
+
+**Prevents mistakes:** #18 Messing up your cap table; #71 No active data room; #86 Not hard-closing financial statements; #88 No customer contract register; #89 Poor customer contract management; #101 Lack of process ownership
+
+Top-quality real estate always comes with the pizazz of the listing. High-resolution photos, video, a walkthrough of an impossibly clean house: it sets the stage for a buyer to make the non-committal decision to take a tour. On the tour they walk through a home staged to feel inviting and in no way set up for ordinary life. All of it is the psychology of the sale.
+
+Companies are similar. The data room is both the listing and a large part of the walkthrough. If it is a dumpster fire floating in floodwater, the offers, or the lack of them, will reflect it. Buyers read a disorganized data room as a disorganized company, and they are usually right, because the data room is only a mirror of the systems that produced it.
+
+That is why this play sits late in the sequence. Every earlier play, from the Budget Creation and the Contract Register to the Audited Financials and KPI Dashboard Creation, builds a piece of the information infrastructure a good data room is assembled from. Each template, each process and each routine ends up here. If those plays are running, this one is polishing, assembling and noticing what needs help before a buyer looks. If they are not, this play will tell you, loudly, and it is far better to hear it from your own team than from a buyer's quality-of-earnings provider in week three of exclusivity.
+
+> **The goal:** A data room organized by the question a buyer asks, with a named owner for every folder, every anomaly either explained on file or scheduled for a fix, and a monthly routine that keeps it buyer-ready instead of rebuilt in a panic.
+
+#### Background
+
+**Three levels, matched to how close you are to a sale.**
+
+1. *Data Room 1.0, early stage.* Formation documents, bylaws and board consents, the cap table, investment documents, founder agreements with vesting, IP assignments, the investor deck. What an early investor's counsel asks for.
+2. *Data Room 2.0, growth stage.* Everything in 1.0, plus monthly financials closed and not reopened, the ARR schedule reconciled to the general ledger, every executed customer contract with the contract register, board minutes and packets, employee agreements, policies, vendor contracts, security documentation. What a growth investor or lender asks for, and the level a company should hold continuously from the point you have a repeatable sales motion and a first layer of management.
+3. *Data Room 3.0, exit preparation.* Everything in 2.0, plus audited financials, a quality-of-earnings-ready financial package, full technical documentation, an operations playbook, a pre-sale legal review, succession and retention plans, and a clear answer on every anomaly a buyer will find. What a strategic acquirer's or private-equity buyer's diligence team works through line by line.
+
+**Organize by the question the buyer is asking.** Buyers staff diligence by workstream, so the index should mirror the six areas they staff.
+
+1. *Financial.* Three years of monthly financials and tax returns, audit reports, the ARR and deferred revenue schedules, cohort retention, gross margin by revenue line, budget against actual, the 18-month forecast, bank statements, sales tax nexus analysis, a schedule of every add-back with support.
+2. *Product.* Architecture and infrastructure documentation, the roadmap, the tech debt inventory, security policies and SOC 2 reports, penetration tests, the open-source and license registers, the IP chain.
+3. *Customers and demand.* Customer list by ARR, top-customer concentration, churn and win-loss analysis, case studies, NPS history, pipeline and sales efficiency reports, pricing history.
+4. *Strategy and operating rhythm.* The strategic plan, the operating system's scorecards and quarterly priorities, board packets and minutes, the org chart with accountabilities.
+5. *Risk and legal.* Corporate records, the cap table reconciled to every grant and SAFE, customer and vendor contracts with the contract register, insurance, litigation, compliance and regulatory filings, data privacy.
+6. *People.* Employee census with compensation bands, offer letters and agreements, option grants, handbook, turnover history, succession plan, key-person dependencies.
+
+**Quality-of-earnings readiness is its own test.** In a sale, a buyer usually commissions a quality-of-earnings review, which rebuilds your EBITDA and revenue from the ledger up. It will find every one-time item you called recurring, every add-back without support, every month that was reopened after it closed, and every gap between the ARR in your board deck and the revenue in your books. Gaps found here become price adjustments rather than conversations. At a five-times multiple, a few hundred thousand dollars of EBITDA correction erases a seven-figure amount of value.
+
+#### Steps
+
+1. Build the index before you move a file. Use the six areas as top-level folders, number every subfolder, and write a one-line description of what belongs in each. Name an owner for each top-level folder: CFO for Financial, CTO for Product, the sales or marketing lead for Brand Equity, the COO or founder for Strategy Delivery, counsel or the CFO for Risk, and whoever runs people for Talent. One name per folder, never "the team".
+2. Hold the pulse-check meeting. Put a two-hour invitation on the calendar for the whole executive team, three or four weeks out. Before it, each owner reviews their folder for completeness, recency and consistency: is every document there, is it the current executed version, and does it agree with the other documents that describe the same thing. In the meeting each owner presents the problems in their folder and commits to a date for resolving each one. Assemble the dates into one list, schedule the follow-up run-through for after the last date, and close the meeting. Do not solve problems in the room.
+3. Do the founder run-through. Block a full day, ideally after a long weekend or some time away, so you read with fresh eyes, and go through everything in the data room as a buyer would. Build a list of everything that would make a buyer ask a question:
+    - Month-to-month changes in the numbers that look suspicious, even when you know why.
+    - Ratios out of line with the rest of the company, or with last year.
+    - Customer contracts with odd exceptions, non-standard terms, uncapped liability, most-favored pricing, or termination on change of control.
+    - Compensation that is not standardized, especially for people hired early.
+    - Grants, SAFEs or side letters that do not match the cap table.
+    - Anything that relies on your memory to make sense.
+4. Send the list to your executive team without your answers on it. You are replicating what a buyer's first diligence request looks like, and the point is to find out whether the company can answer without you. The answers you would have given are exactly the dependency a buyer will price.
+5. Hold the run-through meeting. Go through the list item by item and, for each one, decide between two outcomes: a compelling written explanation that goes into the data room beside the document, or an action to fix the underlying issue with an owner and a date. There is no third option called "we will explain it on the call". Explanations are drafted by the folder owner, edited for plain English and signed off by the CFO or counsel.
+6. Run the quality-of-earnings dry run. Have your CFO, or an outside accountant, rebuild the trailing twelve months of revenue and EBITDA from the ledger and reconcile them to the numbers in your board packets and forecast. Document every add-back with support, separate recurring from non-recurring revenue, reconcile ARR to recognized revenue, and confirm sales tax exposure. Anything that does not reconcile is either an explanation for the data room or a restatement you would rather make now.
+7. Assign durable accountability. For every folder and every critical file, the owner is responsible for three things: how often it is updated, control of the content and every explanation for variances or odd elements, and notifying the founder and the data room administrator whenever a new version goes in. Write the update frequency beside each file in the index. Most financial files update on the monthly close; contracts update on signature; the cap table updates on every grant.
+8. Set access and version control. One administrator, one platform with permissions and an audit trail, executed versions only, drafts kept elsewhere. Staff below the executive team should not be able to see the People folder or the full cap table. When a process starts, you will open folders to buyers in stages, and that staging is far easier on a room built this way than on a shared drive.
+9. Keep it current on a monthly rhythm, and review it every other month. Folder owners update their files on the monthly close. Every second month, the executive team meets for an hour, each owner walks through what changed and what is still outstanding, and the founder picks one folder at random to read as a buyer. Quarterly, report the data room's level to the board with the Exit Roadmap review. Before the exit window, repeat steps 3 through 5 in full, because the anomalies of the last twelve months will be the first things a buyer finds.
+
+#### Troubleshooting
+
+*The run-through turned up real business problems, not just paperwork.* It will, and that is part of the benefit. Often these are the things you have been putting off for a while, like compensation alignment, a customer on terms you would never offer today, or an early employee without a signed IP assignment. It is time to act. Make the resolution of those issues a primary priority for the quarter and give them attention. The sooner you do the emotionally taxing ones, the less they can affect the exit.
+
+*We will do this when we hire a banker.* Then your banker will spend the first three months of the engagement building a data room instead of building a buyer list, and every anomaly will be discovered on the clock. Worse, you will be doing the work while also running the company in its most scrutinized quarter. A banker can organize a data room. A banker cannot explain your numbers.
+
+*My team says they are too busy to maintain it every month.* They are maintaining it already. The monthly close, the contract register and the cap table are all things that should be current regardless. If updating the data room is heavy, it is because those underlying processes are not running, and that is the finding.
+
+### How to Make the Company Run Without You Before a Buyer Tests It
+
+**Play:** Founder Independence (The Vacation Test) · **Owners:** Founder, COO, Board · **Cadence:** Quarterly · **Stage:** Growth · **Effort:** 21 SP initial, 5 SP ongoing
+
+**Summary:** Measure how much of the company still runs through you, starting with your share of new ACV, the top accounts only you hold and the decisions only you make, then hand those off on purpose, prove it with staged absences of 30 days, 90 days and six months, and put a successor, written decision rights and a pre-sized retention pool in place, so a buyer is paying for a business and not for you.
+
+**Prevents mistakes:** #36 No clear roles or accountability; #100 Lack of documented operating processes; #105 Burning out; #106 Founder stepping into a subordinate’s process; #108 Fuzzy organizational chart; #151 Expecting sales hires to sell like founders
+
+Founder-led is a strength. Founder-dependent is a discount. The difference is whether the company keeps selling, renewing, shipping and deciding when you are not there, and most founders cannot answer that question honestly, because they have never been away long enough to find out.
+
+Buyers find out for you. Diligence teams ask who owns the top twenty customer relationships, who closed last year's new ACV, and who made the last five decisions that mattered, and then they call the customers and the managers and check. When the answer is the founder, the buyer prices the risk that the founder leaves, and then prices the earnout, the employment agreement and the holdback that keep the founder from leaving. The rule of thumb among advisors is a discount of 15–25% of enterprise value for a founder-dependent business. Treat it as an order of magnitude, not a quote. At the multiples lower-middle-market software trades on, that is a turn of EBITDA or more.
+
+The founder is usually the last to know. The team knows which decisions wait for you, the customers know whose number they call, and the only person surprised by the result of a genuine 30-day absence is the founder. The vacation test is not a vacation. It is a controlled experiment you run before someone else runs it on you at a price.
+
+> **The goal:** A company that passes a 90-day founder absence with its numbers intact, evidenced by a measured and falling founder share of new ACV, top accounts held by named non-founders, written decision rights, a successor in seat, and a retention pool sized and approved before any buyer appears.
+
+#### Background
+
+**What buyers actually measure.** Founder dependence shows up in how a buyer scores your people and your risk, and the markers move as the company grows.
+
+1. *Early stage.* The founder is 100% of sales, decisions and relationships, and that is appropriate. The first non-founder closer is hired, and the founder's share of new ACV falls below 85%.
+2. *Growth stage.* The founder is below 70% of new ACV, then below 30% of daily operations. A first layer of management runs sales and engineering. The founder can be away for three weeks without incident. The top ten accounts each have at least two named relationships, not just the founder or one account executive. A stay-bonus pool is sized.
+3. *Exit preparation.* The founder can be away for three months. The top twenty accounts are held by non-founders with documented handoffs. A non-founder COO or president has run daily operations for at least six months, retention agreements are executed for the critical few, and, at the top of the scale, the founder's departure would be a non-event.
+
+**Four kinds of founder dependency, and they fail differently.**
+
+1. *Revenue.* You close the deals and hold the relationships. Test it with founder share of new ACV and of top-account relationships.
+2. *Decisions.* Nothing material happens until you say yes. Test it by counting what waits in your inbox for a week.
+3. *Knowledge.* Critical context lives in your head: why the big customer has that clause, how the pricing was set, what the architecture was meant to do. Test it by whether the data room can answer questions without you.
+4. *Identity.* The market knows you rather than the company. Test it by whether pipeline and references hold when you are not the one asking.
+
+**A retention pool is part of independence.** When a buyer arrives, the people who actually run the company become the asset. A stay-bonus pool sized in advance for the top eight to twelve critical employees, commonly 50–100% of annual compensation paid at and after close, lets you answer the buyer's retention question on the first call instead of negotiating it under exclusivity with the buyer's money.
+
+#### Steps
+
+1. Measure the baseline in one sitting with your CFO and sales lead, and write it down.
+    - Founder share of new ACV over the trailing four quarters, by who actually ran the deal, not who is listed in the CRM.
+    - For the top twenty accounts by ARR: the primary relationship holder, the second name the customer would call, and whether that second name exists.
+    - Every recurring decision that needs you, from pricing exceptions to hiring approvals to roadmap calls.
+    - Every system, vendor relationship or piece of institutional knowledge only you hold.
+2. Keep a decision log for two weeks. Write down every decision you make, how long it waited for you, and who could have made it with the right information. Founders consistently underestimate this list by half. The log is the raw material for the next step.
+3. Write decision rights. For each recurring decision in the log, name who decides, who is consulted, what limits apply (a discount ceiling, a hiring budget, a spend threshold) and what comes back to you. Put it in the accountability chart your operating system uses. See the Execution Operating System play. Then keep out. A founder who hands over a decision and overrules the first three calls has not handed it over, and the team learns faster from that than from the document.
+4. Transition the accounts on a schedule. For each top-twenty account you hold, name the successor, introduce them in person on a normal business call rather than a farewell call, run the next two quarterly reviews together with the successor leading, and then step back to an executive sponsor role. Do it account by account over two to four quarters, starting with the healthiest relationships, not the most at-risk. Record each handoff in the account file so a buyer can see it happened.
+5. Take yourself out of new sales deliberately. Set a founder share of new ACV target that falls each quarter, and staff the deals you would have closed with a seller you coach rather than replace. Expect the new closer to be slower and to win fewer at first; new sellers do not sell like founders, and they need time, training and a documented process to get there. Budget for that ramp rather than stepping back in when the first deal slips.
+6. Name the successor for your role, whether that is a COO or president who will run daily operations or the person the board would appoint tomorrow if you were unavailable. If the right person is not in the company, the Hiring A Players (Topgrading) play is how you find them. Give them the operating cadence to run: the weekly leadership meeting, the scorecard, the quarterly priorities. A successor who has run the company for six months before a sale is worth more to a buyer than one named in the CIM.
+7. Run the staged absences, and treat each one as a test with a pass condition written in advance.
+    - *30 days.* Fully out of operations, reachable only for a named list of emergencies. Pass: pipeline, bookings and retention within forecast, no decision held for your return.
+    - *90 days.* Out of daily operations, attending board meetings only. Pass: the quarter lands, the successor runs the leadership cadence, no top-twenty customer asks for you.
+    - *Six months.* The successor runs the company and you work on strategy, the board and the exit. Pass: the business performs with you in that role, and a buyer's diligence team would find no daily dependency.
+    After each absence, debrief with the leadership team. What waited for you, what broke, and what went better without you are all findings; the third one is usually the most useful.
+8. Size the retention pool with the board. Identify the eight to twelve people a buyer would most need to keep, estimate each stay bonus as a share of annual compensation, agree the total and the vesting shape (typically part at close and part twelve months after), and have counsel draft the agreements so they are ready to execute when a deal emerges. Pair it with key-person insurance on the founder and on anyone carrying more than a fifth of revenue.
+9. Review founder independence every quarter as part of the quarterly Exit Roadmap review. The founder share of new ACV, the number of top-twenty accounts held by non-founders, the decisions still in your inbox, and the result of the last absence go on one page to the board. Once a year, confirm the successor and retention list are still the right names. If the numbers stop falling for two quarters, the handoff has stalled, and the most likely cause is you.
+
+#### Troubleshooting
+
+*Customers want to talk to me.* Of course they do, you built the thing. They also want their problems solved on time, and a customer who can only get that from the founder is a customer the buyer will discount. Introduce the successor as an upgrade in attention, not a downgrade in seniority, and stay visible as the executive sponsor. Most customers accept the change far more easily than founders expect.
+
+*If I step back, growth will slow.* For a few quarters, possibly. That is the cost of converting a founder-dependent business into a company, and it is much smaller than the 15–25% advisors expect a buyer to take for not having done it. Put the dip in the plan so the board sees it coming.
+
+*I plan to stay after the sale anyway.* Then you will be selling your future employment as part of the price, often through an earnout that depends on performance under an owner you do not control. Independence gives you the choice. A founder who has to stay has no leverage over the terms on which he stays.
+
+*We tried a 30-day test and it went badly.* Then it worked. You found the dependency with no buyer in the room. Write down exactly what broke, fix the two or three largest items, and run it again next quarter.
+
+### How to Pull the Value Levers Buyers Price in the Last 12 to 18 Months Before a Sale
+
+**Play:** Pre-Sale Value Levers · **Owners:** Founder, CFO, Exec Team · **Cadence:** Quarterly · **Stage:** Growth · **Effort:** 21 SP initial, 8 SP ongoing
+
+**Summary:** Pick the handful of metrics your buyer actually prices — Rule of 40, net revenue retention, proven pricing power, customer concentration, gross margin and clean earnings — and spend the last four to six quarters before a process moving them in run-rate where a buyer can see them, while clearing the tax, cap table and contract debris that turns into escrow and price chips in diligence, and refusing the cosmetic moves a buyer will normalize away.
+
+**Prevents mistakes:** #18 Messing up your cap table; #20 Hip-shot product pricing; #23 Not paying taxes; #85 Ignoring rev-rec; #86 Not hard-closing financial statements; #93 Ignoring a problem; #153 Diluting Effort Instead of Concentrating Force; #162 Blending unproven customers into the core revenue line
+
+The last eighteen months before a sale are the only months a buyer will look at closely. Your trailing twelve is the base they price, the quarter you are in is the one they test your forecast against, and everything before that is context. That is not a reason to panic. It is a reason to spend those months on a very short list of things, because the list of things a buyer actually pays for is short, and most of what founders do in the run-up to a process is not on it.
+
+What founders usually do instead is one of two things. Some start new initiatives to tell a bigger story — a second product, a new segment, a partnership announcement — and arrive at diligence with fresh cost, no revenue, and a buyer asking why the core business needed a distraction. Others cut. They freeze hiring, trim R&D, delay the marketing spend, and walk in with an EBITDA line that looks wonderful for two quarters. A good buyer normalizes it back in the quality of earnings work, and then asks the harder question: what happened to the roadmap? You spent a year weakening the company to flatter a number the buyer was always going to recalculate.
+
+The levers that move the multiple are known, and they are slow. Retention, pricing power, concentration and margin do not move in a quarter, and a buyer can tell the difference between a metric that has been true for four quarters and one that became true last month. Pull them early enough that they are boring by the time anyone looks.
+
+> **The goal:** A written list of four to six value levers tied to what your buyer archetype prices, each with a run-rate target, an owner and a quarterly review, plus a cleared debris list, so that the numbers a buyer tests in diligence are ones you already tested yourself.
+
+#### Background
+
+**What buyers price.** Software buyers value cash flow potential, and in a subscription business cash flow potential comes from three things: gross margin, net retention and sales efficiency. The market decides which of the three it pays up for. In a frothy market, growth bought with sales spend earns a premium; when capital tightens, buyers look for breakeven and profit. Knowing which regime you will sell into decides which lever gets the effort. The benchmarks below are widely cited ranges from sector research, not promises, and your banker or a buyer you know will have a sharper read on your band.
+
+1. *Rule of 40.* Growth rate plus profit margin. One widely cited regression puts every ten points of improvement at roughly one additional turn of EV-to-revenue. Most companies under $30M of ARR sit well below forty. Growth and margin trade against each other inside the score, which is exactly why it matters: it tells the buyer whether your growth is paid for.
+2. *Net revenue retention.* Above roughly 110% is commonly cited as earning a premium of one to two turns of revenue, and below 90% buyers discount. It is a rule of thumb, not a quote. It is the single best predictor of what the book is worth after you leave, and the buyer will rebuild it from your invoices, cohort by cohort.
+3. *Pricing power proven in run-rate.* Not a price list. A price increase of 5–15% that has been applied, held, and shows up in the revenue base, with close rates and retention within tolerance afterward. Pricing power is the cheapest value lever you have and the one founders avoid longest.
+4. *Customer concentration.* The rule of thumb is a 10–20% discount once a single customer clears 20–35% of revenue, and more above 40%. Exit-ready looks like the largest customer at or under roughly 10% and the top five at or under roughly 25%.
+5. *Gross margin hygiene.* Not only the percentage but what sits inside it. Hosting, third-party software in the product, support and implementation labor all belong in cost of revenue. A buyer will reclassify them if you have not, and your margin will fall in their model rather than yours.
+6. *Clean earnings.* Every adjustment you make to EBITDA is a claim a quality of earnings provider will test. At a 5x multiple, a $400K correction to EBITDA erases $2M of value, and quality-of-earnings gaps are among the most common reasons deals break in diligence.
+7. *A forecast you beat.* Buyers price your projections by checking your history of hitting them. A company that beats a modest forecast every month of a process gets paid for its plan. One that misses an ambitious one gets repriced on its actuals, and usually gets a structure — an earnout — in place of cash.
+
+**Levers versus debris.** Levers raise the number. Debris lowers it: an unregistered sales tax exposure, a cap table that does not reconcile, a founder IP assignment that was never signed, customer contracts with change-of-control clauses nobody read. Debris rarely kills a deal. It turns into special indemnities, larger escrows and price chips after exclusivity, when you have the least leverage to argue. Clearing it is dull, and it is some of the highest-return work you will do.
+
+#### Steps
+
+1. Pull out the benchmark sheet from your Meaningful Exit Plan and the latest version of its gaps. Circle the metrics your primary buyer archetype underwrites. A private-equity buyer weights Rule of 40, retention, margin and clean earnings; a strategic weights product, customer overlap and retention and cares less about this year's EBITDA. If you do not know which buyer you are building for, stop and finish that play first. Optimizing for the wrong buyer is a year of work spent in the wrong direction.
+2. Choose four to six levers, no more. For each one write today's number, the run-rate target, the date it must be true by (at least two full quarters before you expect to go to market, so the buyer sees it hold), and one owner. Anything beyond six is a wish list, and the team will quietly work on the easiest two.
+    - Which lever is worth the most turns of multiple for this buyer?
+    - Which one takes longest to show up in trailing results?
+    - Which one depends on a structural change rather than effort?
+3. Run the pricing lever first, because it compounds and it takes longest to prove. Test a 5–15% increase on new business, then on renewals, segment by segment, and watch close rates and churn for two quarters. Use the Pricing Matrix and Value Proposition & Customer ROI plays to decide where the increase is defensible. The point is not the headline increase; it is a run-rate revenue base that already carries it, and evidence that customers stayed. A price increase announced in the CIM is a promise. One in the trailing twelve is a fact.
+4. Work retention at the account level, not the dashboard. List every account that shrank or churned in the last eight quarters with a written reason, and every account with an expansion path nobody is working. Put your best customer success person on the top of both lists. Separate provisional and seasonal customers from your core book as the Core & Provisional Segmentation play describes, because a blended retention number prices your whole book at its weakest cohort.
+5. Attack concentration with new logos, not by shrinking the big customer. If one customer is over 20% of revenue, the fix is years of new business, so start now and state honestly in the plan what the percentage will be at your target date. Where the concentration will not be fixed in time, get that customer onto a longer contract term with a clean assignment clause before the process, so the buyer is underwriting a contract rather than a relationship.
+6. Rebuild gross margin the way a buyer will. Have your CFO reclassify every cost that serves customers into cost of revenue, restate the last eight quarters on that basis, and live with the lower number now. Then work the real levers: hosting spend, implementation run on fixed fees instead of hours, services that should be product. See the P&L Explained play for the line placement.
+7. Commission a sell-side quality of earnings review, or at minimum a QoE-style self-review with an outside accountant, twelve months out. List every EBITDA adjustment you would claim, with support for each, and drop the ones you cannot document. One-time legal fees with invoices survive. "The founder's salary is above market" survives if a replacement is priced and named. "We would have been more profitable if the big deal hadn't slipped" does not. Hard-close the months and stop reopening them; restated history is the fastest way to lose a buyer's trust in every other number.
+8. Clear the debris list, with counsel and your CFO, in one pass:
+    - Sales tax: a nexus study across the states you sell into, voluntary disclosure where you owe, and registration going forward. SaaS is taxable in a number of states and buyers carry uncollected tax as a debt-like item or a special indemnity.
+    - Cap table: reconcile every grant, exercise, SAFE and note to signed documents; confirm option grants were priced at a supportable 409A; fix any gap now while the people who can sign corrections still answer your email.
+    - IP: signed invention assignments from every founder, employee and contractor who touched the code, plus an open source inventory.
+    - Contracts: change-of-control and assignment clauses, most-favored-nation pricing, uncapped liability, exclusivity and any side letters, logged in the Contract Register with a plan for the ones that will cause trouble.
+    - Revenue recognition: a written policy, consistently applied, that an auditor has seen.
+9. Build a forecast you will beat. Reset the operating plan for the sale year to a number the team expects to exceed with some margin, and publish it to the board as the plan of record. Then track monthly actual against it. Buyers compare every month of your process to the projection in the CIM, and a streak of small beats is worth more than any narrative in the management presentation.
+10. Write the do-not-do list and hold to it. No new product lines or segments that will not produce revenue before the process. No R&D or support cuts to flatter EBITDA a buyer will add back and then question. No aggressive multi-year prepay deals at a discount to pull cash forward, because deferred revenue will be fought over in the working capital negotiation and discounting teaches your customers that waiting pays. No big-bang system migrations in the sale year. Each of these reads well in a board meeting and badly in a data room.
+11. Review the levers quarterly with the board, alongside the quarterly Exit Roadmap review. The CFO owns the sheet: each lever's run-rate number against target, whether the trend has held for two quarters, and the debris items still open with an owner and a date. A lever that has not moved in two quarters gets either more force or an honest decision to accept the discount, written down, with an estimate of what it costs.
+
+#### Troubleshooting
+
+*We are profitable enough already. Why touch pricing right before a sale?* Because pricing is the one lever that raises revenue, margin and Rule of 40 at the same time, and the buyer is going to raise prices after close if you do not. Every dollar of increase you prove in run-rate is paid for at the multiple. Every dollar you leave for them is value you handed across the table.
+
+*Our biggest customer is 35% of revenue and we are selling in a year.* Then you will not fix concentration in time, and you should stop pretending otherwise in the plan. Lengthen the contract, clean its assignment language, build a second and third champion inside the account, and choose a buyer for whom that customer is an asset rather than a risk — often a strategic already selling to the same customer. Then expect the price or the structure to reflect it.
+
+*My CFO says the QoE will find nothing, so why pay for one?* Every quality of earnings review finds something. The only question is whether you find it with a year to fix it or a buyer finds it two weeks into exclusivity. The fee is small next to one price chip.
+
+*The team wants to launch the new module before we sell, to show the vision.* Show the vision in the roadmap and the management presentation. Launch it after close unless it produces measurable revenue before the process starts. A half-launched product in the sale year is cost in the numbers and risk in diligence, and the buyer will pay for neither.
+
+### How to Select an Investment Banker for the Sale of a Vertical SaaS Company
+
+**Play:** Selecting an Investment Banker · **Owners:** Founder, Board, CFO · **Cadence:** Weekly · **Stage:** Growth · **Effort:** 21 SP initial, 2 SP ongoing
+
+**Summary:** Start banker conversations twelve to eighteen months before you intend to sell, build a shortlist from closed transactions in your size band and vertical rather than from brand names, interview the people who will actually run your deal, negotiate the engagement letter's fee, tail, term and carve-outs with counsel before you sign, agree the process design in writing, and then run the relationship on a fixed weekly cadence.
+
+**Prevents mistakes:** #21 Founder playing ‘lawyer’ on contracts; #54 Not vetting strategic decisions with knowledgeable counsel; #99 Paying for ‘money finders’; #110 Believing the hype of a company pitch; #125 Getting starstruck by big name companies.; #129 Outsourcing hard decisions
+
+The banker you hire is not the banker who pitched you. The senior partner with the tombstones and the great stories runs the pitch meeting; a vice president and an analyst run your deal. Most founders select on the partner and live with the associate for nine months. The single most useful question in the whole selection is who, by name, will write the CIM, call the buyers and sit next to you in the management presentations, and how many other live deals those people are carrying this quarter.
+
+The second thing founders get wrong is timing. They call bankers when they have decided to sell, which means the selection happens in three weeks under pressure and the first real conversation about valuation is a pitch. Bankers pitch high to win the mandate. That number becomes an anchor in your head, and it is the most expensive anchor you will carry into the process, because every real offer is measured against it and every one feels like a loss.
+
+Start twelve to eighteen months out. Talk to four or five firms informally, share your numbers, and ask each what the company would need to look like to be an easy deal for them. The ones who tell you something you did not want to hear are the ones worth keeping on the list.
+
+> **The goal:** A banker chosen on evidence — transactions closed in your band, the named team who will do the work, their real buyer relationships — under an engagement letter you negotiated with counsel, with the process design agreed in writing and a weekly cadence running from the day you sign.
+
+#### Background
+
+**What a banker actually does.** A good sell-side banker does four things you cannot do yourself: builds and works a buyer list you do not have access to, writes the materials that position the company, runs a process that creates competition and deadlines, and stands between you and the buyer in the negotiation so that you can remain the person the buyer will work for afterward. The fee pays for the competition. A process with one buyer is a negotiation, and you can hire a good M&A lawyer for that. And a banker is not a finder. Anyone who offers to introduce you to "a few buyers" for a fee, without running a process or standing behind the materials, is selling your own contacts back to you.
+
+**How bankers are paid.** Terms vary widely by deal size and firm, so treat these as the shape rather than the price.
+
+1. *Retainer.* A monthly or upfront fee, commonly credited against the success fee at close. It keeps the banker committed and it is the fee you pay if the deal dies. Negotiate it down and make sure it is credited.
+2. *Success fee.* A percentage of transaction value paid at close. In the lower middle market it is usually a single-digit percentage, higher on smaller deals and lower on larger ones. Some firms use a Lehman-style ladder, with a higher percentage on the first tranche of value and stepping down; others use a flat rate with an incentive ratchet above a target value. A ratchet that pays the banker more for value above an agreed number aligns interests, provided the number is ambitious rather than the price they expect anyway.
+3. *Minimum fee.* A floor paid regardless of deal size. Fine in principle; check what it implies as a percentage at your realistic value, not the pitched one.
+4. *Tail.* The period after the engagement ends during which a deal with a buyer the banker introduced still earns the fee. Twelve months is reasonable; longer is a negotiation.
+5. *Expenses.* Legal, travel, data room. Cap them.
+
+**Process design.** The banker will recommend one of three shapes. A *broad auction* contacts a large list of strategics and sponsors, maximizes tension, and maximizes the number of people who know you are for sale. A *targeted process* goes to a curated list of perhaps twenty to forty buyers who fit, and trades a little tension for confidentiality and speed. A *negotiated sale* works one to three buyers who have already shown interest. Strategic buyers pay for the past and the future and usually fit vertical SaaS best, but they are slower, because a champion has to sell the deal internally to a board. Financial buyers pay for the past, move faster to an LOI because fund deadlines and return models drive them, and close faster. The right design follows from the buyer archetype in your Meaningful Exit Plan, not from the banker's habit.
+
+#### Steps
+
+1. Open informal conversations twelve to eighteen months before your target go-to-market date. Share your financials under NDA and ask each banker the same question: what would make this company an easy deal for you in a year? Take notes on what each one tells you to fix, and compare the lists. Put their answers into your Exit Readiness Roadmap if they are right.
+2. Build the long list from closed transactions, not reputations. Pull every disclosed sale of a vertical software company in your size band and adjacent verticals over the last three to five years and note which firm advised the seller. Ask your board, your investors, your lawyer and founders who have sold for the names of bankers they would hire again and the ones they would not. A firm that has closed three deals the size of yours in your vertical is worth more than a famous firm for which your deal is small.
+3. Cut to three or four and interview each one properly. Two hours, with the CFO and one board member in the room, and insist the people who will work the deal attend. Ask:
+    - Who, by name, will do the work day to day, and how many live mandates are they running?
+    - Which deals like ours have you closed in the last three years, and what did the seller net against the first IOI?
+    - Name ten buyers you would call first, and tell us when you last spoke to someone senior at each one.
+    - What would you advise us not to do, and what would make you walk away from this mandate?
+    - What is your valuation range, what is it built on, and what would the low end of it look like?
+    - Tell us about a process that failed and why.
+    - How will you handle a known buyer who has already approached us?
+4. Call the references they give you and the ones they do not. Ask two sellers from their recent deals what happened after the LOI, whether the price held, and whether the team that pitched stayed on the deal. Ask one buyer who has been across the table from them whether they ran a real process. A banker who ran tight, honest processes is known for it on both sides.
+5. Discount the valuation pitch deliberately. Write down each banker's range and then set it aside. Choose on team, buyer access and process discipline. The banker who pitches the highest number is the one most likely to be negotiating you down from it in month seven, and the one you should trust least on price.
+6. Negotiate the engagement letter with your own M&A counsel, not alone. The points that matter:
+    - Fee structure, the retainer credit, the minimum fee and any ratchet threshold.
+    - What counts as transaction value — whether earnouts, escrows and rollover equity carry the fee at close or only when paid. Push for fee on contingent consideration only when and if it is received.
+    - Term, usually twelve months, with your right to terminate on notice.
+    - Tail, limited to buyers the banker actually contacted, with a written list delivered at termination.
+    - Carve-outs for buyers who approached you before the engagement, at a reduced fee or none, named in a schedule.
+    - Exclusivity and what happens if you raise capital or do a recapitalization instead of a sale.
+    - An expense cap and indemnification terms your counsel is comfortable with.
+7. Agree the process design and write it down before you sign. The buyer universe and how it is split between strategics and sponsors, the target timeline from launch to LOI, who contacts which buyers, what the teaser and CIM will and will not disclose, and which buyers are excluded because they are competitors you will not let see your data. Settle this now, while you still have leverage over the banker.
+8. Decide what you will keep for yourself. The banker runs the process; you decide the buyer, the structure and the walk-away. Share your Floor and Enough from the Meaningful Exit Plan only as a floor the banker must clear to bring an offer forward; keep Temptation to yourself and your board.
+9. Run the relationship on a fixed weekly call from the day you sign until close. Same day, same hour, thirty to sixty minutes, founder, CFO, banker lead, and a board member when decisions are live. A standing agenda: buyer activity and status by name, diligence requests outstanding and who owns them, documents due this week, issues found, and the one decision needed. The CFO owns the action log and circulates it within a day. When a week passes with nothing to report on buyer activity, that is the finding, and the call should be about why.
+
+#### Troubleshooting
+
+*A strategic has already approached us, so why pay a banker?* Because one buyer is not a process, and the buyer knows it. Without an alternative you are negotiating against your own impatience. If you are confident in the buyer, hire a banker on a reduced fee to run a short, targeted check of five or six alternatives, or hire experienced M&A counsel for a negotiated deal. Either way, carve the approaching buyer out of the full fee in the engagement letter.
+
+*The big-name bank wants the mandate, and the name will impress buyers.* Buyers are impressed by competition, not by letterhead. Ask the big-name bank who will run your deal and how many deals below their usual size they closed last year. If the answer is a junior team and not many, the smaller specialist who closes your size every quarter will work harder and know more of the right buyers.
+
+*The banker wants a large retainer.* A retainer is reasonable; an uncredited one is not. Pay it, credit it against the success fee, and cap it. If a banker needs a large uncredited retainer to take the mandate, they are telling you how much they believe in the deal.
+
+*We picked a banker and three months in the process is going nowhere.* Look at the weekly log. If buyer contacts are thin and the named team has changed, raise it directly and in writing. If it does not change within a month, use the termination right you negotiated, and be glad you limited the tail to buyers actually contacted.
+
+### How to Run the Company While You Are Selling It
+
+**Play:** Running the Company During a Sale · **Owners:** Founder, Exec Team, CFO · **Cadence:** Weekly · **Stage:** Growth · **Effort:** 13 SP initial, 8 SP ongoing
+
+**Summary:** Treat the quarters you sell in as the most scrutinized of the company's life — stand up a small deal team with a code name, hand day-to-day operations to a named operator, protect a forecast you will beat, run diligence from a single request tracker, decide in advance who learns about the sale and when, put retention agreements in place for the people the buyer is paying for, and keep the exec team on their weekly numbers so the business does not drift while the founder negotiates.
+
+**Prevents mistakes:** #19 Not communicating with investors; #36 No clear roles or accountability; #71 No active data room; #75 Counting deals as won before docs are signed; #105 Burning out; #116 Not managing expectations
+
+The quarter you sell in is the most scrutinized quarter your company will ever have. Every buyer has your projections from the CIM open next to your monthly actuals, and a miss in month two of the process does not get read as a timing problem. It gets read as a forecast you cannot trust, which means a plan the buyer will not pay for, which means an earnout in place of cash. Founders expect diligence to be about the past. The live test is the present.
+
+And the founder is the person least available to protect it. A sale process eats the founder whole: management presentations, buyer calls, diligence questions only you can answer, lawyers at night. The company notices within weeks. Deals that needed the founder's push slip, decisions queue up outside an empty office, and the exec team, who can tell something is happening, start guessing what. The pattern repeats so reliably it should be on the calendar: the founder disappears into the deal, the quarter softens, the buyer sees the softening, and the price follows it.
+
+The answer is not to try harder at both jobs. It is to decide before the process launches who runs the company while you sell it, and then hold that line.
+
+> **The goal:** A deal team, an operator running the business, a forecast the company beats every month of the process, a single diligence tracker, a written communication plan for employees and customers, and retention agreements in place for the people the buyer is paying for.
+
+#### Steps
+
+1. Name the deal team and keep it small. The founder, the CFO, and at most one or two others whose knowledge the diligence will need, usually the CTO and later the head of sales or customer success. Give the project a code name and use it everywhere: in calendar invites, file names, the data room, email subjects. Everyone on the team signs an acknowledgment that they know what confidential means here. Everyone not on the team does not know, and you plan as if they will find out anyway.
+2. Name the operator. Before launch, hand the running of the business to one person, a COO, president or strongest functional leader, with written decision rights for the period of the process: what they decide alone, what comes to you, and what waits. Tell the exec team that for the next six months operating questions go to that person. If you have done the Founder Independence play, this is the test it was built for. If you have not, this is where you find out how much the business still runs through you.
+3. Protect the forecast. Re-base the plan to a number you expect to beat, publish it to the board before launch, and make it the number that goes into the CIM. Then run the business to beat it every month. Hold the weekly exec meeting from the Execution Operating System play without exception, with each leader reporting their scorecard numbers against plan, and have the operator run it when you cannot. Pipeline gets reviewed weekly as it always did; nobody gets to count a deal as closed because it would help the process. If a month is going to miss, the CFO tells the banker before the month closes, with the reason, so the buyer hears it from you with an explanation rather than from the numbers without one.
+4. Build the CIM and the management presentation with the banker, and own every number in them. The banker writes; you and the CFO check every figure against the data room and every claim against evidence a buyer can verify. A projection in the CIM is a promise you will be tested on for the rest of the process. Rehearse the management presentation at least three times with the deal team and a board member playing a skeptical buyer, and decide in advance who answers which questions. Put your operator in the room for at least part of it; a buyer who meets the person running the company is looking at a business that does not depend on you.
+5. Run diligence from one tracker. Every request from every buyer goes into a single log: request number, buyer, date received, owner, due date, status, and the data room location of the answer. The CFO owns the tracker and a deal-team member triages new requests daily. Answer from the data room rather than by email, so every buyer sees the same record. Where the answer is unflattering, write the explanation once, carefully, and use it everywhere. The Exit Data Room play should mean most requests are a link, not a project; the ones that are projects tell you where the data room was thin.
+6. Write the communication plan before you need it. Decide who learns what, and when:
+    - The deal team knows from the start.
+    - Additional leaders are told only when diligence needs them, usually after the LOI, with a clear instruction on what they may discuss and with whom.
+    - Customers are contacted by a buyer only after the LOI, with your consent, for a limited list, with you or your account lead on the call.
+    - The wider company is told at signing or closing, by you, in person, on a day that is planned to the hour, with answers ready for the questions everyone will have: am I keeping my job, does my manager change, what happens to my equity.
+    - Keep a short holding statement ready for a leak. If someone asks, it says the company regularly talks with partners and investors and that nothing is changing in how we work today, which will be true.
+7. Put retention in place for the people the buyer is paying for. Identify the eight to twelve employees whose departure would hurt the deal most, engineers who hold the architecture, the account managers who hold the top customers, the operator. Offer retention agreements before or at the LOI, commonly sized at 50–100% of annual compensation, paid part at close and the balance six to twelve months after, conditional on staying. Decide early whether the sellers fund the pool or the buyer does, because it is a negotiating point, and a buyer who wants the team intact will often fund it. Understand what each person's equity will be worth at the expected price; a key employee who discovers at signing that their options are nearly worthless is a retention problem you created.
+8. Protect the founder, too. Block time each week that belongs to the business and not the deal: one customer meeting, one pipeline review, one-on-ones with the operator and the CFO. Keep the executive session with the board after each major process milestone. And sleep. The final weeks of a process are the worst hours to make decisions tired, and they are the weeks when the largest decisions get made.
+9. Keep the investors and board informed on a schedule, not on events. A short written update every week or two from the deal team: buyer activity, offers, diligence status, the business against plan, and what you need from them. Surprises in a process, on either side, cost more than they would at any other time.
+10. Run the weekly deal-team meeting until close. The founder chairs it, the CFO owns the action log, and the operator attends the first fifteen minutes to report the business: numbers against plan, pipeline, any customer or employee issue the deal team needs to know. The rest covers buyer status, the diligence tracker, open decisions and communications. When the business portion runs short because the deal portion is urgent, that is the week to check that the company is still being run.
+
+#### Troubleshooting
+
+*Word leaked and the team is asking whether we are being sold.* Use the holding statement, then tell the truth you can tell: the company talks with partners and investors, nothing is decided, and nothing about how we work is changing today. Do not lie outright, because you will be standing in front of the same people on announcement day. Then look at who knew and how it got out, and tighten the deal team.
+
+*We are going to miss the month in the middle of diligence.* Tell the banker now, with the reason and what next month looks like. A miss explained early is a question. A miss discovered in the next data room refresh is a re-trade. If it is the first miss against a forecast you set conservatively, you have some credit to spend; if the forecast was ambitious, this is where you learn why step 3 matters.
+
+*The buyer wants to meet our customers before signing.* Normal, and it should be controlled. Agree a short list after the LOI, brief each customer yourself first, and have your account lead on every call. Never give a buyer an open customer list to call, and never give a competing strategic that list at all.
+
+*My operator is not ready to run the business.* Then either the process is premature or someone on the board or an interim executive fills the gap for six months. The alternative, a founder trying to do both jobs, produces a softer quarter and a weaker price, and a buyer who concludes the company cannot run without you, which is the most expensive thing they can conclude.
+
+### How to Negotiate the Sale of Your Company From IOI to Close
+
+**Play:** Negotiating the Exit · **Owners:** Founder, Board, CFO, Legal · **Cadence:** As Needed · **Stage:** Growth · **Effort:** 21 SP initial, 5 SP ongoing
+
+**Summary:** Convert every offer into what actually reaches you after net debt, the working capital peg, fees, escrow, earnout, rollover and the preference stack, negotiate the terms that decide that number before you sign exclusivity rather than after, expect a re-trade and prepare the evidence to resist it, keep a second bidder warm until signing, and hold a walk-away anchored to the Floor, Enough and Temptation in your Meaningful Exit Plan.
+
+**Prevents mistakes:** #21 Founder playing ‘lawyer’ on contracts; #75 Counting deals as won before docs are signed; #78 Ending up in win/lose ever; #87 Bluffing; #91 Engaging in brinkmanship; #94 Tolerating brinkmanship; #134 Happy ears with customers
+
+The day you sign exclusivity, the leverage in your deal changes hands. Before it, several buyers are competing and each one is afraid of losing. After it, one buyer has thirty to sixty days in which you may not talk to anyone else, a diligence team looking for reasons to pay less, and full knowledge that your other bidders have gone cold and your team is tired. Almost everything that erodes a price happens after exclusivity. Founders negotiate the headline number hard in the LOI and treat the rest as legal detail, and the rest is where the money goes.
+
+Then comes the re-trade. Diligence finds something, a quality of earnings adjustment, a churned customer, a contract with a change-of-control clause, a working capital shortfall, and the buyer comes back with a lower number, politely and with a spreadsheet. Some re-trades are fair; the finding is real and nobody knew. Many are planned from the start: bid high to win exclusivity, then negotiate down once the competition is gone. You cannot tell which kind you are facing from the tone. You can only prepare so that the buyer finds nothing you had not already disclosed, and so that you have somewhere else to go.
+
+The headline price is not the number. The number is what reaches your account, after the peg, the net debt, the fees, the escrow, the earnout that may not pay, the rollover you cannot spend, the preference stack, and tax. Two offers with the same headline can be millions apart by that measure, and the lower headline is often the better deal.
+
+> **The goal:** A proceeds model that converts every offer into cash at close, cash likely within two years and contingent value; a term sheet negotiated before exclusivity on the points that decide those numbers; and a written walk-away tied to your Floor, Enough and Temptation, held by you and your board.
+
+#### Background
+
+**The stages.** An *indication of interest* (IOI) is a non-binding range from each buyer after they read the CIM; it narrows the field. Management presentations and early diligence follow. A *letter of intent* (LOI) is a non-binding offer with a price, a structure and the key terms, plus binding exclusivity and confidentiality. Confirmatory diligence, the quality of earnings review and the purchase agreement come after it. Then signing, and closing, sometimes the same day.
+
+**The terms that move money.**
+
+1. *Enterprise value and net debt.* Most deals are priced cash-free, debt-free: the buyer pays enterprise value, you keep the cash, and debt comes out of your proceeds. The fight is over what counts as debt. Buyers will propose unpaid taxes, accrued bonuses, deferred compensation, customer deposits, transaction expenses, and in software, some or all of deferred revenue.
+2. *The working capital peg.* The price assumes the business is delivered with a normal level of working capital, set as a target called the peg, commonly based on a trailing twelve-month average. Deliver less at close and the price drops dollar for dollar. In a SaaS business billed annually in advance, deferred revenue makes working capital negative and seasonal, so the month the peg is measured against, and whether deferred revenue sits inside working capital or is treated as debt, can move the price by more than any other clause in the deal.
+3. *Escrow and holdback.* A portion of the price held back to cover indemnity claims. Without insurance it is commonly around ten percent of the price for twelve to eighteen months. With representations and warranties insurance, the seller's exposure often shrinks to a small retention, and a clean escrow is money you will probably see. Always model it as deferred, not received.
+4. *Representations and warranties insurance.* A policy the buyer buys, often at the seller's partial expense, that covers breaches of your representations. It is now common in private-equity deals of meaningful size and it changes the indemnity negotiation for the better. Price it early.
+5. *Indemnity.* What you owe the buyer if a representation proves false. The cap for general reps, the basket before claims start, and the survival period all matter. Fundamental reps — title to shares, authority, capitalization — usually carry a cap up to the full price. Fraud is uncapped, which is one more reason to disclose everything.
+6. *Earnouts.* Part of the price paid later if the business hits targets. They close valuation gaps on paper and open disputes in practice. After close the buyer controls the budget, the hiring, the pricing, the accounting and the integration, and every one of those can move the metric. Many earnouts pay out partially or not at all. Treat one as a lottery ticket priced at a discount, not as purchase price.
+7. *Rollover equity.* Part of your proceeds reinvested in the buyer's new holding company, common in private-equity deals. It can be a real second bite, and it is minority equity, behind new debt and often behind the sponsor's preferred terms, with no control and no liquidity until their exit. Model it as possible upside, not money.
+8. *Employment, consulting and non-compete terms.* If you are staying, your role, reporting line, compensation, what happens if you are terminated without cause, and how that interacts with any earnout. The non-compete's length, geography and definition of competition will govern what you do next.
+
+#### Steps
+
+1. Build the proceeds model before the first IOI arrives. Your CFO and counsel model, for any enterprise value, the path to your account: minus net debt and debt-like items, plus or minus the working capital adjustment, minus transaction fees (banker, legal, accounting, insurance), minus escrow, minus contingent earnout, minus rollover, then through the preference stack and any management carve-out to common, then to you, then after tax. Output three numbers per offer: cash at close, cash likely within twenty-four months, and contingent value. Only the first is certain.
+2. Write the walk-away before you see an offer. Take the Floor, Enough and Temptation from your Meaningful Exit Plan and express each as cash at close from the proceeds model. Decide with your board, in writing, which terms you will not accept at any price. Keep Temptation out of the room with the buyer and out of the banker's hands. The founder who has not written these down will discover them, one concession at a time, in the last week, tired.
+3. Compare IOIs on structure, not on headline. Ask the banker to get each bidder to state, before management meetings, their assumed net debt treatment, their approach to deferred revenue, whether they will use insurance, the earnout and rollover they expect, and their financing. Buyers who refuse to say now will say it later, after exclusivity, when it costs you more.
+4. Negotiate the LOI as if it were binding, because practically it is. Everything you leave vague in the LOI will be resolved in the buyer's favor during exclusivity. Push the points that decide the money into the LOI:
+    - Enterprise value, with the cash-free, debt-free basis stated.
+    - The working capital peg methodology and the treatment of deferred revenue, with a number if you can get one.
+    - A definition of debt with a named list, not "customary debt-like items."
+    - Escrow size and duration, insurance, the indemnity cap and basket.
+    - Earnout metric, period, accounting and the operating covenants that protect it.
+    - Rollover amount and the terms of the new equity.
+    - Retention pool size and who funds it.
+    - Exclusivity length, thirty to forty-five days rather than ninety, with an extension only by mutual agreement.
+5. Keep a second bidder warm until signing. Before granting exclusivity, have the banker tell the runner-up that you have chosen another party for now and would like to stay in touch. After exclusivity, respect the no-shop to the letter. But a buyer who knows your alternative is recent and real behaves differently from one who knows it has gone cold, and the second bidder is the only thing that makes walking away credible.
+6. Get ahead of the re-trade. Put a sell-side quality of earnings report in the data room from the Pre-Sale Value Levers play, and disclose every known issue in writing before the LOI, with its explanation. A buyer cannot credibly re-trade on something disclosed before they priced. When a re-trade comes anyway, ask for the finding in writing with its supporting analysis, check it with your CFO and accountant, and answer on the evidence. Where the finding is real and new, negotiate a fair adjustment or a specific indemnity instead of a price cut. Where it was known, say so, show where it was disclosed, and hold the price.
+7. Fight the peg with your own analysis. Have your CFO or accountant compute normalized working capital month by month for the last twelve to twenty-four months, show the seasonality from annual billing, and propose a peg and a deferred revenue treatment backed by the data. The buyer's first proposal will be built to their advantage; your counter must be built on numbers they cannot dismiss.
+8. Do not negotiate the purchase agreement yourself. Hire M&A counsel who does this every month, let the banker and counsel carry the confrontations, and reserve your voice for the few issues only you can decide. You will need to work with this buyer for years if you stay; they should remember you as the person who solved problems, not the one who shouted in the room. No bluffs. Never threaten to walk away unless you would, because the buyer will test it.
+9. Decide the earnout, the rollover and your role as one package. If you are asked to take an earnout, insist on revenue rather than EBITDA, a short period, clear accounting, operating covenants, and acceleration if you are terminated without cause or the business is sold again. If you are asked to roll equity, read the new holding company's terms and debt load as carefully as a new investor would. If you are staying, check that your employment terms, the earnout and the non-compete do not combine to trap you.
+10. Walk away when the deal crosses the line you wrote. Not when you feel insulted, which will happen repeatedly, but when cash at close falls below the Floor, or a term appears that you and your board agreed you would not accept. Say so plainly, once, through the banker, with the reason. Some buyers come back. The ones who do not were never going to close on terms you could live with.
+11. Re-run the proceeds model and the walk-away check against every revised offer and every draft of the purchase agreement, until close. The CFO owns the model, counsel flags every change to a money term, and the founder and board chair review each round against the written walk-away in a thirty-minute call before anyone responds. The question each time is the same: what reaches us now, what reaches us later, and has anything crossed a line we drew before we were tired.
+
+#### Troubleshooting
+
+*The buyer's offer is higher than we hoped but half of it is earnout.* Then the offer is the cash half plus a discounted option on the rest. Compare the cash at close to your Floor and Enough. If the cash alone clears Enough, the earnout is upside; if you need the earnout to reach the Floor, you are betting your exit on a business the buyer will run.
+
+*The buyer re-traded after QoE and says the other bidders are gone anyway.* Check whether the finding was disclosed; if it was, say so and hold. Ask the banker whether the runner-up will still take a call the day exclusivity lapses, and do not make that call a day sooner; breaking a no-shop hands the buyer a better reason to cut than any QoE finding. A buyer who has invested months in diligence, legal fees and insurance underwriting wants to close too. Their leverage is real, but it is not total.
+
+*We have been in exclusivity for sixty days and they keep asking for more time.* A long exclusivity is a slow re-trade. Agree to an extension only in exchange for something, a narrowed diligence list, a confirmed price, a signed agreement on the peg, and set a hard date after which the no-shop ends.
+
+*I just want this to be over.* So does every founder at this point, and the buyer knows it. That longing is the most expensive feeling in the process. It is exactly why the walk-away was written months earlier, while you could still think clearly. Read it before you answer.
 
 ## Sales & Marketing
 
