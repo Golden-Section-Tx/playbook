@@ -22,13 +22,15 @@ keywords:
   - customer concentration
   - exit window
   - quarterly rocks
+  - exit planning
+  - sale process
 questions:
-  - How long does it take to get a SaaS company ready to sell?
+  - How many quarters does it take to close the exit gaps before a SaaS company sells?
   - What should we work on first to prepare for an exit?
-  - Which gaps take the longest to close?
-  - How do market conditions change what buyers pay for?
+  - Which gaps take the longest to close, structural or operating?
+  - How does the market regime change what buyers pay for, growth or profitability?
   - How do I turn an exit plan into quarterly priorities?
-  - When should we set a date for the exit?
+  - What if a buyer shows up early, before the roadmap is done?
 preventsMistakes:
   - 74
   - 124
@@ -43,7 +45,7 @@ Founders should take the lesson. Markets move, and sometimes they reward growth 
 
 That is the case for a roadmap. The Meaningful Exit Plan play tells you which buyer you are building for. Its benchmark sheet tells you how far you are from that buyer. Neither tells you what to work on first, and the most common failure is doing the work in the wrong order: polishing the dashboard and the data room, which take a quarter, while customer concentration, founder dependency and a contract book that does not survive a change of control, which take years, sit untouched until a buyer finds them.
 
-> **The goal:** A dated exit window and a sequenced roadmap of exit workstreams by area, structural gaps first, with an owner, a quarterly rock and a measurable definition of done for every workstream, reviewed each quarter against the latest readiness score.
+> **The goal:** A dated exit window and a sequenced roadmap of exit workstreams by area, structural gaps first, with an owner, a quarterly rock and a measurable definition of done for every workstream, reviewed each quarter against a refreshed benchmark sheet.
 
 #### Background
 
@@ -62,7 +64,7 @@ That is the case for a roadmap. The Meaningful Exit Plan play tells you which bu
 1. Gather the inputs: the Meaningful Exit plan with its primary and alternate buyer archetype, and the benchmark sheet for that archetype. The sheet is your gap list, and any blank on it is a measurement gap to close first. If you do not have the plan, stop and run that play first. A roadmap built without a buyer is a roadmap toward nowhere in particular.
 2. Set the exit window as a range of two to four quarters, not a date, and write the reasoning beside it. Work backwards from it. A company eight quarters out can fix structural gaps; a company three quarters out can only disclose them. If the structural gaps on your list cannot close inside the window, you have three honest options: move the window, change the archetype to a buyer who cares less about those gaps, or accept the discount and write down roughly what it costs. Pick one now.
 3. Consolidate every gap into a single list and tag each one with its area (Financial, Product, Customers and demand, Strategy and operating rhythm, Risk and legal, People), its kind (structural, operating or measurement) and your best estimate of quarters to close. Be pessimistic about the estimate. Structural work runs through customers, employees and counterparties who do not share your deadline.
-4. Group the list into workstreams, one per area where the gaps cluster, and no more than six in total. A workstream is a body of work with a single outcome a buyer would recognize: top customer under 15% of revenue; net retention above 110% for four straight quarters; founder under 30% of new ACV; data room at the level a buyer's counsel can review without a call. Anything that does not ladder to one of those outcomes is not exit work and comes off the list.
+4. Group the list into workstreams, one per area where the gaps cluster, and no more than six in total. A workstream is a body of work with a single outcome a buyer would recognize: largest customer at or under roughly 10% of revenue; net retention above 110% for four straight quarters; founder under 30% of daily operations; data room at the level a buyer's counsel can review without a call. Anything that does not ladder to one of those outcomes is not exit work and comes off the list.
 5. Give each workstream one owner from the executive team and one definition of done a buyer's diligence team could verify. The founder owns no more than one workstream. Most founders volunteer for all six and finish none, because every one of them loses to the quarter.
 6. Sequence the workstreams on an eight-quarter grid, and draw it. A typical shape for a company two years out from its window:
     - *Quarters 1–2.* Start every structural workstream: begin diversifying away from the largest customer, name the successor candidate and start the founder-independence work, have counsel review the top 20 contracts for assignment and change of control. Close the measurement gaps that are hiding operating problems, usually cohort retention and gross margin by revenue line.

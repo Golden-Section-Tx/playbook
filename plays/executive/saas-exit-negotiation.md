@@ -26,13 +26,15 @@ keywords:
   - earnout
   - rollover equity
   - sale proceeds waterfall
+  - exit planning
+  - sale process
 questions:
-  - What happens between the IOI, the LOI and closing?
+  - What are the stages from indication of interest to LOI to closing?
   - Why does leverage shift to the buyer after signing an LOI?
-  - What is a re-trade and how do I prevent one?
+  - How do I keep a second bidder warm during exclusivity?
   - What is a working capital peg and why does it matter in a SaaS deal?
-  - Should I accept an earnout?
-  - How much of the headline price will I actually receive?
+  - Should I accept an earnout, and how do I value it?
+  - What reaches my account from the headline price after net debt, escrow and fees?
   - When should I walk away from a deal?
 preventsMistakes:
   - 21

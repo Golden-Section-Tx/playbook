@@ -21,12 +21,14 @@ keywords:
   - sale preparation
   - buyer diligence
   - document management
+  - exit planning
+  - sale process
 questions:
   - What goes in a data room for selling a SaaS company?
-  - How do I organize a data room for due diligence?
-  - When should I start building an exit data room?
-  - Who should own the data room?
-  - How do I get ready for a quality of earnings review?
+  - How should I organize the data room index around what a buyer asks?
+  - How often should we update and review the data room?
+  - Who should own each folder of the data room?
+  - What is quality-of-earnings readiness and how do I test it?
   - How do I find the problems a buyer will find before they do?
 preventsMistakes:
   - 18

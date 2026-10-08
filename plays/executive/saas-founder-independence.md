@@ -22,13 +22,15 @@ keywords:
   - stay bonus
   - retention pool
   - CEO succession
+  - exit planning
+  - sale process
 questions:
   - How dependent is my company on me, and how do buyers measure it?
-  - What is the vacation test?
-  - How much does founder dependence reduce an exit valuation?
-  - How do I hand off my customer relationships without losing them?
-  - When should I name a successor or hire a COO?
-  - How big should a retention pool be before a sale?
+  - What is the vacation test, and how long should each absence be?
+  - What discount do advisors expect for a founder-dependent business?
+  - How do I transition the top twenty accounts to a successor on a schedule?
+  - Who should I name as successor to run daily operations?
+  - How should I size the retention pool and stay bonuses?
 preventsMistakes:
   - 36
   - 100

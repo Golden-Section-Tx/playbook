@@ -24,12 +24,14 @@ keywords:
   - broad auction
   - targeted auction
   - strategic vs financial buyer
+  - exit planning
+  - sale process
 questions:
-  - When should I start talking to investment bankers?
+  - When should I open conversations with bankers before my go-to-market date?
   - How do I choose a banker for a software company sale?
-  - What should I ask a banker in an interview?
-  - How are investment bankers paid, and what fees are normal?
-  - What should I negotiate in a banker engagement letter?
+  - How should I interview each banker, and who should be in the room?
+  - What fees, retainers and success fees are normal in a banker engagement?
+  - What terms should the engagement letter cover, such as tail, term and fees?
   - Should I run a broad auction or a targeted process?
   - Do I need a banker if a buyer has already approached me?
 preventsMistakes:
@@ -64,7 +66,7 @@ Start twelve to eighteen months out. Talk to four or five firms informally, shar
 
 #### Steps
 
-1. Open informal conversations twelve to eighteen months before your target go-to-market date. Share your financials under NDA and ask each banker the same question: what would make this company an easy deal for you in a year? Take notes on what each one tells you to fix, and compare the lists. Put their answers into your Exit Readiness Roadmap if they are right.
+1. Open informal conversations twelve to eighteen months before your target go-to-market date. Share your financials under NDA and ask each banker the same question: what would make this company an easy deal for you in a year? Take notes on what each one tells you to fix, and compare the lists. Put their answers into your Exit Roadmap if they are right.
 2. Build the long list from closed transactions, not reputations. Pull every disclosed sale of a vertical software company in your size band and adjacent verticals over the last three to five years and note which firm advised the seller. Ask your board, your investors, your lawyer and founders who have sold for the names of bankers they would hire again and the ones they would not. A firm that has closed three deals the size of yours in your vertical is worth more than a famous firm for which your deal is small.
 3. Cut to three or four and interview each one properly. Two hours, with the CFO and one board member in the room, and insist the people who will work the deal attend. Ask:
     - Who, by name, will do the work day to day, and how many live mandates are they running?

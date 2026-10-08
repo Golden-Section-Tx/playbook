@@ -24,6 +24,8 @@ keywords:
   - EBITDA add-backs
   - sales tax nexus
   - exit preparation
+  - exit planning
+  - sale process
 questions:
   - What should I work on in the year or two before selling my SaaS company?
   - Which metrics move the multiple the most?

@@ -21,6 +21,7 @@ keywords:
   - exit structure
   - buy-box
   - succession
+  - sale process
 questions:
   - How do I decide what a good exit actually looks like for me?
   - How much money do I need the exit to produce?

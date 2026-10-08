@@ -24,8 +24,9 @@ keywords:
   - retention agreement
   - deal confidentiality
   - founder distraction during a sale
+  - exit planning
 questions:
-  - How do I keep running the business while selling it?
+  - Who should run the business day to day while the founder is in the process?
   - Who in the company should know about the sale, and when?
   - How do I handle due diligence without drowning the team?
   - What goes in a CIM and a management presentation, and who writes them?
