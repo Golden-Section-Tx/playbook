@@ -1,6 +1,6 @@
 # The Golden Section Playbook — complete corpus
 
-80 plays and 169 mistakes for building a B2B vertical SaaS company,
+86 plays and 170 mistakes for building a B2B vertical SaaS company,
 in one file.
 
 **Source:** https://github.com/golden-section-tx/playbook
@@ -79,7 +79,7 @@ Prevented by: Enterprise Sales Process, Pipeline Management & Review.
 
 No accountability in sales means no sales.
 
-Prevented by: KPI & Strategic Meetings, Pipeline Management & Review.
+Prevented by: KPI & Strategic Meetings, Pipeline Management & Review, Sales Call Review, Sales Leader Hiring Trigger.
 
 ## Mistake 9 · Building for single tenancy
 
@@ -103,7 +103,7 @@ Prevented by: Sales Philosophy, Product Roadmap Process.
 
 You better know the problem well to succeed. Better yet, live the problem first.
 
-Prevented by: Customer Segmentation, Buyer Persona.
+Prevented by: Customer Segmentation, Buyer Persona, Sales Triad.
 
 ## Mistake 12 · Wrong programing language
 
@@ -119,7 +119,7 @@ Prevented by: Database Selection, Application Code & Front End.
 
 Rolodex sales people never deliver. Don’t do it.
 
-Prevented by: Sales Philosophy, Sales Org Chart.
+Prevented by: Sales Philosophy, Sales Org Chart, Sales Leader Hiring Trigger.
 
 ## Mistake 14 · Hiring cheap and betting on training
 
@@ -303,7 +303,7 @@ Prevented by: Sales Compensation Plan.
 
 Something goes wrong, someone needs to account for it. Don't tolerate ambiguity here.
 
-Prevented by: Executive Execution, KPI & Strategic Meetings, Execution Operating System, Founder Independence (The Vacation Test), Running the Company During a Sale.
+Prevented by: Executive Execution, KPI & Strategic Meetings, Execution Operating System, Founder Independence (The Vacation Test), Running the Company During a Sale, Underperformer Consequence Ladder.
 
 ## Mistake 37 · No meetings... no minutes
 
@@ -371,7 +371,7 @@ Prevented by: Go-to-Market Strategy, Sales Funnel Creation.
 
 Inexperienced hires need management. The less experience, the more management is needed. Make sure your org chart has good management in place before hiring.
 
-Prevented by: Sales Org Chart, Sales Metrics by FTE/Role/Team.
+Prevented by: Sales Org Chart, Sales Metrics by FTE/Role/Team, Sales Call Review, Sales Leader Hiring Trigger.
 
 ## Mistake 46 · Letting sales run product
 
@@ -743,7 +743,7 @@ Prevented by: Sales Philosophy, Account Management Process, Negotiating the Exit
 
 Failure to control vendor contracts means auto-renewals, escalations etc. that you don't want.
 
-Prevented by: Vendor Contract Register, Vendor Contract Playbook, Partner Conflict Management.
+Prevented by: Vendor Contract Register, Vendor Contract Playbook, Partner Conflict Management, AI Vendor Continuity.
 
 ## Mistake 93 · Ignoring a problem
 
@@ -790,6 +790,8 @@ Prevented by: Pipeline Management & Review.
 `Executive`
 
 Don't tolerate dishonesty. Address it directly with team members, investors, customers, and vendors. Adopt a zero tolerance immediate consequence policy.
+
+Prevented by: Underperformer Consequence Ladder.
 
 ## Mistake 99 · Paying for ‘money finders’
 
@@ -907,7 +909,7 @@ Prevented by: Product Roadmap Process.
 
 Software companies are all about people. Poor performance can become cultural. Dive in on missed goals (budgets, promises, etc.) and find the reasons with your team. Don't let it slip by; even the small stuff.
 
-Prevented by: KPI & Strategic Meetings, Quality Management System, Execution Operating System.
+Prevented by: KPI & Strategic Meetings, Quality Management System, Execution Operating System, Sales Call Review, Underperformer Consequence Ladder.
 
 ## Mistake 114 · Accepting the phrase “we’re too thinly staffed”
 
@@ -1067,7 +1069,7 @@ Prevented by: Customer Segmentation, Product Roadmap Process.
 
 It takes time to figure out the correct messaging and channels to reach your customers. Don’t be so quick to pivot to a different customer base. Fitting your product to a need is hard. Ignoring other needs that are responding to you at the same time is harder.
 
-Prevented by: Customer Segmentation, Buyer Persona.
+Prevented by: Customer Segmentation, Buyer Persona, Sales Triad, Outbound Channel Test.
 
 ## Mistake 134 · Happy ears with customers
 
@@ -1107,7 +1109,7 @@ Prevented by: KPI & Strategic Meetings.
 
 Revenue should always be top of mind, not matter the stage of the company. It’s your number one.
 
-Prevented by: Go-to-Market Strategy, Pipeline Creation.
+Prevented by: Go-to-Market Strategy, Pipeline Creation, Sales Triad, Outbound Channel Test.
 
 ## Mistake 139 · Disjointed pricing with sales cycle
 
@@ -1211,7 +1213,7 @@ Prevented by: Budget Creation, P&L Explained.
 
 Founders forget how long it took them to learn the product and market. New hires need time, training, and clear process to catch up. Don’t just hand off sales and hope, simplify the process, bake in support, and budget for the real cost of getting them fully productive.
 
-Prevented by: Sales Philosophy, Sales Scripts, Founder Independence (The Vacation Test).
+Prevented by: Sales Philosophy, Sales Scripts, Founder Independence (The Vacation Test), Sales Triad, Sales Call Review, Sales Leader Hiring Trigger.
 
 ## Mistake 152 · Forgetting You're Part of a Bigger Ecosystem
 
@@ -1227,7 +1229,7 @@ Prevented by: Vertical Specific.
 
 Progress requires concentrated force. Spreading your energy across 25 half-baked strategies won’t get you anywhere. Pick one, apply real weight, and see if it moves. You can’t cheat physics.
 
-Prevented by: Define the Mission, Go-to-Market Strategy, Execution Operating System, Meaningful Exit Plan, Exit Roadmap, Pre-Sale Value Levers.
+Prevented by: Define the Mission, Go-to-Market Strategy, Execution Operating System, Meaningful Exit Plan, Exit Roadmap, Pre-Sale Value Levers, Sales Triad, Outbound Channel Test.
 
 ## Mistake 154 · Revolving Door of Technical Talent
 
@@ -1356,6 +1358,14 @@ Prevented by: Board Meeting Preparation.
 The experienced managers skip this most often, because they have run teams before and the running lived in their head. A team cannot read your head: with no named cadence, no scorecard carrying an owner on every line, no three priorities for the quarter and no single name in each seat, the all-hands where you get real about performance is a threat rather than a system — and strong people read a threat without a structure as a leader who does not know what is wrong. The tell is asking what operating system the company runs on and getting "dashboards and accountability" back, with nothing after it.
 
 Prevented by: Execution Operating System, Exit Roadmap.
+
+## Mistake 170 · Assuming your model vendor will keep selling you capacity
+
+`Development · Vendors`
+
+Capacity products get withdrawn, models get deprecated, and when demand spikes the largest contracts are served first. A dependency you cannot replace inside a week is a dependency you do not control, and the email telling you so arrives without warning.
+
+Prevented by: AI Vendor Continuity.
 
 ---
 
@@ -2538,6 +2548,51 @@ The headline price is not the number. The number is what reaches your account, a
 
 *I just want this to be over.* So does every founder at this point, and the buyer knows it. That longing is the most expensive feeling in the process. It is exactly why the walk-away was written months earlier, while you could still think clearly. Read it before you answer.
 
+### How to Deal With Underperformance Before It Becomes the Culture
+
+**Play:** Underperformer Consequence Ladder · **Owners:** Founder, Exec Team · **Cadence:** Monthly · **Stage:** Early Traction · **Effort:** 3 SP initial, 2 SP ongoing
+
+**Summary:** Write down what good looks like for each role, find the root cause of a miss before you assign blame, then move a person up a short written ladder of conversation, written expectations, a dated improvement plan and a decision, with dishonesty taking an immediate shortcut and managers backed in their calls, and review everyone on a rung each month.
+
+**Prevents mistakes:** #36 No clear roles or accountability; #98 Tolerating dishonesty; #113 Poor performance: Root cause all missed goals
+
+Poor performance does not announce itself. It starts as a missed number that is explained, then a promise that slips, then a story the team learns to tell about why that person is different. Each month it goes unaddressed teaches everyone around them the standard, and the good performers are the first to notice. By the time a founder acts, the team has already decided what the real rules are.
+
+Founders delay for two reasons. They are not sure it is the person, and they have no stated process, so every case feels like a new, personal decision. Both are fixable in advance. Find the cause first, and then use a ladder you wrote before you needed it, so the consequence is the process and not the founder's mood.
+
+> **The goal:** A one-page ladder, known to the whole team, with dated steps and named owners, and a monthly list of every person on a rung so nobody sits on one longer than the plan says.
+
+#### Steps
+
+1. Write what good looks like for each role. Two to four measurable outcomes per role, the period they are measured over and who the person reports to. If you cannot state it, you cannot hold anyone to it, and an unclear goal is your failure and not theirs. Link the outcomes to the Execution Operating System play if you use one.
+2. Find the root cause of every missed goal before acting on the person. Sit down with the person and ask why, then ask why again, up to five times, and write down the answers.
+    - Was the goal clear and agreed?
+    - Did they have the tools, access and training they needed?
+    - Was the incentive pointing at the right behavior?
+    - Is the manager doing the job?
+    - Is a single person out of line with peers doing the same work under the same conditions?
+    Check the data first, such as call recordings, ticket queues or commit history, so you are not guessing. A team where one of four reps misses is a different problem from a team where all four miss.
+3. Write the ladder. Four rungs, each with a duration and an owner, and share it with the team.
+    - *Conversation.* The manager names the gap, the evidence and the standard, and the person responds. Document it in two lines.
+    - *Written expectations.* Within a week, the manager sends measurable expectations and a 30-day check date, with the support you will provide.
+    - *Improvement plan.* If the 30-day check is missed, write a formal plan of up to 60 days with named measures, weekly check-ins and the consequence stated plainly: the plan ends in a decision.
+    - *Decision.* At the end date, the manager and founder decide, on the measures. Either the person has met the standard and comes off the ladder, or the employment ends.
+    Ask employment counsel to review the ladder and each plan before use, because the rules vary by state and country.
+4. Skip the ladder for dishonesty. Lying about numbers, hiding a mistake, falsifying a record or misleading a customer or an investor leads to an immediate conversation with the founder and a consequence the same week, including termination. Say so in the ladder, in writing, before it happens.
+5. Back the leader you put in charge. When a manager and a direct report disagree about a call the manager owns, support the manager in front of the report, then debrief the manager in private. Overruling a manager in public teaches everyone that the manager's authority is optional, and it makes accountability impossible. The exception is a manager who is dishonest or who is breaking the rules, which goes to the founder immediately.
+6. Record every step. A two-line note after each conversation and a dated copy of each expectation or plan, kept where the manager and HR can find it. When a decision comes, the file should show that the person knew the standard and the date.
+7. Review the ladder every month with the exec team. List everyone on a rung, how long they have been there, the next date and the owner. Anyone past their date gets a decision at that meeting. Look at the list as a whole too: if many people sit on the same rung in one team, the cause is usually the manager or the target.
+
+#### Troubleshooting
+
+*I think this person is the problem, but I cannot prove it.* Then spend a week on the root-cause step and look at the data. If you still cannot show it, write the expectations anyway. If the person is the problem, the next 30 days will make it clear.
+
+*They are my best salesperson and they break the rules.* The rule exists for exactly this case. A top performer who is not held to it tells the rest of the team that the rules are for other people.
+
+*A 60-day plan feels too long.* Shorten it if the measures can be read sooner. Do not skip it, and do not let it extend. A plan with no end date is another way to avoid a decision.
+
+*I am worried about losing someone we cannot replace.* Count what the person costs you in the people who are carrying their load. The Hiring A Players (Topgrading) play gets a replacement faster than founders expect.
+
 ## Sales & Marketing
 
 ### How to Build a Go-to-Market Strategy for Vertical SaaS
@@ -2555,6 +2610,8 @@ Our goal is to streamline the processes required to build your company so that i
 The first stage of building a solid business is ensuring a product/market fit. Co-founder of Netscape and premier VC Marc Andreessen(https://pmarchive.com/guide_to_startups_part4.html), who coined this phrase, explains, \"Product/market fit means being in a good market with a product that can satisfy that market.\" A start-up can only be as successful as its market allows. Even if you have the A-team selling a superb product, if that A-team is selling it to the wrong market, they won't be successful. No amount of stellar marketing can make a company selling hospital beds to teenagers successful. Instead, we need to find the market that needs the product we are selling. We need a solid product/market fit.
 
 We will first go through plays that will clarify the appropriate market and customer for your product and, more generally, your go-to-market strategy. With that foundation, we will turn to the next set of plays, which build out your sales and marketing engine.
+
+If you want the whole sales plan reduced to one page, who you sell to, what you say and how you reach them, the Sales Triad play does that and gives you a way to test it yourself before you hire anyone.
 
 ### How to Set a Sales Philosophy for a B2B SaaS Company
 
@@ -3486,6 +3543,7 @@ Cons:
 1. Using the template provided, consider where your sales team is now and where you would like them to be in the future.
 2. Using the organizational framework given above and the vision you have for your sales team, list the pros and cons of each organizational model for your company.
 3. Choose the model that most suits the present needs and culture of your company
+4. Before you choose a structure, check whether the team needs a leader first. The Sales Leader Hiring Trigger play sets the conditions for that hire, and the Sales Call Review play shows you whether the problem is the structure or the people in it.
 
 ### How to Read a SaaS P&L — Line by Line
 
@@ -3731,6 +3789,215 @@ AI pricing sorts into five broad models, and none of them is universally right:
 
 - *My board wants to see an AI revenue line, so I have to meter something.* A bundled feature that drives tier upgrades and retention is an AI revenue story without a separate SKU: the upgrade rate and the retention lift are the numbers to bring, not a token count.
 - *We already sold AI on seats, so can we still move to outcome pricing?* Yes, but not by converting everyone at once. Treat the existing base as its own rollout, sequenced behind new business, with the growth-rate conversation had proactively rather than discovered at the next board update.
+
+### How to Decide Who You Sell To, What You Say and How You Reach Them
+
+**Play:** Sales Triad · **Owners:** Founder, Sales Lead · **Cadence:** Quarterly · **Stage:** Pre-Revenue · **Effort:** 13 SP initial, 3 SP ongoing
+
+**Summary:** Reduce your sales plan to three decisions on one page, who you sell to (the company and the role), what you say to them and the channel you use to reach them, then test all three yourself by dialing a list of about 2,000 in-profile prospects and talking to dozens of them, so the page you hand a sales team is built from conversations rather than guesses.
+
+**Prevents mistakes:** #11 Building without customer knowledge; #133 Switching target customers too quickly; #138 Not prioritizing revenue early enough; #151 Expecting sales hires to sell like founders; #153 Diluting Effort Instead of Concentrating Force
+
+Most sales plans are too big to use. They run to forty slides of segments, personas, channels and funnel stages, and when a deal stalls nobody can say which part was wrong. Sales has three levers and only three. Who you target, what you say to them, and the channel you use to say it. Every other sales problem is one of those three wearing a disguise.
+
+Founders usually fix the wrong one. They change the message when the list was wrong, or buy a new channel tool when the message never landed. You can only tell which lever failed if you pull them one at a time and watch what happens, and the fastest way to watch is to be on the phone yourself. A founder who has had fifty real conversations with strangers in the target profile knows more about the market than any deck, and every sales hire after that inherits something true.
+
+> **The goal:** Produce a one-page Sales Triad, written in the prospects' own words and backed by your own call log, that a new salesperson can read in ten minutes and act on the same day.
+
+#### Background
+
+The triad is three short answers.
+
+1. **Who.** The company and the person. The company is a profile you could hand to a researcher: the vertical, the size band, the systems they already run, and the event that makes them ready to buy. The person is a title and a seniority level, and the reason that person feels the problem personally. If you cannot name the title, you do not yet have a target.
+2. **What.** The one problem, the one proof and the one ask, in a few sentences you can say out loud in under a minute. The problem in the prospect's words, the evidence that you solve it, and a specific small next step, usually a meeting.
+3. **How.** The channel that reaches that title: phone, email, LinkedIn, events and webinars, referrals, or a partner. Name one primary channel. A second is allowed only once the first has results.
+
+This play is the compact version of work the Customer Segmentation and Buyer Persona plays do at length. If you already have those, extract the triad from them and then test it here. If you do not, write your best hypothesis now. You will correct it against real calls within a month, which is faster than the persona research would have been.
+
+One practitioner benchmark for a phone sprint, offered as a rule of thumb and not a promise: with a parallel dialer, roughly 5–8% of numbers connect, roughly half of those turn into a conversation of more than a minute, and 15–25% of conversations become a meeting. Your own numbers will move with your market. Record them in step 5 and use yours from then on.
+
+#### Steps
+
+1. Write the first draft of the triad on one page, in three boxes. Do not research first. The draft is a set of hypotheses with a name on each, and the sprint exists to test them.
+    - Who: the company profile, the title and the trigger event.
+    - What: the problem, the proof and the ask, each in one sentence.
+    - How: the one channel, and why you think it reaches that title.
+2. Build the list. Aim for about 2,000 contacts that fit the company profile and hold the target title, with a direct dial or mobile number for each. Buy or build it from a data provider and clean it before you dial. At the rule-of-thumb rates, a list that size gives you something like a hundred or more live connections, dozens of real conversations and a meaningful number of meetings, which is enough to learn from and not so much that you waste a market on a bad script. Check your numbers against the national Do Not Call registry and any state lists before you load them, and ask counsel how business-to-business calling rules apply to your market.
+3. Set the sprint up as research. Load the list into a parallel dialer, a tool that calls several numbers at once and connects you to whoever answers first. Block 60 to 90 minutes a day for two to three weeks. Decide the stopping rule in advance: either about forty real conversations, or the end of the third week, whichever comes first.
+4. Make the calls yourself. Open with the one-sentence problem, ask whether it is real for them and listen. After each conversation, before the next dial, write three lines in a shared log:
+    - Who answered: title, company traits, anything that surprised you about the fit.
+    - What happened: their exact words when they leaned in, and when they pulled back.
+    - The outcome: meeting, follow-up or no.
+5. Change one lever at a time. After about ten conversations, read the log. If the wrong people keep answering, change Who. If the right people answer and go flat, change What and use their phrase for the problem, not yours. If you cannot reach anyone, you have a channel or list-quality problem, so check the list before you blame the phone. Change one lever, run another ten conversations, and compare. Track the connect rate, the conversation rate and the meeting rate as you go.
+6. Rewrite the Sales Triad when the sprint ends. Tighten Who to the profile and title that actually engaged. Replace the message with the words prospects used. Name the channel that worked, with the rates you measured. Keep a short list of the objections you heard, in their wording, and what you said that moved them.
+7. Turn it into the working assets: the Sales Scripts play for the conversation, the Buyer Persona play for the people you now know, and the Sales Funnel Creation play for the stage conversions. Then hand the triad to your first sales hire and have them make their first fifty calls from it while you listen. Do not hand the sprint off until the meeting rate holds at or above your measured floor for two consecutive weeks of someone else's calls.
+8. Give the triad an owner and review it every quarter. The sales lead owns the page and the log. Keep the log open. Once a quarter, make a hundred or so calls yourself against the current page, compare the numbers to the last quarter and change a lever if the numbers moved. Rerun the full sprint whenever you add a segment, change the product's core promise or change the price.
+
+#### Notes
+
+The sprint is about learning, not about meetings, though you will get some. Founders who treat it as lead generation stop when they have enough pipeline and never fix the message. Founders who treat it as research keep the log and carry the findings into everything else, including the website, the deck and the onboarding.
+
+An automated email or AI outreach tool can send two thousand messages in a day, and it will tell you almost nothing about why nobody replied. A live call tells you in thirty seconds. Test automated channels against the triad afterward, with the Outbound Channel Test play, once you know what a good conversation sounds like.
+
+#### Troubleshooting
+
+*My time is worth more than cold calls.* Your time is worth most when you are the only person who can tell the market what you sell. Forty conversations is a fortnight of mornings. A year of a salesperson working from a bad message costs more than that in salary alone.
+
+*Nobody picks up.* Check the list before the script. Wrong numbers, switchboards and untargeted titles produce silence. Try calling at different times of day, and test twenty numbers from a hand-built list against twenty from the purchased one.
+
+*I get conversations but no meetings.* Then Who is probably right and What is wrong, or the ask is too large. Ask for fifteen minutes to compare notes on the problem, not a demo.
+
+*I already know my customers.* Then the sprint will confirm it in a fortnight. Keep the log either way. The most common result is finding that your best customers share a title you had not written down.
+
+*My buyers are not reachable by phone.* Some markets are not, and the numbers will show it by the second week. Then run the same sprint in the channel your buyers do answer, with the same log, and keep the one-lever-at-a-time rule.
+
+### How to Test an Outbound Channel Before You Commit a Year to It
+
+**Play:** Outbound Channel Test · **Owners:** Founder, Sales Lead, SDR · **Cadence:** Quarterly · **Stage:** Early Traction · **Effort:** 8 SP initial, 5 SP ongoing
+
+**Summary:** Run each outbound channel, such as live callers, automated email or AI outreach, as a time-boxed test against a written floor for connects, conversations, meetings and cost per meeting, with who you target and what you say held constant, and kill, extend or scale it at a dated review so no tool runs for a year on hope.
+
+**Prevents mistakes:** #133 Switching target customers too quickly; #138 Not prioritizing revenue early enough; #153 Diluting Effort Instead of Concentrating Force
+
+The expensive outbound mistake is not picking the wrong channel. It is leaving the wrong channel running. An automated email or AI outreach tool costs little per month, produces a steady trickle of activity reports and never forces a decision, so it can run for most of a year with no meetings to show for it. By the time someone asks, the team has a year of data that proves nothing, because no one wrote down what the tool had to produce to stay.
+
+A channel is a bet with a price and a payoff. Write the payoff you need before you spend the price, run it for a fixed period against the same prospects and the same message as the channel you are comparing it with, and decide on a date. That is all this play asks.
+
+> **The goal:** For every outbound channel you run, have a one-page test card with the floors it must clear, the dates it runs between and the decision at the end, and a quarterly log of what each channel has cost per meeting.
+
+#### Background
+
+You are testing the channel, so everything else stays still. The Sales Triad play fixes who you target and what you say. Run this play on top of a triad that has already produced real conversations. If you have not done that yet, a failed channel test will tell you nothing, because you will not know whether the list, the message or the channel failed.
+
+Rule-of-thumb rates from practitioners, to set your first floors and not to replace your own numbers:
+
+1. **Live calling with a parallel dialer:** about 5–8% of numbers connect, about half of connects become conversations, and about 15–25% of conversations become meetings.
+2. **Cold email:** replies are measured in tenths of a percent, and deliverability, domain health and inbox filtering take real work to manage.
+3. **LinkedIn outreach:** each account is limited to a hundred or so connection requests a week, so volume is capped by the number of accounts.
+4. **Events, webinars and referrals:** fewer leads per hour, often a much higher close rate, and strongest where the seller can speak as an expert in a regulated or complex market.
+
+Automated and AI outreach has made most digital channels crowded. A tool that writes a thousand personalized emails does not change the reply rate when every other inbox is full of the same thing. Test it anyway, and test it against a live channel, because the comparison is the information.
+
+#### Steps
+
+1. Choose the channels to test, usually two. Compare a live channel to an automated one, for example callers against an email or AI tool, on the same list. Split the target list in half at random, so neither channel gets the better half.
+2. Write the test card before anything launches. One page, filled in and dated:
+    - The channel, who runs it and its monthly cost including tooling and people.
+    - Floors: connect rate, conversation or reply rate, meeting rate, and the maximum cost per meeting you can afford given your average first-year contract value and close rate.
+    - The test length. Four to six weeks, or a fixed count of contacts, whichever is longer. Do not set it by gut feeling after the fact.
+    - The review date and the three possible decisions: kill, extend once with a named change, or scale.
+3. Hold the triad fixed. Same title, same company profile, same opening and ask. If you change the message midway, restart the clock for that channel.
+4. Run it, and log weekly. One row per channel per week: contacts attempted, connects or delivered, replies or conversations, meetings booked, meetings held, and spend. Count meetings held, not meetings booked.
+5. Review on the date. Compare each channel to its floors and to the other channel.
+    - Cleared the floors: scale it, and write down the volume you will add and the cost per meeting you expect.
+    - Missed by a narrow margin, with one lever you can name: extend once, for a fixed period, with the change written on the card.
+    - Missed with no lever to name: kill it. Cancel the contract the same week.
+6. Hand the live channel to a sales development rep only once the founder or sales lead has run it and the floors hold. Give the rep the triad, the call log and the objection list, and measure the rep against the same floors.
+7. Keep a channel ledger. One page, updated quarterly, listing every channel you have run, the dates, the cost per meeting and the decision. Review it at the quarterly pipeline review and refuse any new tool that does not arrive with a test card. A channel that clears its floors still gets retested each quarter, because the market changes under it.
+
+#### Notes
+
+Count the whole cost of a channel. A live team has salaries, a dialer licence and management time. An AI tool has the licence, the data subscription and the hours someone spends editing its output. Divide by meetings held to get the number you actually pay.
+
+A channel that fails once has not failed forever. Markets with few buyers, regulated buyers or buyers who live at conferences can reward a channel that looks poor on volume. Weigh meetings by their close rate before you kill anything on volume alone.
+
+Calling people has legal limits. Scrub lists against the national Do Not Call registry and state lists, honor opt-outs and ask counsel about recording and consent rules in the states you call.
+
+#### Troubleshooting
+
+*The tool vendor says it needs six months to warm up.* Ask what number it will reach at six months, and put that number on the card with a date. If the vendor will not commit to a number, you have your answer.
+
+*Neither channel cleared the floor.* Then go back to the Sales Triad. Two failing channels on the same list usually mean the list or the message is wrong, not the channels.
+
+*Live calling works but it feels expensive.* Compare it to the price of a quarter with no pipeline. Divide the monthly cost by meetings held and compare that to the lifetime value of the contract a meeting becomes.
+
+*I do not want to kill a channel that my board liked.* Show them the card. The floors were agreed in advance, and a decision made against a written floor is much easier to defend than one made on a feeling.
+
+### How to Review Sales Calls So You Know Why Deals Move or Stall
+
+**Play:** Sales Call Review · **Owners:** Founder, Sales Lead · **Cadence:** Weekly · **Stage:** Early Traction · **Effort:** 5 SP initial, 2 SP ongoing
+
+**Summary:** Record every sales call with consent, score a weekly sample against five gating questions, track touches per closed deal by rep, and keep a library of the opening minutes and questions that moved deals, so you can tell a rep problem from a comp problem or a message problem before you change anything.
+
+**Prevents mistakes:** #8 No meeting cadence with sales; #45 Scaling hiring without management; #113 Poor performance: Root cause all missed goals; #151 Expecting sales hires to sell like founders
+
+Founders fix sales performance with the lever they can reach. They change the comp plan, rewrite the deck or replace a rep, and they do it without listening to a single call. The comp plan is usually not the problem. We have seen a team of four reps in which one carried the number, and the owner called it an incentive problem. It was a one-rep problem, and the data was in the call recordings and the activity log the whole time.
+
+The evidence for what makes deals move already exists. It is in your calls. The best rep on a team often needs a fraction of the touches per closed deal that the weakest needs, and the difference shows up in the first sixty seconds, the questions asked and the point at which the rep finds out who decides. If nobody listens, none of that spreads.
+
+> **The goal:** A weekly review, run by a named owner, that scores a sample of calls against five gating questions, reports touches per closed deal by rep, and adds the best examples to a library new reps train from.
+
+#### Background
+
+Five gating questions are enough to start. Adapt the wording to your product, and keep it to five.
+
+1. Did the rep identify who decides, and who can stop the deal?
+2. Did the rep find the customer's cost of the problem, in the customer's own numbers?
+3. Did the rep learn the customer's timeline and what is driving it?
+4. Did the prospect say what they would do next, and did the rep confirm it?
+5. Did the rep ask for a specific next step with a date?
+
+Touches per closed deal is the count of calls, emails and meetings logged between first contact and signature, by rep. Compare reps against each other on the same segment. A wide gap means the problem is in how the work is being done, not in how the work is paid.
+
+#### Steps
+
+1. Record every sales call. Pick a recording tool that writes transcripts into your CRM. Before you start, get legal advice on recording consent in the states and countries you call, put the disclosure at the start of the call, and tell new hires in the offer letter.
+2. Agree the five gating questions with your sales lead and write them as a scoring sheet: yes, partly or no for each, plus a line for what you would have said differently.
+3. Choose the weekly sample. Per rep, one call that won, one that lost or stalled, and one first call, at least. Add every call over a size threshold you set. A transcript scoring tool can score all of them and flag the outliers, but a person listens to at least three calls a week in full. A score tells you what happened. Only listening tells you why.
+4. Run a 45-minute review each week with the sales lead and the founder, and the reps on a rotation. Play ninety seconds of the opening of a strong call and ninety seconds of a weak one. Discuss what the rep did, not who the rep is. Finish each review by naming one habit to change and the rep who owns it.
+5. Report touches per closed deal by rep every month, and use it before any change to comp, territory or headcount. If the gap between your best and your weakest is large, review that rep's calls before you review the plan. Apply the Root Cause rule: if a goal was missed, find the cause with the team and the data, and do not settle for the first answer offered.
+6. Build the win-pattern library. Keep the first minute of every won deal's first call, the questions that surfaced the cost of the problem, the way your best reps handle the top five objections, and the follow-up messages that got replies. File them by segment and stage in one place anyone on the team can open. If you pay a small bonus for a call that goes in the library, people will share their wins.
+7. Train from it. Every new rep listens to ten library calls in their first two weeks, role-plays the top objections with the sales lead, makes their first live calls with someone listening, and has their first five calls scored with the same sheet. See the Sales Scripts play for the conversation guide the library should confirm or correct.
+8. Review the review every quarter. Check whether the five questions still predict the deals that closed, whether any are never failed and can be dropped, and whether touches per closed deal is narrowing between reps. Retire a question when everyone answers it, and add one when a loss reason keeps repeating.
+
+#### Troubleshooting
+
+*My reps will think I am spying on them.* They will, for about a month. Start with your own calls and with the best calls. Make the point of the review plain: you are looking for what works so you can copy it.
+
+*An AI tool will do this for me.* A tool can score every call against your questions, and that is a useful first pass. It cannot tell you what a prospect meant, and it can reward a rep for saying the right words. Keep a person in the loop.
+
+*We only close a few deals a quarter.* Then review every call, and review lost deals as carefully as won ones. A small sample taken from only the wins teaches the wrong lesson.
+
+*My best rep refuses to share.* Pay for the sharing, and make the library part of how the rep is evaluated. If a top rep still will not, you have learned something about the culture you are paying for.
+
+### How to Know When to Hire a Sales Leader, and What to Have Ready First
+
+**Play:** Sales Leader Hiring Trigger · **Owners:** Founder, Board · **Cadence:** Quarterly · **Stage:** Early Traction · **Effort:** 5 SP initial, 1 SP ongoing
+
+**Summary:** Set the conditions in writing that tell you a sales leader is due, such as the founder's share of new ACV, the number of reps without a manager and a repeatable motion, fix the equity and cash budget before you start looking, and check the conditions at every board meeting, so you hire the leader when the company needs one rather than after a year of waiting for growth to pay for it.
+
+**Prevents mistakes:** #8 No meeting cadence with sales; #13 Hiring sales for rolodex; #45 Scaling hiring without management; #151 Expecting sales hires to sell like founders
+
+The common reason founders delay hiring a sales leader is sensible on its face. A senior sales hire is expensive and takes equity, and growth will pay for both if the founder can get through one more doubling first. We have heard founders say, afterward, that this was the mistake, and that they should have made the hire a year and a half earlier. The cost is not the salary. It is a flat year, reps who leave because nobody is managing them, and a founder who is still the best salesperson in the company when the board expects them to be running it.
+
+The mistake has a mirror. Founders also grab the nearest person and promote them. The best rep becomes the manager, the team loses its best seller and gains a poor manager, and the founder wonders why the number fell. Selling and managing sellers are different jobs, and a hire with no team and no process to inherit cannot build one from a standing start.
+
+> **The goal:** A one-page trigger, with numbers and a decision date, that the board reviews each quarter, and a ready package of budget, scorecard and 90-day plan so the hire can start within weeks of the trigger firing.
+
+#### Steps
+
+1. Measure where you stand now, and write the numbers down. Use the trailing four quarters.
+    - The founder's share of new ACV, counted by who actually ran the deal, not who is listed in the CRM.
+    - Hours a week the founder spends in pipeline reviews, deals and rep coaching.
+    - Quota-carrying reps and the people who manage them.
+    - Whether a repeatable motion exists: a Sales Triad that has produced conversations, a call library, a funnel with measured stage conversions.
+2. Write the trigger. Choose three or four conditions and set a threshold for each. As a starting point to adjust, not a standard: the founder closes more than half of new ACV, three or more reps have no manager, the founder spends a day or more a week on pipeline and coaching, and a repeatable motion exists that someone other than the founder can run. When two or more of your conditions are met, the hire is due. Write the thresholds into the board minutes so a later argument is about the numbers.
+3. Price the delay. Estimate what one flat year of sales costs you in revenue, in rep attrition and in the founder's time, and compare it with the cost of the hire. Put both numbers in front of the board. The comparison usually settles the argument for the founder and is the discussion the board wants to have.
+4. Fix the package before you look. Agree base and variable pay with your CFO and the Sales Compensation Plan play, and set the equity range with the board and the cap table in front of you. A leader hired without a budget, or negotiated on equity after the offer, signals a founder who has not decided.
+5. Decide whether this is a manager, a builder or a seller. If you have three reps and a working motion, you need someone who manages and coaches. If you have one rep and no motion, you need a builder who will sell and hire. Do not promote your best rep into the job by default. If you are tempted, run the candidate through the Hiring A Players (Topgrading) play as though they were an outside hire, and keep them selling if they do not pass.
+6. Write the role. Use the Hiring A Players (Topgrading) play to build the scorecard and run the process. Add three sales-specific items to the scorecard: results at the same stage and deal size, evidence of building a team from one or two reps, and how they have coached reps who missed quota. Give the leader a team or the budget to build one before day one, and say which.
+7. Write the first 90 days before the offer goes out: the measures the leader owns, the call review cadence they will run, the structure they will propose using the Sales Org Chart play, and what you will stay in. Agree a handoff date for founder-led deals so the founder's share of new ACV falls on a schedule. Expect new ACV to dip while the handoff happens, and tell the board so.
+8. Review the trigger at every quarterly board meeting. Bring the four numbers, the thresholds and what changed. When the trigger fires, set a decision date within 30 days. If you decide not to hire, record why, and set the next review date.
+
+#### Troubleshooting
+
+*We can't afford it.* Ask what a flat year costs. If you truly cannot fund the hire, fund a smaller version: a player-coach with a lower base and a clear plan to a full leader, and say that is what you are doing.
+
+*My best rep wants the job.* Take it seriously, run them through the scorecard and give them a real answer. A rep who is passed over with a reason stays more often than one who is passed over in silence.
+
+*We are not sure we have a repeatable motion.* Then the first hire is a builder, and the first job is the Sales Triad and the Sales Call Review. A manager hired into a motion that does not exist has nothing to manage.
+
+*The new leader changed everything in month two.* Some of it is warranted. Hold them to the 90-day plan you wrote, and to a rule that any change to who you target comes with the call data that justifies it.
 
 ## Customer
 
@@ -5588,4 +5855,68 @@ The partner is not one actor. Three groups inside the firm want different things
 *The partner has asked to renegotiate into a royalty.* He has already priced the alternative. Take the conversation seriously and take the warning seriously.
 
 *I only have one partner and cannot afford to lose them.* Then you do not have a partner strategy, you have a dependency. Run Channel Partnerships first and come back to this play when there is a second name.
+
+### How to Keep Access to the AI Models Your Product Depends On
+
+**Play:** AI Vendor Continuity · **Owners:** CTO, Founder, CFO · **Cadence:** Quarterly · **Stage:** Early Traction · **Effort:** 13 SP initial, 3 SP ongoing
+
+**Summary:** Rank the ways you could lose model access, build portability you actually exercise, and buy committed capacity in proportion to the revenue at risk—before a vendor makes the decision for you.
+
+**Prevents mistakes:** #92 Lack of vendor contract control; #170 Assuming your model vendor will keep selling you capacity
+
+Once an AI feature is in your product, a third party you do not control sits inside your critical path. The question is not whether that is risky—it is which risk, and how much it is worth spending to cover.
+
+> **The goal:** Your product keeps working, in a known and degraded-but-acceptable state, when a model vendor raises prices, tightens limits, deprecates a model, or stops selling to you.
+
+#### Background
+
+Founders reliably rank these risks in the wrong order. The usual instinct is to worry about a dramatic physical event—a regional grid failure, a data center going dark—and to under-weight the mundane commercial one. The order of likelihood is the reverse:
+
+1. **Commercial deprioritization.** Your vendor changes its terms, withdraws a capacity product, deprecates the model your prompts are tuned to, or simply serves larger contracts first when demand spikes. This is the common case, it arrives by email, and small accounts absorb it first.
+2. **Capability and quality drift.** A model version changes underneath you and your outputs move. Your evaluation suite either catches this or you learn from a customer.
+3. **Physical or regulatory interruption.** A grid event or a regulator-ordered curtailment takes a facility offline. Real, rare, and the one most likely to be over-engineered against.
+
+Two structural facts shape the response.
+
+*Your fallback does not have to match your primary.* A smaller open-weight model running on modest hardware will not equal a frontier model, and does not need to. What it needs to do is keep the workflow functioning at reduced capability while you recover. Decide in advance what "degraded but acceptable" means for your product, and make sure your customer contracts permit it.
+
+*A failover that has never carried production traffic is not a failover.* It is a configuration file and an assumption. The only way to know your second provider works is to keep sending it a small, continuous share of real requests.
+
+*Owning hardware is almost never the right first move at this stage.* Buying accelerators means buying a depreciating asset with a three-to-six year economic life, plus the colocation, the spares and the person who owns it—to insure against a risk you have not yet experienced. It converts a margin question into a balance sheet question. Revisit it only when a vendor has actually restricted you, or when steady-state volume means the hardware would run at genuine utilization rather than sitting idle.
+
+**The ladder, in order of return on spend:**
+
+| Rung | What it is | Rough cost |
+|---|---|---|
+| 1 | Model portability: an abstraction layer, an evaluation suite, and continuous shadow traffic to a second provider | Engineering time, no capital |
+| 2 | Committed or provisioned capacity bought from your primary provider, and a smaller commitment on the second | Low single-digit % of revenue |
+| 3 | Reserved GPU capacity rented from a cloud provider on a term commitment | Materially more than rung 2 |
+| 4 | Owned hardware in colocation | Capital, plus ongoing operations and a depreciating asset |
+
+Most companies at this stage should be fully at rung 1, partially at rung 2, and nowhere near rungs 3 and 4.
+
+#### Steps:
+
+1. **Write down the failure modes and rank them.** For each of the three risks above, state what actually happens to your product, which customers notice first, and what your contracts oblige you to do about it.
+2. **Define degraded mode explicitly.** Which features must keep working, which may fail, and what does the customer see? Check this against your SLA and your master service agreements before you need it.
+3. **Build portability and prove it.**
+    - Is every model call routed through one abstraction, or are provider SDKs scattered through the codebase?
+    - Do you have an evaluation suite that scores output quality, so you can tell whether the second provider is good enough?
+    - **Is a share of production traffic continuously served by the second provider?** If the answer is "we could switch," the answer is no.
+    - What is your gross margin at the second-best model? If it is materially worse, that is a pricing decision, not just an engineering one.
+4. **Size the insurance against revenue at risk, not against fear.** Work out the share of ARR that depends on the AI feature. Buy committed capacity in proportion to that number. Note that committed capacity is usually priced to break even only at very high sustained utilization—**budget it as an insurance premium, not as a discount**, and be sceptical of any account team that sells it as a saving.
+5. **Diligence the vendors underneath your vendor.** For any hosting or infrastructure provider, ask for—and read:
+    - The utility service or interconnection agreement **in the provider's own name**. A reseller cannot produce one, because the power contract belongs to whoever actually owns the facility. This is the single most diagnostic document.
+    - The SOC 2 Type II **with the entity name on the cover checked**, and the carve-out section read. Controls carved out to a subservice organization are where reselling becomes visible.
+    - Title to the specific hardware serving you, and whether it is pledged as collateral to a lender.
+    - Facility certification of the **constructed facility**, with a registry number. "Built to Tier III standards" is marketing.
+    - Hours of backup fuel **at your contracted load**, the resupply contract, whether it is guaranteed-delivery or best-efforts, and how many other customers hold the same priority claim.
+    - Their written incident report from the last regional event in that market.
+6. **Check your regulatory exposure to curtailment.** In some markets, large electrical loads now carry a mandatory obligation to disconnect on instruction from the grid operator during an emergency—uncompensated, and not capped by the size of any on-site generation. Ask your provider in writing whether the facility is a registered large load, how it is classified, and what its curtailment obligations are. Most providers have never been asked. A regulator-ordered curtailment is also precisely what a force-majeure clause exists to excuse, so your SLA will not protect you.
+7. **Apply the counterparty test.** Do not buy continuity insurance from a vendor whose own continuity is uncertain. Ask for audited financials, the debt maturity schedule and customer concentration. A provider whose hardware is pledged against debt maturing inside your contract term is a risk, not a mitigation.
+8. **Review quarterly.** Re-run the ranking, confirm shadow traffic is still flowing, confirm the second provider still passes evaluation, and re-check vendor terms for changes to capacity products and model deprecation schedules.
+
+#### A note on figures
+
+Specific prices in this area move fast enough that quoting them dates the play. Two anchors that have held: committed capacity from a major provider is generally available at a low single-digit percentage of revenue for a company at this stage, and owned hardware does not beat reserved rental on a three-year horizon at small scale. Get three written quotes before budgeting anything.
 

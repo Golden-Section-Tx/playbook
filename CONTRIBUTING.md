@@ -12,7 +12,7 @@ to use your contribution in our own commercial products.
 
 **A mistake worth adding** is one you have watched happen, more than once or
 once vividly, in a B2B software company. Not a category of risk — a specific
-behaviour with a specific consequence. Compare the tone of the existing 169:
+behaviour with a specific consequence. Compare the tone of the existing 170:
 they are short, blunt, and earned.
 
 **A play worth adding** tells someone what to do on Monday morning. Steps,

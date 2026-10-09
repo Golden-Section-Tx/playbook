@@ -1,6 +1,6 @@
 # Templates
 
-59 working Excel models, one or more attached to a play. These are the actual
+60 working Excel models, one or more attached to a play. These are the actual
 spreadsheets — formulas, structure, worked examples — not screenshots or
 outlines of spreadsheets.
 

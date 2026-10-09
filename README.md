@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-**80 plays and 169 mistakes for building a B2B vertical SaaS company.**
+**86 plays and 170 mistakes for building a B2B vertical SaaS company.**
 
 Golden Section has spent more than a decade operating alongside vertical SaaS
 founders, and has watched over 400 companies make the same mistakes in roughly
@@ -15,9 +15,9 @@ published it, and how to tell the advice that is worth taking from the advice
 that is merely loud.
 
 <!-- GS:COUNTS start -->
-**169 mistakes · 80 plays · 60 templates.**  
-Plays by category: Executive 22 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
-164 of 169 mistakes have at least one play mapped.
+**170 mistakes · 86 plays · 60 templates.**  
+Plays by category: Executive 23 · Sales & Marketing 27 · Customer 11 · Operations 8 · Development 13 · Vendor 4.  
+166 of 170 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ## Start here
@@ -25,9 +25,9 @@ Plays by category: Executive 22 · Sales & Marketing 23 · Customer 11 · Operat
 | | |
 |---|---|
 | **[MISTAKES.md](MISTAKES.md)** | All 169, numbered, with the plays that prevent each one. Start here if something already hurts. |
-| **[plays/](plays/README.md)** | The 80 plays, one Markdown file each — what to do, who owns it, how long it takes. Start here if you are building rather than firefighting. |
+| **[plays/](plays/README.md)** | The 86 plays, one Markdown file each — what to do, who owns it, how long it takes. Start here if you are building rather than firefighting. |
 | **[EXIT-PLAYBOOK.md](EXIT-PLAYBOOK.md)** | Eight plays, in order, from defining the exit you want to negotiating it. Start here if you are two years or less from a sale, or want to be ready for one. |
-| **[templates/](templates/)** | 59 working Excel templates, one or more per play. The actual models, not screenshots of them. |
+| **[templates/](templates/)** | 60 working Excel templates, one or more per play. The actual models, not screenshots of them. |
 | **[EFFORT.md](EFFORT.md)** | What the story points on every play mean, in person-days — and what they do not mean. Read before scheduling anything. |
 | **[dist/playbook-full.md](dist/playbook-full.md)** | The entire corpus as one file. For feeding to an AI, or reading on a plane. |
 | **[skills/](skills/README.md)** | Nine agent skills that work the corpus with you — interview, triage, review what you have, turn a play into assigned work, watch for mistakes, contribute back. Plain Markdown, no dependencies. |
@@ -40,7 +40,7 @@ will always be *Running out of cash*, whatever the wording becomes.
 
 **If you are a founder.** Read the mistakes list once, end to end. It takes
 about twenty minutes and it is the highest-return twenty minutes in here —
-not because you will remember all 169, but because you will recognize three of
+not because you will remember all 170, but because you will recognize three of
 them as things happening in your company right now. Then run those plays.
 
 **If you are an operator or advisor.** The plays carry effort estimates in story

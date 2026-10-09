@@ -12,11 +12,11 @@ right now, and what to do about it on Monday.**
 | Skill | What it does |
 |---|---|
 | [`context-interview`](context-interview/SKILL.md) | Fifteen minutes on the clock, once. Writes `workspace/company-context.md`, which every other skill reads. |
-| [`playbook-triage`](playbook-triage/SKILL.md) | Which of the 169 mistakes are live in your company, at most three plays to run now in the right order, and what you are choosing to skip — with the mistake each skip accepts. |
+| [`playbook-triage`](playbook-triage/SKILL.md) | Which of the 170 mistakes are live in your company, at most three plays to run now in the right order, and what you are choosing to skip — with the mistake each skip accepts. |
 | [`artifact-review`](artifact-review/SKILL.md) | The cash model, pricing matrix, or ARR schedule you already have, held against the play that governs it. Grades it Running, Nominal, Hollow, or Absent. |
 | [`run-play`](run-play/SKILL.md) | One play into assigned, dated work — in your task manager, as a CSV import, or as a PDF with one page per person. |
 | [`leader-time-audit`](leader-time-audit/SKILL.md) | Your plan and priorities against where your calendar, meetings and email show the time actually went: what you are allocating to the work only you can move, what you are abdicating, and what pulled you in. Dated receipts and next week's moves. |
-| [`mistake-watch`](mistake-watch/SKILL.md) | Your own meeting notes and records against the 169, monthly, so a mistake live for three runs looks different from a new one. |
+| [`mistake-watch`](mistake-watch/SKILL.md) | Your own meeting notes and records against the 170, monthly, so a mistake live for three runs looks different from a new one. |
 | [`field-report`](field-report/SKILL.md) | What actually happened when you ran a play, contributed back anonymized. Including — especially — when it didn't work. |
 
 ## For operators, advisors, and contributors

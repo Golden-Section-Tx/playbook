@@ -534,7 +534,7 @@ for (const p of plays) {
     `- [MISTAKES.md](MISTAKES.md): all ${mistakes.length} mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.`,
     `- [plays/README.md](plays/README.md): index of all ${plays.length} plays with owners, cadence, and effort.`,
     '- [EFFORT.md](EFFORT.md): what the story-point estimates on each play mean, and what they do not.',
-    '- [templates/](templates/): 59 working Excel models, mapped to plays.',
+    `- [templates/](templates/): ${onDisk.size} working Excel models, mapped to plays.`,
     '- [CONTRIBUTING.md](CONTRIBUTING.md): how to propose a change.',
     '- [GOVERNANCE.md](GOVERNANCE.md): who can change this and how.',
     '',

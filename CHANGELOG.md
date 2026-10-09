@@ -11,6 +11,30 @@ recorded as removed rather than renumbered.
 
 ### Added
 
+- **Play 74, AI Vendor Continuity** (`plays/vendor/saas-ai-vendor-continuity.md`)
+  — Vendor, quarterly, CTO/Founder/CFO. Ranks the ways a company loses access to
+  the models its product depends on, in the order they actually happen: commercial
+  deprioritization first, capability drift second, physical or regulatory
+  interruption last. Sets the rule that a failover which has never carried
+  production traffic is not a failover, sizes committed capacity against the
+  revenue at risk, and lists the documents that separate an owner-operator from a
+  reseller.
+- **Mistake 170, Assuming your model vendor will keep selling you capacity.**
+- **Five sales and management plays**, numbers 82 to 86. **Sales Triad** reduces a
+  sales plan to three decisions on one page, who you sell to (company and title),
+  what you say and how you reach them, and has the founder test all three by
+  dialing a list of about 2,000 in-profile prospects and talking to dozens.
+  **Outbound Channel Test** runs each outbound channel, live or automated, as a
+  time-boxed test against floors written in advance. **Sales Call Review** scores
+  a weekly sample of recorded calls against five gating questions and tracks
+  touches per closed deal by rep. **Sales Leader Hiring Trigger** sets the
+  conditions, budget and 90-day plan for hiring a sales leader, and warns against
+  promoting the top rep by default. **Underperformer Consequence Ladder** (Executive)
+  is a written four-rung ladder with a shortcut for dishonesty.
+- **Cross-references** from Go-to-Market Strategy (12) to Sales Triad and from
+  Sales Org Chart (27) to Sales Leader Hiring Trigger and Sales Call Review. No
+  other existing play text changed.
+
 - **The Exit Playbook** (`EXIT-PLAYBOOK.md`) — a sequence of eight executive plays
   that takes a founder from defining the exit to negotiating it, with an
   introduction and a guide to where to start by time to exit. Builds on the
@@ -19,7 +43,7 @@ recorded as removed rather than renumbered.
   work first), **Exit Data Room**, **Founder Independence (The Vacation Test)**,
   **Pre-Sale Value Levers**, **Selecting an Investment Banker**,
   **Running the Company During a Sale** and **Negotiating the Exit**. Number 74
-  is held for AI Vendor Continuity.
+  is AI Vendor Continuity, below.
 - **Skill `leader-time-audit`** — a leader's stated priorities against where
   their calendar, meetings and email show the time went.
 
@@ -43,6 +67,15 @@ recorded as removed rather than renumbered.
 
 ### Changed
 
+- **Stale counts corrected.** Hand-authored counts moved to 86 plays, 170 mistakes and 60
+  templates in `README.md`, `package.json`, `templates/README.md` and the three
+  skills that quote them (`play-hunt`, `context-interview`, `field-report`).
+  `llms.txt` now takes its template count from `templates/` instead of a
+  hard-coded 59. The measured counts in `skills/play-forge/references/play-anatomy.md`
+  are dated 2026-08-26 and were left as measured. Two derived figures were
+  recomputed from the graph: mistakes with exactly one preventing play in
+  `playbook-triage` (was 59, now 53) and mistakes with no play in `mistake-watch`
+  (was twelve, now four).
 - **Play 7, Board of Directors** — the "Create the content plan" step no longer
   carries its own packet contents list and 48-hour send window. Both now live in
   Board Meeting Preparation, and the step points there. The four items unique to

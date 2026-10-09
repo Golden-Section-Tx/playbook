@@ -13,9 +13,9 @@ The plays live in [`plays/`](plays/README.md). Downloadable working templates
 live in [`templates/`](templates/).
 
 <!-- GS:COUNTS start -->
-**169 mistakes · 80 plays · 60 templates.**  
-Plays by category: Executive 22 · Sales & Marketing 23 · Customer 11 · Operations 8 · Development 13 · Vendor 3.  
-164 of 169 mistakes have at least one play mapped.
+**170 mistakes · 86 plays · 60 templates.**  
+Plays by category: Executive 23 · Sales & Marketing 27 · Customer 11 · Operations 8 · Development 13 · Vendor 4.  
+166 of 170 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
 ---
@@ -82,7 +82,7 @@ Blowing valuable time on bad deals wastes money.
 
 No accountability in sales means no sales.
 
-**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Pipeline Management & Review](plays/sales-marketing/b2b-saas-pipeline-management.md)
+**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Pipeline Management & Review](plays/sales-marketing/b2b-saas-pipeline-management.md) · [Sales Call Review](plays/sales-marketing/saas-sales-call-review.md) · [Sales Leader Hiring Trigger](plays/sales-marketing/saas-sales-leader-hiring-trigger.md)
 
 ### <a id="m009"></a>9 · Building for single tenancy
 
@@ -106,7 +106,7 @@ Only sell what you have, stay away from betting on the future.
 
 You better know the problem well to succeed. Better yet, live the problem first.
 
-**Prevented by** · [Customer Segmentation](plays/sales-marketing/b2b-saas-customer-segmentation.md) · [Buyer Persona](plays/sales-marketing/b2b-saas-buyer-personas.md)
+**Prevented by** · [Customer Segmentation](plays/sales-marketing/b2b-saas-customer-segmentation.md) · [Buyer Persona](plays/sales-marketing/b2b-saas-buyer-personas.md) · [Sales Triad](plays/sales-marketing/saas-sales-triad.md)
 
 ### <a id="m012"></a>12 · Wrong programing language
 
@@ -122,7 +122,7 @@ Java doesn't go with MS SQL... make sure your stack makes sense.
 
 Rolodex sales people never deliver. Don’t do it.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Sales Org Chart](plays/sales-marketing/saas-sales-org-chart.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Sales Org Chart](plays/sales-marketing/saas-sales-org-chart.md) · [Sales Leader Hiring Trigger](plays/sales-marketing/saas-sales-leader-hiring-trigger.md)
 
 ### <a id="m014"></a>14 · Hiring cheap and betting on training
 
@@ -306,7 +306,7 @@ Commission structures are semi-permanent in nature. It is hard to walk one back.
 
 Something goes wrong, someone needs to account for it. Don't tolerate ambiguity here.
 
-**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md) · [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md)
+**Prevented by** · [Executive Execution](plays/executive/saas-executive-execution.md) · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md) · [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md) · [Underperformer Consequence Ladder](plays/executive/saas-underperformer-consequence-ladder.md)
 
 ### <a id="m037"></a>37 · No meetings... no minutes
 
@@ -378,7 +378,7 @@ Trade shows can be valuable. Start small though. Be careful about expecting it t
 
 Inexperienced hires need management. The less experience, the more management is needed. Make sure your org chart has good management in place before hiring.
 
-**Prevented by** · [Sales Org Chart](plays/sales-marketing/saas-sales-org-chart.md) · [Sales Metrics by FTE/Role/Team](plays/sales-marketing/saas-sales-metrics-by-role.md)
+**Prevented by** · [Sales Org Chart](plays/sales-marketing/saas-sales-org-chart.md) · [Sales Metrics by FTE/Role/Team](plays/sales-marketing/saas-sales-metrics-by-role.md) · [Sales Call Review](plays/sales-marketing/saas-sales-call-review.md) · [Sales Leader Hiring Trigger](plays/sales-marketing/saas-sales-leader-hiring-trigger.md)
 
 ### <a id="m046"></a>46 · Letting sales run product
 
@@ -754,7 +754,7 @@ Don't engage in brinkmanship. Look for win-win. It never wins to plan to loose.
 
 Failure to control vendor contracts means auto-renewals, escalations etc. that you don't want.
 
-**Prevented by** · [Vendor Contract Register](plays/vendor/saas-vendor-contract-register.md) · [Vendor Contract Playbook](plays/vendor/saas-vendor-contract-playbook.md) · [Partner Conflict Management](plays/vendor/saas-partner-conflict-management.md)
+**Prevented by** · [Vendor Contract Register](plays/vendor/saas-vendor-contract-register.md) · [Vendor Contract Playbook](plays/vendor/saas-vendor-contract-playbook.md) · [Partner Conflict Management](plays/vendor/saas-partner-conflict-management.md) · [AI Vendor Continuity](plays/vendor/saas-ai-vendor-continuity.md)
 
 ### <a id="m093"></a>93 · Ignoring a problem
 
@@ -802,7 +802,7 @@ Switching CRMs can be the right move; most time it is not. Sales teams complaini
 
 Don't tolerate dishonesty. Address it directly with team members, investors, customers, and vendors. Adopt a zero tolerance immediate consequence policy.
 
-_No play is mapped to this mistake yet._
+**Prevented by** · [Underperformer Consequence Ladder](plays/executive/saas-underperformer-consequence-ladder.md)
 
 ### <a id="m099"></a>99 · Paying for ‘money finders’
 
@@ -920,7 +920,7 @@ A product roadmap is an investment plan. Don't tolerate low resolution on the pl
 
 Software companies are all about people. Poor performance can become cultural. Dive in on missed goals (budgets, promises, etc.) and find the reasons with your team. Don't let it slip by; even the small stuff.
 
-**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md)
+**Prevented by** · [KPI & Strategic Meetings](plays/executive/saas-kpi-strategic-meetings.md) · [Quality Management System](plays/operations/saas-quality-management-system.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Sales Call Review](plays/sales-marketing/saas-sales-call-review.md) · [Underperformer Consequence Ladder](plays/executive/saas-underperformer-consequence-ladder.md)
 
 ### <a id="m114"></a>114 · Accepting the phrase “we’re too thinly staffed”
 
@@ -1080,7 +1080,7 @@ Your product needs to be solving a specific need for a specific group of people.
 
 It takes time to figure out the correct messaging and channels to reach your customers. Don’t be so quick to pivot to a different customer base. Fitting your product to a need is hard. Ignoring other needs that are responding to you at the same time is harder.
 
-**Prevented by** · [Customer Segmentation](plays/sales-marketing/b2b-saas-customer-segmentation.md) · [Buyer Persona](plays/sales-marketing/b2b-saas-buyer-personas.md)
+**Prevented by** · [Customer Segmentation](plays/sales-marketing/b2b-saas-customer-segmentation.md) · [Buyer Persona](plays/sales-marketing/b2b-saas-buyer-personas.md) · [Sales Triad](plays/sales-marketing/saas-sales-triad.md) · [Outbound Channel Test](plays/sales-marketing/saas-outbound-channel-test.md)
 
 ### <a id="m134"></a>134 · Happy ears with customers
 
@@ -1120,7 +1120,7 @@ When something frightens you, lean in. Avoidance and ignorance will result in th
 
 Revenue should always be top of mind, not matter the stage of the company. It’s your number one.
 
-**Prevented by** · [Go-to-Market Strategy](plays/sales-marketing/vertical-saas-go-to-market-strategy.md) · [Pipeline Creation](plays/sales-marketing/b2b-saas-pipeline-creation.md)
+**Prevented by** · [Go-to-Market Strategy](plays/sales-marketing/vertical-saas-go-to-market-strategy.md) · [Pipeline Creation](plays/sales-marketing/b2b-saas-pipeline-creation.md) · [Sales Triad](plays/sales-marketing/saas-sales-triad.md) · [Outbound Channel Test](plays/sales-marketing/saas-outbound-channel-test.md)
 
 ### <a id="m139"></a>139 · Disjointed pricing with sales cycle
 
@@ -1224,7 +1224,7 @@ A sleek brand won’t save a sinking ship. Flashy marketing and reputation matte
 
 Founders forget how long it took them to learn the product and market. New hires need time, training, and clear process to catch up. Don’t just hand off sales and hope, simplify the process, bake in support, and budget for the real cost of getting them fully productive.
 
-**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Sales Scripts](plays/sales-marketing/b2b-saas-sales-scripts.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md)
+**Prevented by** · [Sales Philosophy](plays/sales-marketing/b2b-saas-sales-philosophy.md) · [Sales Scripts](plays/sales-marketing/b2b-saas-sales-scripts.md) · [Founder Independence (The Vacation Test)](plays/executive/saas-founder-independence.md) · [Sales Triad](plays/sales-marketing/saas-sales-triad.md) · [Sales Call Review](plays/sales-marketing/saas-sales-call-review.md) · [Sales Leader Hiring Trigger](plays/sales-marketing/saas-sales-leader-hiring-trigger.md)
 
 ### <a id="m152"></a>152 · Forgetting You're Part of a Bigger Ecosystem
 
@@ -1240,7 +1240,7 @@ You don’t operate in a vacuum. Competitors emerge, power shifts, and new playe
 
 Progress requires concentrated force. Spreading your energy across 25 half-baked strategies won’t get you anywhere. Pick one, apply real weight, and see if it moves. You can’t cheat physics.
 
-**Prevented by** · [Define the Mission](plays/executive/define-saas-company-mission.md) · [Go-to-Market Strategy](plays/sales-marketing/vertical-saas-go-to-market-strategy.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md) · [Exit Roadmap](plays/executive/saas-exit-roadmap.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md)
+**Prevented by** · [Define the Mission](plays/executive/define-saas-company-mission.md) · [Go-to-Market Strategy](plays/sales-marketing/vertical-saas-go-to-market-strategy.md) · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Meaningful Exit Plan](plays/executive/saas-meaningful-exit-plan.md) · [Exit Roadmap](plays/executive/saas-exit-roadmap.md) · [Pre-Sale Value Levers](plays/executive/saas-pre-sale-value-levers.md) · [Sales Triad](plays/sales-marketing/saas-sales-triad.md) · [Outbound Channel Test](plays/sales-marketing/saas-outbound-channel-test.md)
 
 ### <a id="m154"></a>154 · Revolving Door of Technical Talent
 
@@ -1369,3 +1369,11 @@ You bring the board the version of the quarter that makes your case, and you bri
 The experienced managers skip this most often, because they have run teams before and the running lived in their head. A team cannot read your head: with no named cadence, no scorecard carrying an owner on every line, no three priorities for the quarter and no single name in each seat, the all-hands where you get real about performance is a threat rather than a system — and strong people read a threat without a structure as a leader who does not know what is wrong. The tell is asking what operating system the company runs on and getting "dashboards and accountability" back, with nothing after it.
 
 **Prevented by** · [Execution Operating System](plays/executive/saas-execution-operating-system.md) · [Exit Roadmap](plays/executive/saas-exit-roadmap.md)
+
+### <a id="m170"></a>170 · Assuming your model vendor will keep selling you capacity
+
+`Development · Vendors`
+
+Capacity products get withdrawn, models get deprecated, and when demand spikes the largest contracts are served first. A dependency you cannot replace inside a week is a dependency you do not control, and the email telling you so arrives without warning.
+
+**Prevented by** · [AI Vendor Continuity](plays/vendor/saas-ai-vendor-continuity.md)

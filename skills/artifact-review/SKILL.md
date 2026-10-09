@@ -46,7 +46,7 @@ afterthought but half the point of the skill.
    whether the founder ran the whiteboard session, and claiming it does is
    inventing evidence.
 
-3. **Compare against the play's template** where it has one. The 59 templates in
+3. **Compare against the play's template** where it has one. The 60 templates in
    `templates/` are working models — structure, formulas, worked examples. A
    founder's artifact does not need to match the template's shape, but a
    template column that has no counterpart anywhere in their file is usually a

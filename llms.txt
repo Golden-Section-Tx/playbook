@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-> 80 plays and 169 mistakes for building a B2B vertical SaaS
+> 86 plays and 170 mistakes for building a B2B vertical SaaS
 > company, from a firm that has watched over 400 of them. Every mistake is
 > paired with the play that prevents it.
 
@@ -14,10 +14,10 @@ licensed. Alternative terms on request: open an issue.
 
 ## Primary documents
 
-- [MISTAKES.md](MISTAKES.md): all 169 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
-- [plays/README.md](plays/README.md): index of all 80 plays with owners, cadence, and effort.
+- [MISTAKES.md](MISTAKES.md): all 170 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
+- [plays/README.md](plays/README.md): index of all 86 plays with owners, cadence, and effort.
 - [EFFORT.md](EFFORT.md): what the story-point estimates on each play mean, and what they do not.
-- [templates/](templates/): 59 working Excel models, mapped to plays.
+- [templates/](templates/): 60 working Excel models, mapped to plays.
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to propose a change.
 - [GOVERNANCE.md](GOVERNANCE.md): who can change this and how.
 
@@ -47,6 +47,7 @@ licensed. Alternative terms on request: open an issue.
 - [Selecting an Investment Banker](plays/executive/saas-investment-banker-selection.md): Start banker conversations twelve to eighteen months before you intend to sell, build a shortlist from closed transactions in your size band and vertical rather than from brand names, interview the people who will actually run your deal, negotiate the engagement letter's fee, tail, term and carve-outs with counsel before you sign, agree the process design in writing, and then run the relationship on a fixed weekly cadence.
 - [Running the Company During a Sale](plays/executive/saas-running-the-company-during-a-sale.md): Treat the quarters you sell in as the most scrutinized of the company's life — stand up a small deal team with a code name, hand day-to-day operations to a named operator, protect a forecast you will beat, run diligence from a single request tracker, decide in advance who learns about the sale and when, put retention agreements in place for the people the buyer is paying for, and keep the exec team on their weekly numbers so the business does not drift while the founder negotiates.
 - [Negotiating the Exit](plays/executive/saas-exit-negotiation.md): Convert every offer into what actually reaches you after net debt, the working capital peg, fees, escrow, earnout, rollover and the preference stack, negotiate the terms that decide that number before you sign exclusivity rather than after, expect a re-trade and prepare the evidence to resist it, keep a second bidder warm until signing, and hold a walk-away anchored to the Floor, Enough and Temptation in your Meaningful Exit Plan.
+- [Underperformer Consequence Ladder](plays/executive/saas-underperformer-consequence-ladder.md): Write down what good looks like for each role, find the root cause of a miss before you assign blame, then move a person up a short written ladder of conversation, written expectations, a dated improvement plan and a decision, with dishonesty taking an immediate shortcut and managers backed in their calls, and review everyone on a rung each month.
 
 ### Sales & Marketing
 
@@ -73,6 +74,10 @@ licensed. Alternative terms on request: open an issue.
 - [Sales Efficiency Ratio](plays/sales-marketing/saas-sales-efficiency-ratio.md): Calculate your sales efficiency ratio (the magic number) to understand if your sales and marketing investment is generating returns—critical for demonstrating unit economics.
 - [Implementation Window Scarcity](plays/sales-marketing/saas-implementation-window-scarcity.md): Replace discounting as the lever your sales team uses to pull a deal into the quarter, using a real implementation capacity calendar so that scarcity moves the date and price holds.
 - [AI Pricing Model Selection](plays/sales-marketing/ai-pricing-model-selection.md): Match your AI feature's pricing model to what the customer can already see as valuable, and sequence any change to your existing base as deliberately as the pricing decision itself.
+- [Sales Triad](plays/sales-marketing/saas-sales-triad.md): Reduce your sales plan to three decisions on one page, who you sell to (the company and the role), what you say to them and the channel you use to reach them, then test all three yourself by dialing a list of about 2,000 in-profile prospects and talking to dozens of them, so the page you hand a sales team is built from conversations rather than guesses.
+- [Outbound Channel Test](plays/sales-marketing/saas-outbound-channel-test.md): Run each outbound channel, such as live callers, automated email or AI outreach, as a time-boxed test against a written floor for connects, conversations, meetings and cost per meeting, with who you target and what you say held constant, and kill, extend or scale it at a dated review so no tool runs for a year on hope.
+- [Sales Call Review](plays/sales-marketing/saas-sales-call-review.md): Record every sales call with consent, score a weekly sample against five gating questions, track touches per closed deal by rep, and keep a library of the opening minutes and questions that moved deals, so you can tell a rep problem from a comp problem or a message problem before you change anything.
+- [Sales Leader Hiring Trigger](plays/sales-marketing/saas-sales-leader-hiring-trigger.md): Set the conditions in writing that tell you a sales leader is due, such as the founder's share of new ACV, the number of reps without a manager and a repeatable motion, fix the equity and cash budget before you start looking, and check the conditions at every board meeting, so you hire the leader when the company needs one rather than after a year of waiting for growth to pay for it.
 
 ### Customer
 
@@ -120,3 +125,4 @@ licensed. Alternative terms on request: open an issue.
 - [Vendor Contract Register](plays/vendor/saas-vendor-contract-register.md): Maintain a master register of all vendor contracts—tracking renewals, pricing, key terms, and obligations to ensure you're getting fair deals.
 - [Vendor Contract Playbook](plays/vendor/saas-vendor-contract-playbook.md): Establish negotiation strategies and standard vendor contract terms that protect your company while maintaining positive vendor relationships.
 - [Partner Conflict Management](plays/vendor/saas-partner-conflict-management.md): Model the economics that would lead a large implementation partner to build what you built, then manage the relationship with visible consequence and demonstrated arithmetic rather than with goodwill and a clause.
+- [AI Vendor Continuity](plays/vendor/saas-ai-vendor-continuity.md): Rank the ways you could lose model access, build portability you actually exercise, and buy committed capacity in proportion to the revenue at risk—before a vendor makes the decision for you.
