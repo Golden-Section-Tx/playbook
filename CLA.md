@@ -11,7 +11,7 @@ stand.
 
 You keep the copyright in what you write. This is a license, not an assignment.
 
-By signing this agreement — which the CLA bot will prompt you to do on your
+By signing this agreement — which a maintainer will ask you to do on your
 first pull request — you accept the following terms for your present and future
 contributions to this repository.
 

@@ -43,7 +43,7 @@ Identify the 3-4 metrics that will give key insight to the effectiveness of your
 
 - Time to 1st Response: the median number of hours that elapsed before a first response is issued to the customer.
 - Time to Full Resolution: The median number of hours that elapsed before a ticket is fully resolved.
-- Customer Satisfaction: the average customer satisfaction rating following all support ticket resolutions.
+- Customer Satisfaction: the average customer satisfaction rating following all support ticket resolutions. See the CSAT Scores play for how to collect and act on it.
 
 1. Use the PDCA methodology described in Play: Quality Management Systems and the template provided to create a process for tracking and internally sharing these metrics. Considerations:
     - How often should the metrics be updated?

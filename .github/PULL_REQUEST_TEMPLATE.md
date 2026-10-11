@@ -40,7 +40,7 @@ Source:
 - [ ] Any new template file is in `templates/` and referenced from a play
 - [ ] Nothing here identifies a company or a person, and nothing is quoted
       verbatim from a private conversation
-- [ ] I have signed the [CLA](../CLA.md), or will when the bot asks
+- [ ] I have signed the [CLA](../CLA.md), or will when a maintainer asks
 
 ## For Golden Section reviewers
 

@@ -1,6 +1,6 @@
 # The Golden Section Playbook — complete corpus
 
-86 plays and 170 mistakes for building a B2B vertical SaaS company,
+87 plays and 170 mistakes for building a B2B vertical SaaS company,
 in one file.
 
 **Source:** https://github.com/golden-section-tx/playbook
@@ -411,7 +411,7 @@ Prevented by: Contract Playbook, Product Roadmap Process.
 
 Implementations are vital to customers experiencing the promised value. They need to be meticulously architected.
 
-Prevented by: Implementation Project Lifecycle.
+Prevented by: Implementation Project Lifecycle, Implementation Hours Tracking.
 
 ## Mistake 51 · Hourly not to exceed $x contracts
 
@@ -679,7 +679,7 @@ Prevented by: Account Management Process, Churn Identification Process.
 
 Own what you can, but put boundaries on frustrated customers and don't own what you aren't responsible for.
 
-Prevented by: Account Management Process, Implementation Hours Tracking.
+Prevented by: Account Management Process, CSAT Scores.
 
 ## Mistake 85 · Ignoring rev-rec
 
@@ -973,7 +973,7 @@ Prevented by: Product Engineering Process.
 
 Some customers need to extract a pound of flesh to feel good about a transaction. Its best to have options in your contract that allow you to give that accommodation while still preserving your business. Set a couple out of market elements in the contract.
 
-Prevented by: Contract Playbook.
+Prevented by: Contract Playbook, Implementation Hours Tracking.
 
 ## Mistake 122 · Not firing a customer
 
@@ -1149,7 +1149,7 @@ Prevented by: Cash Flow Forecast.
 
 If you ask someone for what they’re pissed about, you’ll get an answer… if a trash collection company asks people if they smell something, they will smell it whether they actually can or not. Don’t put discontentment in your customers’ mind.
 
-Prevented by: Net Promoter Score (NPS), Implementation Hours Tracking.
+Prevented by: Net Promoter Score (NPS), CSAT Scores.
 
 ## Mistake 144 · Waiting for the perfect product before selling
 
@@ -4813,7 +4813,9 @@ Use the Best Practices above to guide your IPLC but tailor it to your company's 
 
 **Summary:** Track the man hours required to fully implement each new customer so you can price implementation fees accurately, invoice overages, and evidence implementation costs at exit.
 
-**Prevents mistakes:** #84 Apologize for poor performance, but don't own what you don't own; #143 Inviting customer discontent
+**Prevents mistakes:** #50 Unstructured implementations; #121 Failing to incorporate contingency in customer contracting
+
+**Templates:** Implementation & Support CSat Scores Template
 
 Implementation can be time-intensive and costly to your company. Often SaaS companies with products that require a more customized or intensive implementation process will charge their customers an upfront implementation fee in addition to the monthly recurring subscription fee. Since an implementation fee will be calculated based on estimates of the time and labor required to onboard a customer prior to actual implementation, it is important to track your inputs so that you can accurately estimate and then charge your company's cost to implement, plus margin.
 
@@ -4823,7 +4825,7 @@ Implementation can be time-intensive and costly to your company. Often SaaS comp
 
 #### Steps
 
-1. Use the PDCA methodology described in Play: Quality Management Systems and the template provided to create a process for tracking implementation man hours by customer. Considerations:
+1. Use the PDCA methodology described in Play: Quality Management Systems and the Implementation Hours tab of the template provided to create a process for tracking implementation man hours by customer. Considerations:
     - What is considered an implementation activity?
     - Where/how should it be tracked?
     - Do we want to set targets for implementation hours per customer?
@@ -4913,7 +4915,7 @@ Identify the 3-4 metrics that will give key insight to the effectiveness of your
 
 - Time to 1st Response: the median number of hours that elapsed before a first response is issued to the customer.
 - Time to Full Resolution: The median number of hours that elapsed before a ticket is fully resolved.
-- Customer Satisfaction: the average customer satisfaction rating following all support ticket resolutions.
+- Customer Satisfaction: the average customer satisfaction rating following all support ticket resolutions. See the CSAT Scores play for how to collect and act on it.
 
 1. Use the PDCA methodology described in Play: Quality Management Systems and the template provided to create a process for tracking and internally sharing these metrics. Considerations:
     - How often should the metrics be updated?
@@ -5042,6 +5044,51 @@ To prevent this unproductive expense to your company and to improve the efficien
 - *Proof of process:* What is the metric that will indicate the process is complete? Will it be some form of the adoption metric identified as a proof of process in the onboarding process?
 
 1. A note on super-users: Two of the companies founded by Golden Section team members contractually required a super-user at each client company. The super-user would be trained during the onboarding process and then as new features or updates were released, the super-user would then train others within their own company. If possible, Golden Section believes this is an ideal model. The presence of a super-user is well-correlated with product adoption within the customer's company; the super-user typically takes on the advocate role within that company which leads to fuller adoption and lower churn. Moreover, transferring training responsibilities to the super-user reduces the training burden on your own company.
+
+### How to Collect and Act on CSAT Scores After Implementation and Support
+
+**Play:** CSAT Scores · **Owners:** CS Lead, Implementation Lead · **Cadence:** Monthly · **Stage:** Early Traction · **Effort:** 5 SP initial, 3 SP ongoing
+
+**Summary:** Ask customers how satisfied they are at two moments, when an implementation finishes and when a support ticket closes, on a four-point scale with no neutral middle, ask the question without planting a complaint, route every low score to an owner within two business days, and review the trend monthly.
+
+**Prevents mistakes:** #84 Apologize for poor performance, but don't own what you don't own; #143 Inviting customer discontent
+
+**Templates:** Implementation & Support CSat Scores Template
+
+Net Promoter Score tells you how customers feel about your company. It arrives twice a year and says nothing about the project that went badly in March or the ticket that sat for a week. A customer satisfaction score is the other half. You ask right after something happens, while the customer still remembers it, and you get an answer about that thing.
+
+There are two moments worth asking about in a B2B software company: the end of an implementation, and the close of a support ticket. Both are places where a customer decides, quietly, whether you are the kind of company that keeps its promises. Most founders learn the answer from a cancellation notice. A short survey at each moment tells you months earlier, and it tells you which team and which project it was.
+
+> **The goal:** A short survey at the end of every implementation and every support ticket, a score you track by month, and a rule that every low score reaches a named person quickly.
+
+#### Background
+
+CSAT sits between two plays you may already run. Support Metrics tracks how fast you respond and resolve, and lists customer satisfaction as one of its three measures, without saying how to collect it. Net Promoter Score (NPS) is a one-question, relationship-level survey sent to the whole customer base no more than twice a year. CSAT is transactional: it is tied to a project or a ticket, sent straight after it, and read by the team that did the work.
+
+The template's survey uses a four-point scale: 4 very satisfied, 3 somewhat satisfied, 2 not very satisfied, 1 not at all satisfied. There is no neutral middle, so a respondent has to lean one way. Report two numbers: the average score, and the share of responses that were a 3 or 4.
+
+#### Steps
+
+1. Name an owner for each survey. The Implementation Lead owns the post-implementation survey, and the CS Lead owns the support survey. One person for each, with a backup, who can answer "who reads this?" without looking it up.
+2. Write the post-implementation survey. Start from the template's twelve questions and trim to what you can act on. They cover how satisfied the customer is with the implementation, with your implementation team and with your company's service overall, how useful the new system is to their work, how clear their role was, how involved they felt in decisions, how effective the project and technical meetings were, whether people across their company took part, whether they felt appreciated, how committed the whole team seemed, and whether the system will make their job better. Add one open comment box at the end.
+3. Write the support survey. One question: how satisfied are you with the support you received? Same four-point scale, plus an optional comment box. Keep it to that.
+4. Word every question neutrally. Ask how satisfied people are, not what went wrong. If you ask a customer what frustrated them, they will find something, whether or not it was on their mind. Put the comment box last and call it "anything else we should know?" The goal is to measure how customers feel, not to hand them a reason to be unhappy.
+5. Send each survey at the right moment, automatically.
+    - Implementation: within a week of going live, to every person on the customer side who took part in the project, and not only the person who signed the contract. Several of the questions are about roles and meetings that the buyer never sees.
+    - Support: when a ticket is closed, from your ticket system. See the Support Ticket System play.
+6. Set the response rule before the first response comes in. Any score of 1 or 2 goes to the owner and to the CS Lead the same day. The owner contacts the customer within two business days, as a default to adjust, and records what happened. Decide whether the cause is yours, the customer's or a third party's. Apologize and fix what is yours. Be kind and clear about the rest, and do not take on blame for what you do not own.
+7. Record every response in one log: the customer, the project or ticket, the date, the score, the owner, and the action taken. Store the log, the survey text and the process description in one place, so a new hire or a buyer's diligence team can see the process and the history. The template's CSAT tab is built to hold the process; its Implementation Hours tab belongs to the Implementation Hours Tracking play.
+8. Review monthly. The CS Lead brings these to the customer success or leadership meeting, for each survey: the average score, the share satisfied, the response rate, the number of low scores, and what changed because of them. Look at the trend over several months, not one month's score. A falling response rate is a finding too.
+
+#### Troubleshooting
+
+*Nobody answers the survey.* Send it from a person the customer worked with, make it answerable in under a minute, and keep it to the length above. Check that it reaches the people who used the system and not only the buyer.
+
+*Every score is a 4.* Read the comments before you celebrate. Check that the survey is going to everyone and not only to your happiest contacts, and that the wording is not nudging people toward the top answer.
+
+*A customer is angry about something we do not control.* Say so plainly and kindly, and help where you can. Take ownership of what is yours. Taking the blame for the rest teaches customers that you will pay for everyone's mistakes.
+
+*We already send NPS.* Keep it. NPS shows you the relationship, and CSAT shows you the moments that build or break it. They answer different questions.
 
 ## Development
 

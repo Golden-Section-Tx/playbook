@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-**86 plays and 170 mistakes for building a B2B vertical SaaS company.** Free to read, fork and adapt under [CC BY-SA 4.0](LICENSE).
+**87 plays and 170 mistakes for building a B2B vertical SaaS company.** Free to read, fork and adapt under [CC BY-SA 4.0](LICENSE).
 
 Golden Section has spent more than a decade operating alongside vertical SaaS
 founders, and has watched over 400 companies make the same mistakes in roughly
@@ -15,8 +15,8 @@ published it, and how to tell the advice that is worth taking from the advice
 that is merely loud.
 
 <!-- GS:COUNTS start -->
-**170 mistakes · 86 plays · 60 templates.**  
-Plays by category: Executive 23 · Sales & Marketing 27 · Customer 11 · Operations 8 · Development 13 · Vendor 4.  
+**170 mistakes · 87 plays · 60 templates.**  
+Plays by category: Executive 23 · Sales & Marketing 27 · Customer 11 · Operations 9 · Development 13 · Vendor 4.  
 166 of 170 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
@@ -25,7 +25,7 @@ Plays by category: Executive 23 · Sales & Marketing 27 · Customer 11 · Operat
 | | |
 |---|---|
 | **[MISTAKES.md](MISTAKES.md)** | All 170, numbered, with the plays that prevent each one. Start here if something already hurts. |
-| **[plays/](plays/README.md)** | The 86 plays, one Markdown file each — what to do, who owns it, how long it takes. Start here if you are building rather than firefighting. |
+| **[plays/](plays/README.md)** | The 87 plays, one Markdown file each — what to do, who owns it, how long it takes. Start here if you are building rather than firefighting. |
 | **[EXIT-PLAYBOOK.md](EXIT-PLAYBOOK.md)** | Eight plays, in order, from defining the exit you want to negotiating it. Start here if you are two years or less from a sale, or want to be ready for one. |
 | **[templates/](templates/)** | 60 working Excel templates, attached to the plays that need a model. The actual models, not screenshots of them. |
 | **[EFFORT.md](EFFORT.md)** | What the story points on every play mean, in person-days — and what they do not mean. Read before scheduling anything. |
@@ -187,7 +187,7 @@ Anyone may open a pull request. Merge authority sits with Golden Section's
 general partners — see [GOVERNANCE.md](GOVERNANCE.md) for who and why, and
 [CONTRIBUTING.md](CONTRIBUTING.md) for what a good contribution looks like.
 
-Contributions require signing the [CLA](CLA.md), which the bot will prompt for on
+Contributions require signing the [CLA](CLA.md), which a maintainer will ask you to sign on
 your first pull request.
 
 ## Where this comes from, and where it goes

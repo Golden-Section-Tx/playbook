@@ -10,6 +10,9 @@ initialEffort: 5 SP
 ongoingEffort: 5 SP
 frequency: Monthly
 stage: Early Traction
+templates:
+  - file: 4.21-implementation-support-csat-scores-template.xlsx
+    name: Implementation & Support CSat Scores Template
 summary: Track the man hours required to fully implement each new customer so you can price implementation fees accurately, invoice overages, and evidence implementation costs at exit.
 keywords:
   - implementation hours
@@ -26,8 +29,8 @@ questions:
   - What should my implementation-tracking process cover?
   - How does implementation cost data help at exit?
 preventsMistakes:
-  - 84
-  - 143
+  - 50
+  - 121
 ---
 Implementation can be time-intensive and costly to your company. Often SaaS companies with products that require a more customized or intensive implementation process will charge their customers an upfront implementation fee in addition to the monthly recurring subscription fee. Since an implementation fee will be calculated based on estimates of the time and labor required to onboard a customer prior to actual implementation, it is important to track your inputs so that you can accurately estimate and then charge your company's cost to implement, plus margin.
 
@@ -37,7 +40,7 @@ Implementation can be time-intensive and costly to your company. Often SaaS comp
 
 #### Steps
 
-1. Use the PDCA methodology described in Play: Quality Management Systems and the template provided to create a process for tracking implementation man hours by customer. Considerations:
+1. Use the PDCA methodology described in Play: Quality Management Systems and the Implementation Hours tab of the template provided to create a process for tracking implementation man hours by customer. Considerations:
     - What is considered an implementation activity?
     - Where/how should it be tracked?
     - Do we want to set targets for implementation hours per customer?
@@ -48,7 +51,9 @@ Implementation can be time-intensive and costly to your company. Often SaaS comp
 
 ---
 
-**Prevents** · [#84 Apologize for poor performance, but don't own what you don't own](../../MISTAKES.md#m084) · [#143 Inviting customer discontent](../../MISTAKES.md#m143)
+**Prevents** · [#50 Unstructured implementations](../../MISTAKES.md#m050) · [#121 Failing to incorporate contingency in customer contracting](../../MISTAKES.md#m121)
+
+**Templates** · [Implementation & Support CSat Scores Template](../../templates/4.21-implementation-support-csat-scores-template.xlsx)
 
 **Category** · [Operations](../README.md) · **Effort** · 5 SP initial, 5 SP ongoing · **Cadence** · Monthly
 

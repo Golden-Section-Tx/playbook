@@ -105,7 +105,7 @@ git add -A && git commit
 
 Commit whatever the build regenerates; CI runs `npm run build --check` and fails on stale output. Then run the anonymization check below, because a pull request here is public the moment it opens and cannot be unpublished. Fill in the pull request template honestly, especially the provenance line.
 
-First-time contributors sign the CLA — a bot handles it, and it takes a click. Read `CLA.md` first; it grants Golden Section broad rights, including use in commercial products.
+First-time contributors sign the CLA — a maintainer will ask on the first pull request. Read `CLA.md` first; it grants Golden Section broad rights, including use in commercial products.
 
 ## Guardrails
 

@@ -7,7 +7,7 @@ description: Turn a play the company actually ran into an anonymized field repor
 
 You ran the play. Standing it up took half again what the estimate said. You cut a step because you have no CS Lead. The artifact got built, held for six weeks, and then nobody updated it.
 
-That is the most useful thing anyone can send this corpus, and almost nobody sends it. The 86 plays were written from watching companies operate; they get better the same way. This skill turns one run of one play into a structured, anonymized report and gets it upstream — as an issue, or a pull request.
+That is the most useful thing anyone can send this corpus, and almost nobody sends it. The 87 plays were written from watching companies operate; they get better the same way. This skill turns one run of one play into a structured, anonymized report and gets it upstream — as an issue, or a pull request.
 
 It is the only skill in this set whose output leaves your machine, so read the anonymization section first. Pairs with [`play-forge`](../play-forge/SKILL.md), which owns authoring — when the report has become a proposed edit to the play, hand off to it.
 
@@ -73,7 +73,7 @@ There is no field-report issue template in the repository. Open a blank issue, t
 
 **Take the pull request path only when the founder wants to write the change themselves** and can name the line that changes. A report is not a diff. The moment it is really a proposed edit — a corrected `initialEffort`, a rewritten step, a wrong `stage` — hand off to `play-forge`.
 
-On the CLA — nothing is signed to open an issue; the bot prompts on your first pull request. Read [`CLA.md`](https://github.com/golden-section-tx/playbook/blob/main/CLA.md) anyway: it defines a contribution to include what you write in an issue, and grants Golden Section broad rights, including use in commercial products. Content is CC BY-SA 4.0, the scripts MIT, the name and marks not licensed.
+On the CLA — nothing is signed to open an issue; a maintainer will ask you on your first pull request. Read [`CLA.md`](https://github.com/golden-section-tx/playbook/blob/main/CLA.md) anyway: it defines a contribution to include what you write in an issue, and grants Golden Section broad rights, including use in commercial products. Content is CC BY-SA 4.0, the scripts MIT, the name and marks not licensed.
 
 ## Show the founder the text, then ask
 

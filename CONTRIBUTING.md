@@ -4,7 +4,7 @@ Pull requests are welcome from anyone. Merge authority sits with Golden
 Section's general partners — see [GOVERNANCE.md](GOVERNANCE.md).
 
 Before your first pull request is merged you will be asked to sign the
-[Contributor License Agreement](CLA.md). A bot handles this; it takes a click.
+[Contributor License Agreement](CLA.md). A maintainer will point you to it when you open your first pull request.
 Read the CLA first — it grants Golden Section broad rights, including the right
 to use your contribution in our own commercial products.
 

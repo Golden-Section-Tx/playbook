@@ -5,7 +5,7 @@ description: Diagnoses which of the 170 Golden Section mistakes are live in your
 
 # playbook-triage
 
-Eighty-six plays, 170 mistakes, one quarter, one team that is already busy. Triage is the skill that turns that into three things and a written record of what you chose not to do.
+Eighty-seven plays, 170 mistakes, one quarter, one team that is already busy. Triage is the skill that turns that into three things and a written record of what you chose not to do.
 
 The hard part is not finding a play worth running. Almost all of them are. The hard part is being honest about the sixty you are skipping, so that when one of those mistakes lands you recognize it as a decision you made rather than a surprise.
 
@@ -64,7 +64,7 @@ Any prescription resting on a conflicted input is **provisional**, labeled as su
 
 ## Stage is a note, and the tax runs one way
 
-Verify this against the corpus rather than trusting the count here — at the last count 27 plays are tagged `Pre-Revenue`, 39 `Early Traction`, 19 `Growth`, and one (Executive Execution) `All Stages`. The late-stage set is smaller than the early one, but it is a real set to graduate into.
+Verify this against the corpus rather than trusting the count here — at the last count 27 plays are tagged `Pre-Revenue`, 40 `Early Traction`, 19 `Growth`, and one (Executive Execution) `All Stages`. The late-stage set is smaller than the early one, but it is a real set to graduate into.
 
 The consequence: **a Pre-Revenue play at a Growth company is not a mismatch. It is a skipped foundation**, and it is frequently the highest-leverage thing available — Budget Creation, Sales Philosophy, Pricing Matrix, the Vendor Contract Register. Prescribe it without apology, and say what it costs to have skipped it this long.
 
