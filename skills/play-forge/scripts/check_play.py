@@ -42,7 +42,7 @@ PLAYERS = ["Founder", "Exec Team", "Board", "CFO", "COO", "CTO", "Legal",
 EFFORT = ["1 SP", "2 SP", "3 SP", "5 SP", "8 SP", "13 SP", "21 SP", "34 SP",
           "—", "-", "--"]
 FREQUENCY = ["Continuous", "Weekly", "Monthly", "Quarterly", "Bi-Annually",
-             "Annual", "As Needed", "Per Customer", "Per Project"]
+             "Annual", "As Needed", "Per Customer", "Per Hire", "Per Project"]
 STAGE = ["Pre-Revenue", "Early Traction", "Growth", "All Stages"]
 
 SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")

@@ -46,7 +46,7 @@ Source:
 
 - [ ] Confidentiality: nothing identifying, in the diff **or** in this pull
       request's own text and metadata
-- [ ] The mistake is a specific behaviour with a specific consequence, not a
+- [ ] The mistake is a specific behavior with a specific consequence, not a
       category of risk
 - [ ] The play can be scheduled — steps, owners, honest effort estimate
 - [ ] Voice matches the existing entries

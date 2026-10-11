@@ -39,10 +39,10 @@ jobs:
           fetch-depth: 0
 
       # A blocklist of portfolio company names lives in the repository
-      # variable CONFIDENTIAL_TERMS (organisation settings → Variables), as a
+      # variable CONFIDENTIAL_TERMS (organization settings → Variables), as a
       # newline-separated list. It is deliberately not committed here.
       #
-      # This is a backstop, not the control. Anonymisation is the
+      # This is a backstop, not the control. Anonymization is the
       # contributor's responsibility, and for LookingGlass it happens inside
       # LookingGlass before a pull request is ever opened. See GOVERNANCE.md.
       - name: scan for blocked terms

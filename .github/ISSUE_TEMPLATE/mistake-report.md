@@ -14,7 +14,7 @@ labels: mistake-candidate
   do not include figures precise enough to identify a company.
 -->
 
-**The mistake, as a behaviour**
+**The mistake, as a behavior**
 
 <!-- What the company actually did. Not the category of risk — the specific
      thing. Compare the tone of the existing 170: short, blunt, earned. -->

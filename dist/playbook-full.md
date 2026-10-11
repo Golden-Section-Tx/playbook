@@ -1522,7 +1522,7 @@ A comprehensive budget addresses each of the key strategic goals fully. This mea
 
 Businesses morph and change. For a budget to be comprehensive, it must take change into account and not just consider past performance.
 
-An easy way to account for change is to precede budgeting with strategic planning. A comprehensive strategic planning process utilizes leadership and key roles within the company to design the most meaningful activities to focus on in the coming phase. The length of the phase is a year for most businesses. Next, a budget impact analysis should be created for each new strategic initiative. The analysis should then be incorporated into the budget and based on past performance.
+An easy way to account for change is to precede budgeting with strategic planning (see the Executive Execution play). A comprehensive strategic planning process utilizes leadership and key roles within the company to design the most meaningful activities to focus on in the coming phase. The length of the phase is a year for most businesses. Next, a budget impact analysis should be created for each new strategic initiative. The analysis should then be incorporated into the budget and based on past performance.
 
 #### Aligned
 
@@ -1540,14 +1540,14 @@ An aligned budget requires a few key items:
 
 #### Steps
 
-*Prerequisites:* Strategic planning playbook*.*
+*Prerequisites:* the Executive Execution play, whose Strategic Planning template sets the initiatives you budget for.
 
 1. **Prepare**: Create a budget planning packet that includes at minimum the following data:
     - Historical financials by business unit / department (by budgetary reporting area) on a monthly basis
-    - Strategic initiatives (per Strategic planning playbook), and
+    - Strategic initiatives (per the Executive Execution play and its Strategic Planning template), and
     - Known cost increase information (i.e. key payroll, key vendors, contract step ups, rent escalations, etc.)
 2. Meeting 1: Vision and Delegation
-    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per Strategic planning playbook) and set a budget leader for the company (usually the CFO or controller). Each strategic initiative must be assigned to a department or to a person if not department related.
+    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per the Executive Execution play and its Strategic Planning template) and set a budget leader for the company (usually the CFO or controller). Each strategic initiative must be assigned to a department or to a person if not department related.
     - Set vision and objectives for the budgeting process (ensure each budgetary reporting area leader has a clear understanding of the goal and her responsibility to design a budget that she will lead towards). Also set standards for how the budget should be reported (i.e. explain the exact format and how the budget reporting area leader should ensure it is realistic, comprehensive and aligned). Ensure these standards include examples of what sufficient backup evidence to the budget looks like.
     - Set a deadline for reporting the budget to the budget leader and a date and time for the next meeting (reporting to meeting gap should be at least 2-3 days). The budget leader is responsible for consolidating the reports into one larger document including evidence. For larger teams, the budget leader might also meet with each reporting area leader to critically assess the budget at least once before incorporating.
 3. Meeting 2: Budget Review and Defense
@@ -1648,11 +1648,11 @@ KPIs also give management decision leverage. Without a KPI, management may have 
 
 #### Steps
 
-*Prerequisites:* 1.1 Strategic Planning and 1 Executive Execution at a minimum.
+*Prerequisites:* Executive Execution (including its Strategic Planning template) at a minimum.
 
 1. **Prepare**: Review your one page strategic plan and the crucial numbers (as outlined in *Scaling Up* by Verne Harnish). Think through how each leader in your organization can support the crucial numbers and whether evidence of the efficacy and quantity of that support can be quantified. Share the prompting, the one page strategic plan, and the crucial numbers with each leader. Ask them to prepare a few metrics they believe are KPIs for their reporting area. They should also prepare a presentation justifying why that KPI measure supports the crucial number.
 2. Meeting 1: The Numbers
-    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per Strategic planning playbook).
+    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per the Executive Execution play and its Strategic Planning template).
     - Next, each leader should report on their KPIs. The team's focus in the room should be around whether that number is meaningful (see above) and aligned to support the crucial number.
     - Settle on the KPIs (no more than 2 per person) and incorporate them into a document. Each KPI needs to have a responsible party and someone accountable to calculate it.
     - Settle on acceptable ranges of the KPIs and the actions needed if/when the ranges are blown.
@@ -1691,7 +1691,7 @@ In addition to providing great proof for systems and processes at work, these me
 
 #### Steps
 
-*Prerequisites:* Strategic Planning, Budgeting, KPI Creation and Executive Execution at a minimum.
+*Prerequisites:* Executive Execution (including its Strategic Planning template), Budget Creation and KPI Dashboard Creation at a minimum.
 
 1. **Prepare**: Decide on the meeting rhythm for you and your team. The more frequent the meeting the faster the rhythm of the company. In the early days, weekly might be best. But the rhythm should also take into account the frequency of data collection which might only accommodate monthly meetings (budget vs actual for instance).
 2. **Pick a time & create the invites:** Set a time for your meetings and send out invites to the team members responsible to attend. These meetings should be attended by each team member as a hard and fast rule with no exceptions. As a result, pick a time that is unlikely to get interrupted by client engagement or other things (early morning for instance). Once set, don't change, don't cancel, don't accommodate.
@@ -1721,7 +1721,7 @@ In addition to providing great proof for systems and processes at work, these me
 
 Boards are widely misunderstood by SaaS founders. Most of the time, boards are comprised of friendly people who are a mix of too unqualified to add strategic value, or are too close to the founder or company to be bold in delivering needed criticism. A board isn't a group to which management needs to 'sell' the vision of the company. Nor is it a venue for delivering a bland report of information better conveyed through written reports than in a meeting. Boards are for dialogue and concise debate. If your board meetings are bland and boring, then you are doing it wrong.
 
-The role of a board is to represent the stakeholders of the business and assist management in maintaining equilibrium (see the Strategic Planning Play). Each member should be qualified and have a specific role. In the broader sense, a board member's legal role is settled, but the strategic role -- how they are adding value - can differ from person to person. Electing a board is important to get right.
+The role of a board is to represent the stakeholders of the business and assist management in maintaining equilibrium (see the Executive Execution play). Each member should be qualified and have a specific role. In the broader sense, a board member's legal role is settled, but the strategic role -- how they are adding value - can differ from person to person. Electing a board is important to get right.
 
 When operating correctly, a board gives management the following benefits:
 
@@ -2130,10 +2130,10 @@ Topgrading is the framework Golden Section uses for this. Companies that run it 
 #### Concerns
 
 1. Topgrading is long, structured, and document-heavy. It takes several times the hours of a normal hiring process, and that is the trade: you are spending days now to avoid spending quarters later. Do not start it and then abandon the documentation halfway — a half-run process gives you the cost without the benefit.
-2. Recent past behaviour is the best predictor of near-future behaviour. Look for patterns across jobs rather than one impressive story, and do not bet on the candidate changing a pattern that has held for a decade because they told you they will.
-3. Strengths presented as weaknesses are the most common evasion in the room. "I care too much" is not a weaker point. Keep asking until you get one you recognise as real, and treat the refusal to produce one as data.
+2. Recent past behavior is the best predictor of near-future behavior. Look for patterns across jobs rather than one impressive story, and do not bet on the candidate changing a pattern that has held for a decade because they told you they will.
+3. Strengths presented as weaknesses are the most common evasion in the room. "I care too much" is not a weaker point. Keep asking until you get one you recognize as real, and treat the refusal to produce one as data.
 4. Do not let an impressive candidate rewrite the scorecard. If the finalist is excellent at something the role does not need, you have found a good person for a different job. Changing the scorecard after meeting the candidate is how founders talk themselves into the hire they already wanted to make.
-5. Vetting technical talent without technical judgement in the room does not work, whatever the process. Borrow the competence — a fractional CTO, a venture partner, a trusted engineer — and have them sit the tandem interview.
+5. Vetting technical talent without technical judgment in the room does not work, whatever the process. Borrow the competence — a fractional CTO, a venture partner, a trusted engineer — and have them sit the tandem interview.
 
 ### How to Turn Exit Gaps Into a Sequenced, Multi-Quarter Roadmap
 
@@ -2460,7 +2460,7 @@ The answer is not to try harder at both jobs. It is to decide before the process
 #### Steps
 
 1. Name the deal team and keep it small. The founder, the CFO, and at most one or two others whose knowledge the diligence will need, usually the CTO and later the head of sales or customer success. Give the project a code name and use it everywhere: in calendar invites, file names, the data room, email subjects. Everyone on the team signs an acknowledgment that they know what confidential means here. Everyone not on the team does not know, and you plan as if they will find out anyway.
-2. Name the operator. Before launch, hand the running of the business to one person, a COO, president or strongest functional leader, with written decision rights for the period of the process: what they decide alone, what comes to you, and what waits. Tell the exec team that for the next six months operating questions go to that person. If you have done the Founder Independence play, this is the test it was built for. If you have not, this is where you find out how much the business still runs through you.
+2. Name the operator. Before launch, hand the running of the business to one person, a COO, president or strongest functional leader, with written decision rights for the period of the process: what they decide alone, what comes to you, and what waits. Tell the exec team that for the next six months operating questions go to that person. If you have done the Founder Independence (The Vacation Test) play, this is the test it was built for. If you have not, this is where you find out how much the business still runs through you.
 3. Protect the forecast. Re-base the plan to a number you expect to beat, publish it to the board before launch, and make it the number that goes into the CIM. Then run the business to beat it every month. Hold the weekly exec meeting from the Execution Operating System play without exception, with each leader reporting their scorecard numbers against plan, and have the operator run it when you cannot. Pipeline gets reviewed weekly as it always did; nobody gets to count a deal as closed because it would help the process. If a month is going to miss, the CFO tells the banker before the month closes, with the reason, so the buyer hears it from you with an explanation rather than from the numbers without one.
 4. Build the CIM and the management presentation with the banker, and own every number in them. The banker writes; you and the CFO check every figure against the data room and every claim against evidence a buyer can verify. A projection in the CIM is a promise you will be tested on for the rest of the process. Rehearse the management presentation at least three times with the deal team and a board member playing a skeptical buyer, and decide in advance who answers which questions. Put your operator in the room for at least part of it; a buyer who meets the person running the company is looking at a business that does not depend on you.
 5. Run diligence from one tracker. Every request from every buyer goes into a single log: request number, buyer, date received, owner, due date, status, and the data room location of the answer. The CFO owns the tracker and a deal-team member triages new requests daily. Answer from the data room rather than by email, so every buyer sees the same record. Where the answer is unflattering, write the explanation once, carefully, and use it everywhere. The Exit Data Room play should mean most requests are a link, not a project; the ones that are projects tell you where the data room was thin.
@@ -3391,7 +3391,7 @@ Finally, the true value proposition will only become clearer over time. Make it 
 
 How to price your product:
 
-1. *ROI*: This has previously been calculated in the Customer ROI play.
+1. *ROI*: This has previously been calculated in the Value Proposition & Customer ROI play.
 2. *Discount Factor*: Determining a discount factor is more art than science. As discussed above, a prospective customer will discount your ROI based on a number of factors, including time for value proposition to manifest, cost of problem you are solving (is this a big problem or a minor one?), probability of risk, and visibility of risk for which your product is solving. Generally, the discount factor will need to be higher the lower the risk, visibility, or cost of the problem and the longer the timeline before any value manifests. It is helpful to use the components below to judge your discount factor.
 3. *Customer Return*: Generally, we have found a 3x ROI in a 12 month period to be a compelling reason to purchase.
 4. *Discount Rate*: Generally, a customer will want to see some kind of economy of scale. Moreover, you want to incentivize the use of your product by additional users. To that end, it might be a good idea to offer a higher discount rate as more users are added to a subscription. Number of users might not be the best metric for your product; consider if number of providers, number of locations, or some other metric is more aligned with your value proposition.
@@ -3409,7 +3409,7 @@ How to price your product:
 
 #### Notes
 
-1. Keep it simple, silly. A simple pricing structure is easier for a sales team to manage, easier to use by an executive team making revenue forecasts and targets, and easier for a customer. As we discussed in the Funnel Creation play, we want to minimize friction and concerns at every point for prospects; a simple, straightforward pricing structure does that. A simple pricing structure is also easy for a sales rep to explain. Simplicity needs to be balanced with a pricing structure that allows your company to maximize revenue from customers based on their willingness to pay.
+1. Keep it simple, silly. A simple pricing structure is easier for a sales team to manage, easier to use by an executive team making revenue forecasts and targets, and easier for a customer. As we discussed in the Sales Funnel Creation play, we want to minimize friction and concerns at every point for prospects; a simple, straightforward pricing structure does that. A simple pricing structure is also easy for a sales rep to explain. Simplicity needs to be balanced with a pricing structure that allows your company to maximize revenue from customers based on their willingness to pay.
 2. You don't need to beat your competition on price but on the whole package.
 3. It's alright to price higher than you're comfortable with. First of all, if you price too low, a prospect may subconsciously undervalue your product and never convert. Think of a bottle of wine: you assume a $100 bottle of wine is of higher quality than a $10 bottle based on price tag alone. If you set a higher price point, you are implicitly setting yourself as a high-quality provider. However, you need to make sure you can deliver on this implicit promise.
 4. Another benefit to a higher price: The more customers pay, the more they will expect and so the more feedback they will give you in terms of bugs, product quality, realized value. Moreover, when you price higher, you engage customers in more detailed conversations regarding their needs, thresholds and priorities. Through this, you get much better insight into how a buyer perceives the value of your product. While this sounds like a burden rather than a blessing, feedback like this is crucial to developing a strong product, message and company.
@@ -3897,7 +3897,7 @@ Automated and AI outreach has made most digital channels crowded. A tool that wr
 
 #### Notes
 
-Count the whole cost of a channel. A live team has salaries, a dialer licence and management time. An AI tool has the licence, the data subscription and the hours someone spends editing its output. Divide by meetings held to get the number you actually pay.
+Count the whole cost of a channel. A live team has salaries, a dialer license and management time. An AI tool has the license, the data subscription and the hours someone spends editing its output. Divide by meetings held to get the number you actually pay.
 
 A channel that fails once has not failed forever. Markets with few buyers, regulated buyers or buyers who live at conferences can reward a channel that looks poor on volume. Weigh meetings by their close rate before you kill anything on volume alone.
 
@@ -4510,7 +4510,7 @@ As discussed in the Play: Customer Contract Playbook, Golden Section advocates f
 
 The terms regarding Dispute Interest Percentage and Late Payment Penalties are your leverage to prevent lengthy disputes and late payments, which can be very costly in terms of lost revenue, missed opportunities and time sucks for your company.
 
-It can take up to three years to get a judgement in the case of a dispute. If the case is decided in your favor, the customer is required to pay pre- and post-judgement dispute interest. Golden Section recommends including the highest dispute interest allowable by law in your contract to disincentivize a customer from engaging in a suit. Additionally, if the dispute rate is not specifically set in the customer contract, you are limited to the maximum set by the state. In Texas, the statutory dispute interest is 6% and in other states, it is de minimis.
+It can take up to three years to get a judgment in the case of a dispute. If the case is decided in your favor, the customer is required to pay pre- and post-judgment dispute interest. Golden Section recommends including the highest dispute interest allowable by law in your contract to disincentivize a customer from engaging in a suit. Additionally, if the dispute rate is not specifically set in the customer contract, you are limited to the maximum set by the state. In Texas, the statutory dispute interest is 6% and in other states, it is de minimis.
 
 Late payment penalties should be very punitive and clearly detailed. With some of our companies, Golden Section has set a high flat late fee, which we recommend because it is easy to understand and encourages on-time payments. A punitive late fee needs to be worded so that late payment causes default.
 
@@ -5895,7 +5895,7 @@ Two structural facts shape the response.
 
 Most companies at this stage should be fully at rung 1, partially at rung 2, and nowhere near rungs 3 and 4.
 
-#### Steps:
+#### Steps
 
 1. **Write down the failure modes and rank them.** For each of the three risks above, state what actually happens to your product, which customers notice first, and what your contracts oblige you to do about it.
 2. **Define degraded mode explicitly.** Which features must keep working, which may fail, and what does the customer see? Check this against your SLA and your master service agreements before you need it.
@@ -5904,7 +5904,7 @@ Most companies at this stage should be fully at rung 1, partially at rung 2, and
     - Do you have an evaluation suite that scores output quality, so you can tell whether the second provider is good enough?
     - **Is a share of production traffic continuously served by the second provider?** If the answer is "we could switch," the answer is no.
     - What is your gross margin at the second-best model? If it is materially worse, that is a pricing decision, not just an engineering one.
-4. **Size the insurance against revenue at risk, not against fear.** Work out the share of ARR that depends on the AI feature. Buy committed capacity in proportion to that number. Note that committed capacity is usually priced to break even only at very high sustained utilization—**budget it as an insurance premium, not as a discount**, and be sceptical of any account team that sells it as a saving.
+4. **Size the insurance against revenue at risk, not against fear.** Work out the share of ARR that depends on the AI feature. Buy committed capacity in proportion to that number. Note that committed capacity is usually priced to break even only at very high sustained utilization—**budget it as an insurance premium, not as a discount**, and be skeptical of any account team that sells it as a saving.
 5. **Diligence the vendors underneath your vendor.** For any hosting or infrastructure provider, ask for—and read:
     - The utility service or interconnection agreement **in the provider's own name**. A reseller cannot produce one, because the power contract belongs to whoever actually owns the facility. This is the single most diagnostic document.
     - The SOC 2 Type II **with the entity name on the cover checked**, and the carve-out section read. Controls carved out to a subservice organization are where reselling becomes visible.

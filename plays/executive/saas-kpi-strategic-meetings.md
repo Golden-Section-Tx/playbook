@@ -56,7 +56,7 @@ In addition to providing great proof for systems and processes at work, these me
 
 #### Steps
 
-*Prerequisites:* Strategic Planning, Budgeting, KPI Creation and Executive Execution at a minimum.
+*Prerequisites:* Executive Execution (including its Strategic Planning template), Budget Creation and KPI Dashboard Creation at a minimum.
 
 1. **Prepare**: Decide on the meeting rhythm for you and your team. The more frequent the meeting the faster the rhythm of the company. In the early days, weekly might be best. But the rhythm should also take into account the frequency of data collection which might only accommodate monthly meetings (budget vs actual for instance).
 2. **Pick a time & create the invites:** Set a time for your meetings and send out invites to the team members responsible to attend. These meetings should be attended by each team member as a hard and fast rule with no exceptions. As a result, pick a time that is unlikely to get interrupted by client engagement or other things (early morning for instance). Once set, don't change, don't cancel, don't accommodate.

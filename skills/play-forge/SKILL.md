@@ -16,7 +16,7 @@ Do not write a play from a description of the format, including this one. The fo
 | File | What it is |
 |---|---|
 | [`references/play-template.md`](references/play-template.md) | The scaffold. Copy it and fill it in. Correct key order, correct markers. |
-| [`references/play-anatomy.md`](references/play-anatomy.md) | Every field rule and every body convention, with how many of the 72 plays use each. The authority on everything the JSON schema cannot express. |
+| [`references/play-anatomy.md`](references/play-anatomy.md) | Every field rule and every body convention, with how common each is across the plays, as measured on 2026-08-26. The authority on everything the JSON schema cannot express. |
 | [`scripts/check_play.py`](scripts/check_play.py) | The validator. Run it before you commit. No dependencies. |
 
 Then read the nearest three existing plays in the category you are writing for. The template gets the structure right; only the real plays get the voice right.
@@ -73,7 +73,7 @@ curl -sS -O https://raw.githubusercontent.com/golden-section-tx/playbook/main/MI
 
    It checks required fields, key order, the closed vocabularies, slug-equals-filename, category-equals-folder, uniqueness of `order`/`slug`/`anchor` against the corpus, that every `preventsMistakes` number exists in `MISTAKES.md`, that every referenced template is on disk, the body conventions above, and a short list of filler phrases. Errors fail; warnings are conventions the corpus itself breaks occasionally and are worth a second look rather than obedience.
 
-   It passes all 72 existing plays, so a failure on yours means yours is the outlier.
+   It passes every play written to the template. Eleven of the oldest plays predate it and report structural errors (a missing Steps section or goal callout, or an off-vocabulary value). A failure on your draft that they share is not a reason to copy them.
 
 ## Steps — authoring a mistake
 

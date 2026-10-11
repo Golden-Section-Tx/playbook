@@ -14,7 +14,7 @@ mechanically, not by convention:
   request; only a maintainer can merge one. This is the control that matters,
   and it holds regardless of every other rule here.
 - `main` cannot be deleted and cannot be force-pushed — by anyone, maintainers
-  and organisation administrators included. That rule exists to make an
+  and organization administrators included. That rule exists to make an
   accident unrecoverable-proof, not to restrain anyone.
 - **Outside contributions arrive as a pull request** and cannot merge until
   continuous integration passes.

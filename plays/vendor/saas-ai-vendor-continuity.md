@@ -60,7 +60,7 @@ Two structural facts shape the response.
 
 Most companies at this stage should be fully at rung 1, partially at rung 2, and nowhere near rungs 3 and 4.
 
-#### Steps:
+#### Steps
 
 1. **Write down the failure modes and rank them.** For each of the three risks above, state what actually happens to your product, which customers notice first, and what your contracts oblige you to do about it.
 2. **Define degraded mode explicitly.** Which features must keep working, which may fail, and what does the customer see? Check this against your SLA and your master service agreements before you need it.
@@ -69,7 +69,7 @@ Most companies at this stage should be fully at rung 1, partially at rung 2, and
     - Do you have an evaluation suite that scores output quality, so you can tell whether the second provider is good enough?
     - **Is a share of production traffic continuously served by the second provider?** If the answer is "we could switch," the answer is no.
     - What is your gross margin at the second-best model? If it is materially worse, that is a pricing decision, not just an engineering one.
-4. **Size the insurance against revenue at risk, not against fear.** Work out the share of ARR that depends on the AI feature. Buy committed capacity in proportion to that number. Note that committed capacity is usually priced to break even only at very high sustained utilization—**budget it as an insurance premium, not as a discount**, and be sceptical of any account team that sells it as a saving.
+4. **Size the insurance against revenue at risk, not against fear.** Work out the share of ARR that depends on the AI feature. Buy committed capacity in proportion to that number. Note that committed capacity is usually priced to break even only at very high sustained utilization—**budget it as an insurance premium, not as a discount**, and be skeptical of any account team that sells it as a saving.
 5. **Diligence the vendors underneath your vendor.** For any hosting or infrastructure provider, ask for—and read:
     - The utility service or interconnection agreement **in the provider's own name**. A reseller cannot produce one, because the power contract belongs to whoever actually owns the facility. This is the single most diagnostic document.
     - The SOC 2 Type II **with the entity name on the cover checked**, and the carve-out section read. Controls carved out to a subservice organization are where reselling becomes visible.

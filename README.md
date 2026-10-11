@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-**86 plays and 170 mistakes for building a B2B vertical SaaS company.**
+**86 plays and 170 mistakes for building a B2B vertical SaaS company.** Free to read, fork and adapt under [CC BY-SA 4.0](LICENSE).
 
 Golden Section has spent more than a decade operating alongside vertical SaaS
 founders, and has watched over 400 companies make the same mistakes in roughly
@@ -10,7 +10,7 @@ every mistake we have seen, and the play that prevents each one.
 It is the same material we use with our own portfolio. It is open because a
 mistake nobody warned you about is a bad reason to lose a company.
 
-Dougal Cameron's [letter to founders](LETTER-TO-FOUNDERS.md) covers why we
+The [letter to founders](LETTER-TO-FOUNDERS.md), signed by Dougal Cameron, CEO & Co-Founder of Golden Section, covers why we
 published it, and how to tell the advice that is worth taking from the advice
 that is merely loud.
 
@@ -24,10 +24,10 @@ Plays by category: Executive 23 · Sales & Marketing 27 · Customer 11 · Operat
 
 | | |
 |---|---|
-| **[MISTAKES.md](MISTAKES.md)** | All 169, numbered, with the plays that prevent each one. Start here if something already hurts. |
+| **[MISTAKES.md](MISTAKES.md)** | All 170, numbered, with the plays that prevent each one. Start here if something already hurts. |
 | **[plays/](plays/README.md)** | The 86 plays, one Markdown file each — what to do, who owns it, how long it takes. Start here if you are building rather than firefighting. |
 | **[EXIT-PLAYBOOK.md](EXIT-PLAYBOOK.md)** | Eight plays, in order, from defining the exit you want to negotiating it. Start here if you are two years or less from a sale, or want to be ready for one. |
-| **[templates/](templates/)** | 60 working Excel templates, one or more per play. The actual models, not screenshots of them. |
+| **[templates/](templates/)** | 60 working Excel templates, attached to the plays that need a model. The actual models, not screenshots of them. |
 | **[EFFORT.md](EFFORT.md)** | What the story points on every play mean, in person-days — and what they do not mean. Read before scheduling anything. |
 | **[dist/playbook-full.md](dist/playbook-full.md)** | The entire corpus as one file. For feeding to an AI, or reading on a plane. |
 | **[skills/](skills/README.md)** | Nine agent skills that work the corpus with you — interview, triage, review what you have, turn a play into assigned work, watch for mistakes, contribute back. Plain Markdown, no dependencies. |
@@ -54,14 +54,19 @@ has the scale, including what it will not tell you. Category hubs are in
 with attribution and license in its header so both travel with the text. There
 is also [`llms.txt`](llms.txt) at the repository root.
 
-**If you want your own copy.** Fork it. To stay current:
+**If you want your own copy.** Fork it, or clone it. To stay current:
 
 ```bash
 git remote add upstream https://github.com/golden-section-tx/playbook.git
 git pull upstream main
 ```
 
-Your fork is yours. If you improve something and want it back in here, open a
+Keep your own material in [`workspace/`](workspace/README.md), which is never
+committed, and leave the plays and the mistakes list as they are. Then each
+`git pull upstream main` brings in our changes without a merge conflict. If you
+do edit a play, expect to resolve conflicts the next time we change it.
+
+Your copy is yours. If you improve something and want it back in here, open a
 pull request — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Using this with an AI assistant
@@ -71,7 +76,7 @@ The corpus is text, so any assistant can read it — point one at
 
 What that does not do is tell you *which* of the plays you should run, in
 what order, given the company you actually have. The [`skills/`](skills/README.md)
-folder is eight small instruction files that do. Copy them into your assistant,
+folder is nine small instruction files that do. Copy them into your assistant,
 and it can interview you, work out which of the mistakes on the list are live in your
 business right now, prescribe two or three plays rather than all of them, check
 the spreadsheets you already have against the plays that govern them, and turn a
@@ -118,9 +123,19 @@ along on a contribution branch, it says so and tells you how to fix it. It
 changes nothing by itself. It needs only Python 3.
 
 If you would rather keep your workspace in version control — it is a useful
-record, and a cofounder may want it — make your fork **private** and delete the
+record, and a cofounder may want it — keep a **private** copy and delete the
 `workspace` lines from `.gitignore`. That is a perfectly good setup. The risk
-lies only in a public fork.
+lies only in a public copy. GitHub will not let you make a fork of a public
+repository private, so create a new private repository instead, push a clone of
+this one into it, and keep this repository as `upstream`:
+
+```bash
+git clone https://github.com/golden-section-tx/playbook.git my-playbook
+cd my-playbook
+git remote rename origin upstream
+git remote add origin https://github.com/YOU/YOUR-PRIVATE-REPO.git
+git push -u origin main
+```
 
 ### What the skills are
 
@@ -137,6 +152,7 @@ lies only in a public fork.
 |---|---|
 | `play-hunt` | Meetings across many companies against the corpus, hunting patterns that deserve to be plays. |
 | `play-forge` | Write a play or a mistake to this repository's contract, and open the pull request. |
+| `leader-time-audit` | A leader's stated priorities against where their calendar, meetings and email show the time went. |
 
 Start with `playbook-triage` — it works before you have done anything else, on
 five questions asked out loud. The interview is what you do second, when you

@@ -44,7 +44,7 @@ format:           # OPTIONAL — only "html", used by exactly one play
 | `category` | `executive` · `sales-marketing` · `customer` · `operations` · `development` · `vendor` |
 | `players` | Founder · Exec Team · Board · CFO · COO · CTO · Legal · Sales Lead · SDR · CS Lead · Product · Product Manager · Engineering Lead · DevOps · Security Lead · Implementation · Implementation Lead |
 | `initialEffort` / `ongoingEffort` | One of the values in [`EFFORT.md`](../../../EFFORT.md), or `—` |
-| `frequency` | Continuous · Weekly · Monthly · Quarterly · Bi-Annually · Annual · As Needed · Per Customer · Per Project |
+| `frequency` | Continuous · Weekly · Monthly · Quarterly · Bi-Annually · Annual · As Needed · Per Customer · Per Hire · Per Project |
 | `stage` | Pre-Revenue · Early Traction · Growth · All Stages |
 | `format` | `html` — only where the body needs headings inside list items |
 

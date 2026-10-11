@@ -73,7 +73,7 @@ Automated and AI outreach has made most digital channels crowded. A tool that wr
 
 #### Notes
 
-Count the whole cost of a channel. A live team has salaries, a dialer licence and management time. An AI tool has the licence, the data subscription and the hours someone spends editing its output. Divide by meetings held to get the number you actually pay.
+Count the whole cost of a channel. A live team has salaries, a dialer license and management time. An AI tool has the license, the data subscription and the hours someone spends editing its output. Divide by meetings held to get the number you actually pay.
 
 A channel that fails once has not failed forever. Markets with few buyers, regulated buyers or buyers who live at conferences can reward a channel that looks poor on volume. Weigh meetings by their close rate before you kill anything on volume alone.
 

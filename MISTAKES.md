@@ -4,7 +4,7 @@ Every mistake we have watched B2B software founders make, across more than 400
 companies — and the play that prevents each one.
 
 This file is the canonical list. Each entry carries a stable anchor
-(`#m001` … `#m161`) so it can be cited from anywhere and the citation keeps
+(`#m001` onward) so it can be cited from anywhere and the citation keeps
 working when wording changes. The **Prevented by** lines are generated from the
 plays themselves — see [CONTRIBUTING.md](CONTRIBUTING.md) before editing them by
 hand.

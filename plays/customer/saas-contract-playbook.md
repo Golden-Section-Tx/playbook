@@ -146,7 +146,7 @@ As discussed in the Play: Customer Contract Playbook, Golden Section advocates f
 
 The terms regarding Dispute Interest Percentage and Late Payment Penalties are your leverage to prevent lengthy disputes and late payments, which can be very costly in terms of lost revenue, missed opportunities and time sucks for your company.
 
-It can take up to three years to get a judgement in the case of a dispute. If the case is decided in your favor, the customer is required to pay pre- and post-judgement dispute interest. Golden Section recommends including the highest dispute interest allowable by law in your contract to disincentivize a customer from engaging in a suit. Additionally, if the dispute rate is not specifically set in the customer contract, you are limited to the maximum set by the state. In Texas, the statutory dispute interest is 6% and in other states, it is de minimis.
+It can take up to three years to get a judgment in the case of a dispute. If the case is decided in your favor, the customer is required to pay pre- and post-judgment dispute interest. Golden Section recommends including the highest dispute interest allowable by law in your contract to disincentivize a customer from engaging in a suit. Additionally, if the dispute rate is not specifically set in the customer contract, you are limited to the maximum set by the state. In Texas, the statutory dispute interest is 6% and in other states, it is de minimis.
 
 Late payment penalties should be very punitive and clearly detailed. With some of our companies, Golden Section has set a high flat late fee, which we recommend because it is easy to understand and encourages on-time payments. A punitive late fee needs to be worded so that late payment causes default.
 

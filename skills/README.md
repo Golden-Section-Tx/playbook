@@ -31,8 +31,8 @@ right now, and what to do about it on Monday.**
 | File | What it is |
 |---|---|
 | [`play-forge/references/play-template.md`](play-forge/references/play-template.md) | The scaffold. Correct frontmatter key order, correct body markers. |
-| [`play-forge/references/play-anatomy.md`](play-forge/references/play-anatomy.md) | Every field rule and body convention, with how many of the 72 plays use each. |
-| [`play-forge/scripts/check_play.py`](play-forge/scripts/check_play.py) | `python3 check_play.py DRAFT.md --corpus .` — validates a draft. No dependencies. Passes all 72 existing plays. |
+| [`play-forge/references/play-anatomy.md`](play-forge/references/play-anatomy.md) | Every field rule and body convention, with how common each is across the plays, as measured on 2026-08-26. |
+| [`play-forge/scripts/check_play.py`](play-forge/scripts/check_play.py) | `python3 check_play.py DRAFT.md --corpus .` — validates a draft. No dependencies. Passes every play written to the template; the eleven oldest plays predate it and report structural errors that are not a model to copy. |
 
 ## Shared
 

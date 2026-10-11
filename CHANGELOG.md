@@ -67,6 +67,24 @@ recorded as removed rather than renumbered.
 
 ### Changed
 
+- **Quality pass across the corpus.** Counts and ranges brought current (README and
+  CONTRIBUTING said 169; `MISTAKES.md` and `mistake-watch` still said anchors end at
+  `#m161`; the contributor example used a mistake number already taken, now `m171`).
+  `CONTRIBUTING.md` now says `npm run check`, since npm does not pass `--check`
+  through `npm run build`. README lists all nine skills, says the playbook is free,
+  gives the signatory's role, and its fork guidance now explains how to keep a
+  private copy (GitHub will not make a fork of a public repository private) and how
+  to pull updates cleanly. `playbook-triage` stage counts, its mistake-floor line and
+  its description corrected. Three skill docs no longer claim the validator passes
+  every play, because the eleven oldest plays predate the template; "Per Hire" added
+  to the frequency vocabulary for Hiring A Players (Topgrading).
+- **Strategic Planning prerequisites.** Plays that named a "Strategic Planning" play
+  as a prerequisite (Budget Creation, KPI Dashboard Creation, KPI & Strategic
+  Meetings, Board of Directors) now point to Executive Execution, which carries the
+  Strategic Planning template. Three cross-references corrected to match play titles.
+- **Spelling** made American throughout (license, behavior, judgment, recognize,
+  skeptical, organization, anonymization). `AI Vendor Continuity` now uses the
+  corpus's `#### Steps` heading.
 - **Stale counts corrected.** Hand-authored counts moved to 86 plays, 170 mistakes and 60
   templates in `README.md`, `package.json`, `templates/README.md` and the three
   skills that quote them (`play-hunt`, `context-interview`, `field-report`).
