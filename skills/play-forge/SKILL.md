@@ -114,4 +114,4 @@ First-time contributors sign the CLA — a bot handles it, and it takes a click.
 - **The graph has one source of truth** — `preventsMistakes:` in the play's frontmatter. To link a play to a mistake, add the number there and rebuild. Never hand-write a link in the other direction.
 - **A template is not the play.** The spreadsheet is the artifact; the play is the process that produces something true to put in it. Do not ship a play whose whole content is "fill in the template".
 - **Re-measure rather than trust this file.** The counts in `references/play-anatomy.md` describe the corpus as it was when this skill shipped. After a release that adds plays, re-run the measurement before treating a convention as settled.
-- Content here is CC BY-SA 4.0 and the scripts are MIT; the Golden Section name, logo, and marks are not licensed. Anything drafted with this skill inherits those terms.
+- The skill files and everything you draft are CC BY-SA 4.0, and the Python helper is MIT; the Golden Section name, logo, and marks are not licensed. Anything drafted with this skill inherits those terms.

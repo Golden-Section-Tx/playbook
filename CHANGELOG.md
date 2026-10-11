@@ -67,6 +67,7 @@ recorded as removed rather than renumbered.
 
 ### Changed
 
+- **Licensing now covers `skills/`.** The skills' Markdown instruction files are CC BY-SA 4.0 like the rest of the content, and the Python helper inside them (`check_play.py`) is MIT like the other scripts. `NOTICE`, `LICENSE-CODE`, the README and the skills docs say so; before this, `skills/` was covered by neither.
 - **Quality pass across the corpus.** Counts and ranges brought current (README and
   CONTRIBUTING said 169; `MISTAKES.md` and `mistake-watch` still said anchors end at
   `#m161`; the contributor example used a mistake number already taken, now `m171`).

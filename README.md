@@ -160,13 +160,13 @@ have decided this is worth fifteen minutes.
 
 ## License, plainly
 
-The content — plays, mistakes, templates — is licensed
+The content — plays, mistakes, templates, and the skills' instruction files — is licensed
 **[CC BY-SA 4.0](LICENSE)**. You may use it, adapt it, and build commercial
 things with it. Two conditions: credit Golden Section, and license your
 adaptations under the same terms so they stay available to the founders who come
 after you.
 
-The scripts and schemas are [MIT](LICENSE-CODE). The Golden Section name, logo
+The scripts and schemas, including the Python helper inside `skills/`, are [MIT](LICENSE-CODE). The Golden Section name, logo
 and marks are **not** licensed — see [NOTICE](NOTICE).
 
 **If ShareAlike is a genuine obstacle to getting this in front of founders, ask

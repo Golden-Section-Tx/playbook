@@ -93,5 +93,5 @@ Same terms as the rest of the repository — see
 to merge, and these have been used against a real portfolio but not against
 yours. If a step is wrong for how your company works, that is worth an issue.
 
-Content is [CC BY-SA 4.0](../LICENSE); the scripts are [MIT](../LICENSE-CODE).
+The skill files are [CC BY-SA 4.0](../LICENSE); the Python helper inside them is [MIT](../LICENSE-CODE).
 The Golden Section name and marks are not licensed; see [NOTICE](../NOTICE).

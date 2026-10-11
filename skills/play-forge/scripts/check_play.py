@@ -7,7 +7,7 @@ cross-checks a corpus directory when one is given: uniqueness of order/slug/
 anchor, that every preventsMistakes number exists, and that every referenced
 template file is on disk.
 
-No third-party dependencies. Python 3.8+.
+No third-party dependencies. Python 3.8+. MIT License (see LICENSE-CODE).
 
     python3 check_play.py DRAFT.md
     python3 check_play.py DRAFT.md --corpus /path/to/playbook
