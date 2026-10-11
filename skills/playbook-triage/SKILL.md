@@ -1,11 +1,11 @@
 ---
 name: playbook-triage
-description: Diagnoses which of the 170 Golden Section mistakes are live in your company, prescribes at most three plays to run now in prerequisite order, states plainly what is being skipped and which numbered mistake each skip accepts, and records in workspace/commitments.md only the plays you explicitly say yes to — use when deciding what to run this quarter, when the playbook feels like 72 things at once, or when someone asks "where do we start".
+description: Diagnoses which of the 170 Golden Section mistakes are live in your company, prescribes at most three plays to run now in prerequisite order, states plainly what is being skipped and which numbered mistake each skip accepts, and records in workspace/commitments.md only the plays you explicitly say yes to — use when deciding what to run this quarter, when the playbook feels like too many things at once, or when someone asks "where do we start".
 ---
 
 # playbook-triage
 
-Eighty-six plays, 170 mistakes, one quarter, one team that is already busy. Triage is the skill that turns that into three things and a written record of what you chose not to do.
+Eighty-seven plays, 170 mistakes, one quarter, one team that is already busy. Triage is the skill that turns that into three things and a written record of what you chose not to do.
 
 The hard part is not finding a play worth running. Almost all of them are. The hard part is being honest about the sixty you are skipping, so that when one of those mistakes lands you recognize it as a decision you made rather than a surprise.
 
@@ -64,7 +64,7 @@ Any prescription resting on a conflicted input is **provisional**, labeled as su
 
 ## Stage is a note, and the tax runs one way
 
-Verify this against the corpus rather than trusting the count here — 26 plays are tagged `Pre-Revenue`, 28 `Early Traction`, only 8 `Growth`, and one (Executive Execution) `All Stages`. There is no dense set of late-stage plays to graduate into.
+Verify this against the corpus rather than trusting the count here — at the last count 27 plays are tagged `Pre-Revenue`, 40 `Early Traction`, 19 `Growth`, and one (Executive Execution) `All Stages`. The late-stage set is smaller than the early one, but it is a real set to graduate into.
 
 The consequence: **a Pre-Revenue play at a Growth company is not a mismatch. It is a skipped foundation**, and it is frequently the highest-leverage thing available — Budget Creation, Sales Philosophy, Pricing Matrix, the Vendor Contract Register. Prescribe it without apology, and say what it costs to have skipped it this long.
 
@@ -78,7 +78,7 @@ Read the play, then decide. Three failure modes, all seen in real runs:
 
 - **The prerequisite is inside the play.** Cash Flow Forecast's step 1 *is* the unit-economics whiteboard session. Prescribing Unit Economics first spends 8 SP to buy a step the founder is about to run anyway.
 - **The prerequisite is genuinely missing.** Then the prerequisite *is* the prescription, and the play that needs it moves to "Not now" with a named condition. Pipeline Management & Review builds on the PDCA loop from Quality Management System and on stage criteria from Pipeline Creation; without those it becomes a status meeting.
-- **The prerequisite does not exist in the corpus.** Four executive plays name a Strategic Planning playbook as a prerequisite, and there is no Strategic Planning play. Say so in the output rather than substituting a play that sounds close. It is also a decent candidate for `play-hunt`.
+- **The prerequisite does not exist in the corpus.** Say so in the output rather than substituting a play that sounds close. It is also a decent candidate for `play-hunt`. First check the name against the play titles and against renamed plays: older plays named a Strategic Planning play as a prerequisite, and that play is now Executive Execution, which carries the Strategic Planning template.
 
 ## Capacity, in person-days
 
@@ -108,7 +108,7 @@ Mandatory. For every play you considered and cut: the play, the mistake numbers 
 
 **Sole-preventer escalation.** 53 of the 170 mistakes have exactly one play preventing them. Where a cut accepts a mistake you marked `confirmed`, whose cost is high, and whose *only* preventer in the corpus is the play being cut, that acceptance does not sit in the table. Pull it above the table, in one sentence, with the condition that would reverse it. Cutting Cash Flow Forecast at a company with nine months of runway accepts [#142](../../MISTAKES.md#m142) and [#136](../../MISTAKES.md#m136) with nothing else in the corpus standing behind them.
 
-And note the floor: 12 mistakes have no preventing play at all. If a live mistake is one of them, no prescription will cover it — say that instead of prescribing something adjacent.
+And note the floor: a few mistakes have no preventing play at all (the counts block at the top of `MISTAKES.md` says how many). If a live mistake is one of them, no prescription will cover it — say that instead of prescribing something adjacent.
 
 ## With no context file
 

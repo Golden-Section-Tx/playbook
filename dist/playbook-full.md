@@ -1,6 +1,6 @@
 # The Golden Section Playbook — complete corpus
 
-86 plays and 170 mistakes for building a B2B vertical SaaS company,
+87 plays and 170 mistakes for building a B2B vertical SaaS company,
 in one file.
 
 **Source:** https://github.com/golden-section-tx/playbook
@@ -411,7 +411,7 @@ Prevented by: Contract Playbook, Product Roadmap Process.
 
 Implementations are vital to customers experiencing the promised value. They need to be meticulously architected.
 
-Prevented by: Implementation Project Lifecycle.
+Prevented by: Implementation Project Lifecycle, Implementation Hours Tracking.
 
 ## Mistake 51 · Hourly not to exceed $x contracts
 
@@ -679,7 +679,7 @@ Prevented by: Account Management Process, Churn Identification Process.
 
 Own what you can, but put boundaries on frustrated customers and don't own what you aren't responsible for.
 
-Prevented by: Account Management Process, Implementation Hours Tracking.
+Prevented by: Account Management Process, CSAT Scores.
 
 ## Mistake 85 · Ignoring rev-rec
 
@@ -973,7 +973,7 @@ Prevented by: Product Engineering Process.
 
 Some customers need to extract a pound of flesh to feel good about a transaction. Its best to have options in your contract that allow you to give that accommodation while still preserving your business. Set a couple out of market elements in the contract.
 
-Prevented by: Contract Playbook.
+Prevented by: Contract Playbook, Implementation Hours Tracking.
 
 ## Mistake 122 · Not firing a customer
 
@@ -1149,7 +1149,7 @@ Prevented by: Cash Flow Forecast.
 
 If you ask someone for what they’re pissed about, you’ll get an answer… if a trash collection company asks people if they smell something, they will smell it whether they actually can or not. Don’t put discontentment in your customers’ mind.
 
-Prevented by: Net Promoter Score (NPS), Implementation Hours Tracking.
+Prevented by: Net Promoter Score (NPS), CSAT Scores.
 
 ## Mistake 144 · Waiting for the perfect product before selling
 
@@ -1522,7 +1522,7 @@ A comprehensive budget addresses each of the key strategic goals fully. This mea
 
 Businesses morph and change. For a budget to be comprehensive, it must take change into account and not just consider past performance.
 
-An easy way to account for change is to precede budgeting with strategic planning. A comprehensive strategic planning process utilizes leadership and key roles within the company to design the most meaningful activities to focus on in the coming phase. The length of the phase is a year for most businesses. Next, a budget impact analysis should be created for each new strategic initiative. The analysis should then be incorporated into the budget and based on past performance.
+An easy way to account for change is to precede budgeting with strategic planning (see the Executive Execution play). A comprehensive strategic planning process utilizes leadership and key roles within the company to design the most meaningful activities to focus on in the coming phase. The length of the phase is a year for most businesses. Next, a budget impact analysis should be created for each new strategic initiative. The analysis should then be incorporated into the budget and based on past performance.
 
 #### Aligned
 
@@ -1540,14 +1540,14 @@ An aligned budget requires a few key items:
 
 #### Steps
 
-*Prerequisites:* Strategic planning playbook*.*
+*Prerequisites:* the Executive Execution play, whose Strategic Planning template sets the initiatives you budget for.
 
 1. **Prepare**: Create a budget planning packet that includes at minimum the following data:
     - Historical financials by business unit / department (by budgetary reporting area) on a monthly basis
-    - Strategic initiatives (per Strategic planning playbook), and
+    - Strategic initiatives (per the Executive Execution play and its Strategic Planning template), and
     - Known cost increase information (i.e. key payroll, key vendors, contract step ups, rent escalations, etc.)
 2. Meeting 1: Vision and Delegation
-    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per Strategic planning playbook) and set a budget leader for the company (usually the CFO or controller). Each strategic initiative must be assigned to a department or to a person if not department related.
+    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per the Executive Execution play and its Strategic Planning template) and set a budget leader for the company (usually the CFO or controller). Each strategic initiative must be assigned to a department or to a person if not department related.
     - Set vision and objectives for the budgeting process (ensure each budgetary reporting area leader has a clear understanding of the goal and her responsibility to design a budget that she will lead towards). Also set standards for how the budget should be reported (i.e. explain the exact format and how the budget reporting area leader should ensure it is realistic, comprehensive and aligned). Ensure these standards include examples of what sufficient backup evidence to the budget looks like.
     - Set a deadline for reporting the budget to the budget leader and a date and time for the next meeting (reporting to meeting gap should be at least 2-3 days). The budget leader is responsible for consolidating the reports into one larger document including evidence. For larger teams, the budget leader might also meet with each reporting area leader to critically assess the budget at least once before incorporating.
 3. Meeting 2: Budget Review and Defense
@@ -1648,11 +1648,11 @@ KPIs also give management decision leverage. Without a KPI, management may have 
 
 #### Steps
 
-*Prerequisites:* 1.1 Strategic Planning and 1 Executive Execution at a minimum.
+*Prerequisites:* Executive Execution (including its Strategic Planning template) at a minimum.
 
 1. **Prepare**: Review your one page strategic plan and the crucial numbers (as outlined in *Scaling Up* by Verne Harnish). Think through how each leader in your organization can support the crucial numbers and whether evidence of the efficacy and quantity of that support can be quantified. Share the prompting, the one page strategic plan, and the crucial numbers with each leader. Ask them to prepare a few metrics they believe are KPIs for their reporting area. They should also prepare a presentation justifying why that KPI measure supports the crucial number.
 2. Meeting 1: The Numbers
-    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per Strategic planning playbook).
+    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per the Executive Execution play and its Strategic Planning template).
     - Next, each leader should report on their KPIs. The team's focus in the room should be around whether that number is meaningful (see above) and aligned to support the crucial number.
     - Settle on the KPIs (no more than 2 per person) and incorporate them into a document. Each KPI needs to have a responsible party and someone accountable to calculate it.
     - Settle on acceptable ranges of the KPIs and the actions needed if/when the ranges are blown.
@@ -1691,7 +1691,7 @@ In addition to providing great proof for systems and processes at work, these me
 
 #### Steps
 
-*Prerequisites:* Strategic Planning, Budgeting, KPI Creation and Executive Execution at a minimum.
+*Prerequisites:* Executive Execution (including its Strategic Planning template), Budget Creation and KPI Dashboard Creation at a minimum.
 
 1. **Prepare**: Decide on the meeting rhythm for you and your team. The more frequent the meeting the faster the rhythm of the company. In the early days, weekly might be best. But the rhythm should also take into account the frequency of data collection which might only accommodate monthly meetings (budget vs actual for instance).
 2. **Pick a time & create the invites:** Set a time for your meetings and send out invites to the team members responsible to attend. These meetings should be attended by each team member as a hard and fast rule with no exceptions. As a result, pick a time that is unlikely to get interrupted by client engagement or other things (early morning for instance). Once set, don't change, don't cancel, don't accommodate.
@@ -1721,7 +1721,7 @@ In addition to providing great proof for systems and processes at work, these me
 
 Boards are widely misunderstood by SaaS founders. Most of the time, boards are comprised of friendly people who are a mix of too unqualified to add strategic value, or are too close to the founder or company to be bold in delivering needed criticism. A board isn't a group to which management needs to 'sell' the vision of the company. Nor is it a venue for delivering a bland report of information better conveyed through written reports than in a meeting. Boards are for dialogue and concise debate. If your board meetings are bland and boring, then you are doing it wrong.
 
-The role of a board is to represent the stakeholders of the business and assist management in maintaining equilibrium (see the Strategic Planning Play). Each member should be qualified and have a specific role. In the broader sense, a board member's legal role is settled, but the strategic role -- how they are adding value - can differ from person to person. Electing a board is important to get right.
+The role of a board is to represent the stakeholders of the business and assist management in maintaining equilibrium (see the Executive Execution play). Each member should be qualified and have a specific role. In the broader sense, a board member's legal role is settled, but the strategic role -- how they are adding value - can differ from person to person. Electing a board is important to get right.
 
 When operating correctly, a board gives management the following benefits:
 
@@ -2130,10 +2130,10 @@ Topgrading is the framework Golden Section uses for this. Companies that run it 
 #### Concerns
 
 1. Topgrading is long, structured, and document-heavy. It takes several times the hours of a normal hiring process, and that is the trade: you are spending days now to avoid spending quarters later. Do not start it and then abandon the documentation halfway — a half-run process gives you the cost without the benefit.
-2. Recent past behaviour is the best predictor of near-future behaviour. Look for patterns across jobs rather than one impressive story, and do not bet on the candidate changing a pattern that has held for a decade because they told you they will.
-3. Strengths presented as weaknesses are the most common evasion in the room. "I care too much" is not a weaker point. Keep asking until you get one you recognise as real, and treat the refusal to produce one as data.
+2. Recent past behavior is the best predictor of near-future behavior. Look for patterns across jobs rather than one impressive story, and do not bet on the candidate changing a pattern that has held for a decade because they told you they will.
+3. Strengths presented as weaknesses are the most common evasion in the room. "I care too much" is not a weaker point. Keep asking until you get one you recognize as real, and treat the refusal to produce one as data.
 4. Do not let an impressive candidate rewrite the scorecard. If the finalist is excellent at something the role does not need, you have found a good person for a different job. Changing the scorecard after meeting the candidate is how founders talk themselves into the hire they already wanted to make.
-5. Vetting technical talent without technical judgement in the room does not work, whatever the process. Borrow the competence — a fractional CTO, a venture partner, a trusted engineer — and have them sit the tandem interview.
+5. Vetting technical talent without technical judgment in the room does not work, whatever the process. Borrow the competence — a fractional CTO, a venture partner, a trusted engineer — and have them sit the tandem interview.
 
 ### How to Turn Exit Gaps Into a Sequenced, Multi-Quarter Roadmap
 
@@ -2460,7 +2460,7 @@ The answer is not to try harder at both jobs. It is to decide before the process
 #### Steps
 
 1. Name the deal team and keep it small. The founder, the CFO, and at most one or two others whose knowledge the diligence will need, usually the CTO and later the head of sales or customer success. Give the project a code name and use it everywhere: in calendar invites, file names, the data room, email subjects. Everyone on the team signs an acknowledgment that they know what confidential means here. Everyone not on the team does not know, and you plan as if they will find out anyway.
-2. Name the operator. Before launch, hand the running of the business to one person, a COO, president or strongest functional leader, with written decision rights for the period of the process: what they decide alone, what comes to you, and what waits. Tell the exec team that for the next six months operating questions go to that person. If you have done the Founder Independence play, this is the test it was built for. If you have not, this is where you find out how much the business still runs through you.
+2. Name the operator. Before launch, hand the running of the business to one person, a COO, president or strongest functional leader, with written decision rights for the period of the process: what they decide alone, what comes to you, and what waits. Tell the exec team that for the next six months operating questions go to that person. If you have done the Founder Independence (The Vacation Test) play, this is the test it was built for. If you have not, this is where you find out how much the business still runs through you.
 3. Protect the forecast. Re-base the plan to a number you expect to beat, publish it to the board before launch, and make it the number that goes into the CIM. Then run the business to beat it every month. Hold the weekly exec meeting from the Execution Operating System play without exception, with each leader reporting their scorecard numbers against plan, and have the operator run it when you cannot. Pipeline gets reviewed weekly as it always did; nobody gets to count a deal as closed because it would help the process. If a month is going to miss, the CFO tells the banker before the month closes, with the reason, so the buyer hears it from you with an explanation rather than from the numbers without one.
 4. Build the CIM and the management presentation with the banker, and own every number in them. The banker writes; you and the CFO check every figure against the data room and every claim against evidence a buyer can verify. A projection in the CIM is a promise you will be tested on for the rest of the process. Rehearse the management presentation at least three times with the deal team and a board member playing a skeptical buyer, and decide in advance who answers which questions. Put your operator in the room for at least part of it; a buyer who meets the person running the company is looking at a business that does not depend on you.
 5. Run diligence from one tracker. Every request from every buyer goes into a single log: request number, buyer, date received, owner, due date, status, and the data room location of the answer. The CFO owns the tracker and a deal-team member triages new requests daily. Answer from the data room rather than by email, so every buyer sees the same record. Where the answer is unflattering, write the explanation once, carefully, and use it everywhere. The Exit Data Room play should mean most requests are a link, not a project; the ones that are projects tell you where the data room was thin.
@@ -3391,7 +3391,7 @@ Finally, the true value proposition will only become clearer over time. Make it 
 
 How to price your product:
 
-1. *ROI*: This has previously been calculated in the Customer ROI play.
+1. *ROI*: This has previously been calculated in the Value Proposition & Customer ROI play.
 2. *Discount Factor*: Determining a discount factor is more art than science. As discussed above, a prospective customer will discount your ROI based on a number of factors, including time for value proposition to manifest, cost of problem you are solving (is this a big problem or a minor one?), probability of risk, and visibility of risk for which your product is solving. Generally, the discount factor will need to be higher the lower the risk, visibility, or cost of the problem and the longer the timeline before any value manifests. It is helpful to use the components below to judge your discount factor.
 3. *Customer Return*: Generally, we have found a 3x ROI in a 12 month period to be a compelling reason to purchase.
 4. *Discount Rate*: Generally, a customer will want to see some kind of economy of scale. Moreover, you want to incentivize the use of your product by additional users. To that end, it might be a good idea to offer a higher discount rate as more users are added to a subscription. Number of users might not be the best metric for your product; consider if number of providers, number of locations, or some other metric is more aligned with your value proposition.
@@ -3409,7 +3409,7 @@ How to price your product:
 
 #### Notes
 
-1. Keep it simple, silly. A simple pricing structure is easier for a sales team to manage, easier to use by an executive team making revenue forecasts and targets, and easier for a customer. As we discussed in the Funnel Creation play, we want to minimize friction and concerns at every point for prospects; a simple, straightforward pricing structure does that. A simple pricing structure is also easy for a sales rep to explain. Simplicity needs to be balanced with a pricing structure that allows your company to maximize revenue from customers based on their willingness to pay.
+1. Keep it simple, silly. A simple pricing structure is easier for a sales team to manage, easier to use by an executive team making revenue forecasts and targets, and easier for a customer. As we discussed in the Sales Funnel Creation play, we want to minimize friction and concerns at every point for prospects; a simple, straightforward pricing structure does that. A simple pricing structure is also easy for a sales rep to explain. Simplicity needs to be balanced with a pricing structure that allows your company to maximize revenue from customers based on their willingness to pay.
 2. You don't need to beat your competition on price but on the whole package.
 3. It's alright to price higher than you're comfortable with. First of all, if you price too low, a prospect may subconsciously undervalue your product and never convert. Think of a bottle of wine: you assume a $100 bottle of wine is of higher quality than a $10 bottle based on price tag alone. If you set a higher price point, you are implicitly setting yourself as a high-quality provider. However, you need to make sure you can deliver on this implicit promise.
 4. Another benefit to a higher price: The more customers pay, the more they will expect and so the more feedback they will give you in terms of bugs, product quality, realized value. Moreover, when you price higher, you engage customers in more detailed conversations regarding their needs, thresholds and priorities. Through this, you get much better insight into how a buyer perceives the value of your product. While this sounds like a burden rather than a blessing, feedback like this is crucial to developing a strong product, message and company.
@@ -3897,7 +3897,7 @@ Automated and AI outreach has made most digital channels crowded. A tool that wr
 
 #### Notes
 
-Count the whole cost of a channel. A live team has salaries, a dialer licence and management time. An AI tool has the licence, the data subscription and the hours someone spends editing its output. Divide by meetings held to get the number you actually pay.
+Count the whole cost of a channel. A live team has salaries, a dialer license and management time. An AI tool has the license, the data subscription and the hours someone spends editing its output. Divide by meetings held to get the number you actually pay.
 
 A channel that fails once has not failed forever. Markets with few buyers, regulated buyers or buyers who live at conferences can reward a channel that looks poor on volume. Weigh meetings by their close rate before you kill anything on volume alone.
 
@@ -4510,7 +4510,7 @@ As discussed in the Play: Customer Contract Playbook, Golden Section advocates f
 
 The terms regarding Dispute Interest Percentage and Late Payment Penalties are your leverage to prevent lengthy disputes and late payments, which can be very costly in terms of lost revenue, missed opportunities and time sucks for your company.
 
-It can take up to three years to get a judgement in the case of a dispute. If the case is decided in your favor, the customer is required to pay pre- and post-judgement dispute interest. Golden Section recommends including the highest dispute interest allowable by law in your contract to disincentivize a customer from engaging in a suit. Additionally, if the dispute rate is not specifically set in the customer contract, you are limited to the maximum set by the state. In Texas, the statutory dispute interest is 6% and in other states, it is de minimis.
+It can take up to three years to get a judgment in the case of a dispute. If the case is decided in your favor, the customer is required to pay pre- and post-judgment dispute interest. Golden Section recommends including the highest dispute interest allowable by law in your contract to disincentivize a customer from engaging in a suit. Additionally, if the dispute rate is not specifically set in the customer contract, you are limited to the maximum set by the state. In Texas, the statutory dispute interest is 6% and in other states, it is de minimis.
 
 Late payment penalties should be very punitive and clearly detailed. With some of our companies, Golden Section has set a high flat late fee, which we recommend because it is easy to understand and encourages on-time payments. A punitive late fee needs to be worded so that late payment causes default.
 
@@ -4813,7 +4813,9 @@ Use the Best Practices above to guide your IPLC but tailor it to your company's 
 
 **Summary:** Track the man hours required to fully implement each new customer so you can price implementation fees accurately, invoice overages, and evidence implementation costs at exit.
 
-**Prevents mistakes:** #84 Apologize for poor performance, but don't own what you don't own; #143 Inviting customer discontent
+**Prevents mistakes:** #50 Unstructured implementations; #121 Failing to incorporate contingency in customer contracting
+
+**Templates:** Implementation & Support CSat Scores Template
 
 Implementation can be time-intensive and costly to your company. Often SaaS companies with products that require a more customized or intensive implementation process will charge their customers an upfront implementation fee in addition to the monthly recurring subscription fee. Since an implementation fee will be calculated based on estimates of the time and labor required to onboard a customer prior to actual implementation, it is important to track your inputs so that you can accurately estimate and then charge your company's cost to implement, plus margin.
 
@@ -4823,7 +4825,7 @@ Implementation can be time-intensive and costly to your company. Often SaaS comp
 
 #### Steps
 
-1. Use the PDCA methodology described in Play: Quality Management Systems and the template provided to create a process for tracking implementation man hours by customer. Considerations:
+1. Use the PDCA methodology described in Play: Quality Management Systems and the Implementation Hours tab of the template provided to create a process for tracking implementation man hours by customer. Considerations:
     - What is considered an implementation activity?
     - Where/how should it be tracked?
     - Do we want to set targets for implementation hours per customer?
@@ -4913,7 +4915,7 @@ Identify the 3-4 metrics that will give key insight to the effectiveness of your
 
 - Time to 1st Response: the median number of hours that elapsed before a first response is issued to the customer.
 - Time to Full Resolution: The median number of hours that elapsed before a ticket is fully resolved.
-- Customer Satisfaction: the average customer satisfaction rating following all support ticket resolutions.
+- Customer Satisfaction: the average customer satisfaction rating following all support ticket resolutions. See the CSAT Scores play for how to collect and act on it.
 
 1. Use the PDCA methodology described in Play: Quality Management Systems and the template provided to create a process for tracking and internally sharing these metrics. Considerations:
     - How often should the metrics be updated?
@@ -5042,6 +5044,51 @@ To prevent this unproductive expense to your company and to improve the efficien
 - *Proof of process:* What is the metric that will indicate the process is complete? Will it be some form of the adoption metric identified as a proof of process in the onboarding process?
 
 1. A note on super-users: Two of the companies founded by Golden Section team members contractually required a super-user at each client company. The super-user would be trained during the onboarding process and then as new features or updates were released, the super-user would then train others within their own company. If possible, Golden Section believes this is an ideal model. The presence of a super-user is well-correlated with product adoption within the customer's company; the super-user typically takes on the advocate role within that company which leads to fuller adoption and lower churn. Moreover, transferring training responsibilities to the super-user reduces the training burden on your own company.
+
+### How to Collect and Act on CSAT Scores After Implementation and Support
+
+**Play:** CSAT Scores · **Owners:** CS Lead, Implementation Lead · **Cadence:** Monthly · **Stage:** Early Traction · **Effort:** 5 SP initial, 3 SP ongoing
+
+**Summary:** Ask customers how satisfied they are at two moments, when an implementation finishes and when a support ticket closes, on a four-point scale with no neutral middle, ask the question without planting a complaint, route every low score to an owner within two business days, and review the trend monthly.
+
+**Prevents mistakes:** #84 Apologize for poor performance, but don't own what you don't own; #143 Inviting customer discontent
+
+**Templates:** Implementation & Support CSat Scores Template
+
+Net Promoter Score tells you how customers feel about your company. It arrives twice a year and says nothing about the project that went badly in March or the ticket that sat for a week. A customer satisfaction score is the other half. You ask right after something happens, while the customer still remembers it, and you get an answer about that thing.
+
+There are two moments worth asking about in a B2B software company: the end of an implementation, and the close of a support ticket. Both are places where a customer decides, quietly, whether you are the kind of company that keeps its promises. Most founders learn the answer from a cancellation notice. A short survey at each moment tells you months earlier, and it tells you which team and which project it was.
+
+> **The goal:** A short survey at the end of every implementation and every support ticket, a score you track by month, and a rule that every low score reaches a named person quickly.
+
+#### Background
+
+CSAT sits between two plays you may already run. Support Metrics tracks how fast you respond and resolve, and lists customer satisfaction as one of its three measures, without saying how to collect it. Net Promoter Score (NPS) is a one-question, relationship-level survey sent to the whole customer base no more than twice a year. CSAT is transactional: it is tied to a project or a ticket, sent straight after it, and read by the team that did the work.
+
+The template's survey uses a four-point scale: 4 very satisfied, 3 somewhat satisfied, 2 not very satisfied, 1 not at all satisfied. There is no neutral middle, so a respondent has to lean one way. Report two numbers: the average score, and the share of responses that were a 3 or 4.
+
+#### Steps
+
+1. Name an owner for each survey. The Implementation Lead owns the post-implementation survey, and the CS Lead owns the support survey. One person for each, with a backup, who can answer "who reads this?" without looking it up.
+2. Write the post-implementation survey. Start from the template's twelve questions and trim to what you can act on. They cover how satisfied the customer is with the implementation, with your implementation team and with your company's service overall, how useful the new system is to their work, how clear their role was, how involved they felt in decisions, how effective the project and technical meetings were, whether people across their company took part, whether they felt appreciated, how committed the whole team seemed, and whether the system will make their job better. Add one open comment box at the end.
+3. Write the support survey. One question: how satisfied are you with the support you received? Same four-point scale, plus an optional comment box. Keep it to that.
+4. Word every question neutrally. Ask how satisfied people are, not what went wrong. If you ask a customer what frustrated them, they will find something, whether or not it was on their mind. Put the comment box last and call it "anything else we should know?" The goal is to measure how customers feel, not to hand them a reason to be unhappy.
+5. Send each survey at the right moment, automatically.
+    - Implementation: within a week of going live, to every person on the customer side who took part in the project, and not only the person who signed the contract. Several of the questions are about roles and meetings that the buyer never sees.
+    - Support: when a ticket is closed, from your ticket system. See the Support Ticket System play.
+6. Set the response rule before the first response comes in. Any score of 1 or 2 goes to the owner and to the CS Lead the same day. The owner contacts the customer within two business days, as a default to adjust, and records what happened. Decide whether the cause is yours, the customer's or a third party's. Apologize and fix what is yours. Be kind and clear about the rest, and do not take on blame for what you do not own.
+7. Record every response in one log: the customer, the project or ticket, the date, the score, the owner, and the action taken. Store the log, the survey text and the process description in one place, so a new hire or a buyer's diligence team can see the process and the history. The template's CSAT tab is built to hold the process; its Implementation Hours tab belongs to the Implementation Hours Tracking play.
+8. Review monthly. The CS Lead brings these to the customer success or leadership meeting, for each survey: the average score, the share satisfied, the response rate, the number of low scores, and what changed because of them. Look at the trend over several months, not one month's score. A falling response rate is a finding too.
+
+#### Troubleshooting
+
+*Nobody answers the survey.* Send it from a person the customer worked with, make it answerable in under a minute, and keep it to the length above. Check that it reaches the people who used the system and not only the buyer.
+
+*Every score is a 4.* Read the comments before you celebrate. Check that the survey is going to everyone and not only to your happiest contacts, and that the wording is not nudging people toward the top answer.
+
+*A customer is angry about something we do not control.* Say so plainly and kindly, and help where you can. Take ownership of what is yours. Taking the blame for the rest teaches customers that you will pay for everyone's mistakes.
+
+*We already send NPS.* Keep it. NPS shows you the relationship, and CSAT shows you the moments that build or break it. They answer different questions.
 
 ## Development
 
@@ -5895,7 +5942,7 @@ Two structural facts shape the response.
 
 Most companies at this stage should be fully at rung 1, partially at rung 2, and nowhere near rungs 3 and 4.
 
-#### Steps:
+#### Steps
 
 1. **Write down the failure modes and rank them.** For each of the three risks above, state what actually happens to your product, which customers notice first, and what your contracts oblige you to do about it.
 2. **Define degraded mode explicitly.** Which features must keep working, which may fail, and what does the customer see? Check this against your SLA and your master service agreements before you need it.
@@ -5904,7 +5951,7 @@ Most companies at this stage should be fully at rung 1, partially at rung 2, and
     - Do you have an evaluation suite that scores output quality, so you can tell whether the second provider is good enough?
     - **Is a share of production traffic continuously served by the second provider?** If the answer is "we could switch," the answer is no.
     - What is your gross margin at the second-best model? If it is materially worse, that is a pricing decision, not just an engineering one.
-4. **Size the insurance against revenue at risk, not against fear.** Work out the share of ARR that depends on the AI feature. Buy committed capacity in proportion to that number. Note that committed capacity is usually priced to break even only at very high sustained utilization—**budget it as an insurance premium, not as a discount**, and be sceptical of any account team that sells it as a saving.
+4. **Size the insurance against revenue at risk, not against fear.** Work out the share of ARR that depends on the AI feature. Buy committed capacity in proportion to that number. Note that committed capacity is usually priced to break even only at very high sustained utilization—**budget it as an insurance premium, not as a discount**, and be skeptical of any account team that sells it as a saving.
 5. **Diligence the vendors underneath your vendor.** For any hosting or infrastructure provider, ask for—and read:
     - The utility service or interconnection agreement **in the provider's own name**. A reseller cannot produce one, because the power contract belongs to whoever actually owns the facility. This is the single most diagnostic document.
     - The SOC 2 Type II **with the entity name on the cover checked**, and the carve-out section read. Controls carved out to a subservice organization are where reselling becomes visible.

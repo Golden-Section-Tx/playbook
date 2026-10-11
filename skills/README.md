@@ -31,8 +31,8 @@ right now, and what to do about it on Monday.**
 | File | What it is |
 |---|---|
 | [`play-forge/references/play-template.md`](play-forge/references/play-template.md) | The scaffold. Correct frontmatter key order, correct body markers. |
-| [`play-forge/references/play-anatomy.md`](play-forge/references/play-anatomy.md) | Every field rule and body convention, with how many of the 72 plays use each. |
-| [`play-forge/scripts/check_play.py`](play-forge/scripts/check_play.py) | `python3 check_play.py DRAFT.md --corpus .` — validates a draft. No dependencies. Passes all 72 existing plays. |
+| [`play-forge/references/play-anatomy.md`](play-forge/references/play-anatomy.md) | Every field rule and body convention, with how common each is across the plays, as measured on 2026-08-26. |
+| [`play-forge/scripts/check_play.py`](play-forge/scripts/check_play.py) | `python3 check_play.py DRAFT.md --corpus .` — validates a draft. No dependencies. Passes every play written to the template; the eleven oldest plays predate it and report structural errors that are not a model to copy. |
 
 ## Shared
 
@@ -93,5 +93,5 @@ Same terms as the rest of the repository — see
 to merge, and these have been used against a real portfolio but not against
 yours. If a step is wrong for how your company works, that is worth an issue.
 
-Content is [CC BY-SA 4.0](../LICENSE); the scripts are [MIT](../LICENSE-CODE).
+The skill files are [CC BY-SA 4.0](../LICENSE); the Python helper inside them is [MIT](../LICENSE-CODE).
 The Golden Section name and marks are not licensed; see [NOTICE](../NOTICE).

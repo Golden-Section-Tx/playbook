@@ -37,7 +37,7 @@ preventsMistakes:
 ---
 Boards are widely misunderstood by SaaS founders. Most of the time, boards are comprised of friendly people who are a mix of too unqualified to add strategic value, or are too close to the founder or company to be bold in delivering needed criticism. A board isn't a group to which management needs to 'sell' the vision of the company. Nor is it a venue for delivering a bland report of information better conveyed through written reports than in a meeting. Boards are for dialogue and concise debate. If your board meetings are bland and boring, then you are doing it wrong.
 
-The role of a board is to represent the stakeholders of the business and assist management in maintaining equilibrium (see the Strategic Planning Play). Each member should be qualified and have a specific role. In the broader sense, a board member's legal role is settled, but the strategic role -- how they are adding value - can differ from person to person. Electing a board is important to get right.
+The role of a board is to represent the stakeholders of the business and assist management in maintaining equilibrium (see the Executive Execution play). Each member should be qualified and have a specific role. In the broader sense, a board member's legal role is settled, but the strategic role -- how they are adding value - can differ from person to person. Electing a board is important to get right.
 
 When operating correctly, a board gives management the following benefits:
 

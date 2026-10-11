@@ -7,7 +7,7 @@ cross-checks a corpus directory when one is given: uniqueness of order/slug/
 anchor, that every preventsMistakes number exists, and that every referenced
 template file is on disk.
 
-No third-party dependencies. Python 3.8+.
+No third-party dependencies. Python 3.8+. MIT License (see LICENSE-CODE).
 
     python3 check_play.py DRAFT.md
     python3 check_play.py DRAFT.md --corpus /path/to/playbook
@@ -42,7 +42,7 @@ PLAYERS = ["Founder", "Exec Team", "Board", "CFO", "COO", "CTO", "Legal",
 EFFORT = ["1 SP", "2 SP", "3 SP", "5 SP", "8 SP", "13 SP", "21 SP", "34 SP",
           "—", "-", "--"]
 FREQUENCY = ["Continuous", "Weekly", "Monthly", "Quarterly", "Bi-Annually",
-             "Annual", "As Needed", "Per Customer", "Per Project"]
+             "Annual", "As Needed", "Per Customer", "Per Hire", "Per Project"]
 STAGE = ["Pre-Revenue", "Early Traction", "Growth", "All Stages"]
 
 SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")

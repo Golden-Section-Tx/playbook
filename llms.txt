@@ -1,6 +1,6 @@
 # The Golden Section Playbook
 
-> 86 plays and 170 mistakes for building a B2B vertical SaaS
+> 87 plays and 170 mistakes for building a B2B vertical SaaS
 > company, from a firm that has watched over 400 of them. Every mistake is
 > paired with the play that prevents it.
 
@@ -15,7 +15,7 @@ licensed. Alternative terms on request: open an issue.
 ## Primary documents
 
 - [MISTAKES.md](MISTAKES.md): all 170 mistakes, numbered, with permanent #mNNN anchors and the plays that prevent each.
-- [plays/README.md](plays/README.md): index of all 86 plays with owners, cadence, and effort.
+- [plays/README.md](plays/README.md): index of all 87 plays with owners, cadence, and effort.
 - [EFFORT.md](EFFORT.md): what the story-point estimates on each play mean, and what they do not.
 - [templates/](templates/): 60 working Excel models, mapped to plays.
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to propose a change.
@@ -103,6 +103,7 @@ licensed. Alternative terms on request: open an issue.
 - [SLA Hosting & Support](plays/operations/saas-sla-hosting-support.md): Define clear Service Level Agreements that commit to uptime, support response times, and support hours—setting customer expectations and establishing operational targets.
 - [Churn Identification Process](plays/operations/identify-saas-churn-early.md): Build a systematic process to identify at-risk customers before they churn—analyzing usage patterns, engagement signals, and health scores to trigger retention interventions.
 - [Training Process](plays/operations/saas-customer-training.md): Develop a customer training program that enables customers to maximize value from your product, reducing support burden and improving retention.
+- [CSAT Scores](plays/operations/saas-customer-satisfaction-score.md): Ask customers how satisfied they are at two moments, when an implementation finishes and when a support ticket closes, on a four-point scale with no neutral middle, ask the question without planting a complaint, route every low score to an owner within two business days, and review the trend monthly.
 
 ### Development
 

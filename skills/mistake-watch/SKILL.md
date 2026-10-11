@@ -17,7 +17,7 @@ Monthly is the natural cadence. The value is not in any single run — it is in 
    curl -sS -O https://raw.githubusercontent.com/golden-section-tx/playbook/main/MISTAKES.md
    ```
 
-   Grep it. Never work from a remembered list — the numbers are permanent anchors (`#m001`…`#m161`) and getting one wrong makes the log unreadable later.
+   Grep it. Never work from a remembered list — the numbers are permanent anchors (`#m001` onward) and getting one wrong makes the log unreadable later.
 
 2. **Your record of the period.** Whatever exists: meeting notes, transcripts, standups, the board deck, a Slack export, an email thread, or your own memory in conversation. The last one counts — a founder talking through their month is a legitimate source, as long as what comes back out carries dates and specifics.
 

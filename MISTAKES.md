@@ -4,7 +4,7 @@ Every mistake we have watched B2B software founders make, across more than 400
 companies — and the play that prevents each one.
 
 This file is the canonical list. Each entry carries a stable anchor
-(`#m001` … `#m161`) so it can be cited from anywhere and the citation keeps
+(`#m001` onward) so it can be cited from anywhere and the citation keeps
 working when wording changes. The **Prevented by** lines are generated from the
 plays themselves — see [CONTRIBUTING.md](CONTRIBUTING.md) before editing them by
 hand.
@@ -13,8 +13,8 @@ The plays live in [`plays/`](plays/README.md). Downloadable working templates
 live in [`templates/`](templates/).
 
 <!-- GS:COUNTS start -->
-**170 mistakes · 86 plays · 60 templates.**  
-Plays by category: Executive 23 · Sales & Marketing 27 · Customer 11 · Operations 8 · Development 13 · Vendor 4.  
+**170 mistakes · 87 plays · 60 templates.**  
+Plays by category: Executive 23 · Sales & Marketing 27 · Customer 11 · Operations 9 · Development 13 · Vendor 4.  
 166 of 170 mistakes have at least one play mapped.
 <!-- GS:COUNTS end -->
 
@@ -418,7 +418,7 @@ The roadmap is not a customer facing document. It is subject to change and negot
 
 Implementations are vital to customers experiencing the promised value. They need to be meticulously architected.
 
-**Prevented by** · [Implementation Project Lifecycle](plays/operations/saas-implementation-lifecycle.md)
+**Prevented by** · [Implementation Project Lifecycle](plays/operations/saas-implementation-lifecycle.md) · [Implementation Hours Tracking](plays/operations/saas-csat-scores.md)
 
 ### <a id="m051"></a>51 · Hourly not to exceed $x contracts
 
@@ -690,7 +690,7 @@ Vocal customers can be a good thing. But when the relationship gets strained, fo
 
 Own what you can, but put boundaries on frustrated customers and don't own what you aren't responsible for.
 
-**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [Implementation Hours Tracking](plays/operations/saas-csat-scores.md)
+**Prevented by** · [Account Management Process](plays/customer/b2b-saas-account-management.md) · [CSAT Scores](plays/operations/saas-customer-satisfaction-score.md)
 
 ### <a id="m085"></a>85 · Ignoring rev-rec
 
@@ -984,7 +984,7 @@ Engineers must QA their own submission. Failure to do so threatens the stability
 
 Some customers need to extract a pound of flesh to feel good about a transaction. Its best to have options in your contract that allow you to give that accommodation while still preserving your business. Set a couple out of market elements in the contract.
 
-**Prevented by** · [Contract Playbook](plays/customer/saas-contract-playbook.md)
+**Prevented by** · [Contract Playbook](plays/customer/saas-contract-playbook.md) · [Implementation Hours Tracking](plays/operations/saas-csat-scores.md)
 
 ### <a id="m122"></a>122 · Not firing a customer
 
@@ -1160,7 +1160,7 @@ You need to always have a handle on your cash position (i.e., burn and runway). 
 
 If you ask someone for what they’re pissed about, you’ll get an answer… if a trash collection company asks people if they smell something, they will smell it whether they actually can or not. Don’t put discontentment in your customers’ mind.
 
-**Prevented by** · [Net Promoter Score (NPS)](plays/customer/saas-net-promoter-score.md) · [Implementation Hours Tracking](plays/operations/saas-csat-scores.md)
+**Prevented by** · [Net Promoter Score (NPS)](plays/customer/saas-net-promoter-score.md) · [CSAT Scores](plays/operations/saas-customer-satisfaction-score.md)
 
 ### <a id="m144"></a>144 · Waiting for the perfect product before selling
 

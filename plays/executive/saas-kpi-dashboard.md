@@ -48,11 +48,11 @@ KPIs also give management decision leverage. Without a KPI, management may have 
 
 #### Steps
 
-*Prerequisites:* 1.1 Strategic Planning and 1 Executive Execution at a minimum.
+*Prerequisites:* Executive Execution (including its Strategic Planning template) at a minimum.
 
 1. **Prepare**: Review your one page strategic plan and the crucial numbers (as outlined in *Scaling Up* by Verne Harnish). Think through how each leader in your organization can support the crucial numbers and whether evidence of the efficacy and quantity of that support can be quantified. Share the prompting, the one page strategic plan, and the crucial numbers with each leader. Ask them to prepare a few metrics they believe are KPIs for their reporting area. They should also prepare a presentation justifying why that KPI measure supports the crucial number.
 2. Meeting 1: The Numbers
-    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per Strategic planning playbook).
+    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per the Executive Execution play and its Strategic Planning template).
     - Next, each leader should report on their KPIs. The team's focus in the room should be around whether that number is meaningful (see above) and aligned to support the crucial number.
     - Settle on the KPIs (no more than 2 per person) and incorporate them into a document. Each KPI needs to have a responsible party and someone accountable to calculate it.
     - Settle on acceptable ranges of the KPIs and the actions needed if/when the ranges are blown.

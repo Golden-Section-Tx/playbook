@@ -52,7 +52,7 @@ A comprehensive budget addresses each of the key strategic goals fully. This mea
 
 Businesses morph and change. For a budget to be comprehensive, it must take change into account and not just consider past performance.
 
-An easy way to account for change is to precede budgeting with strategic planning. A comprehensive strategic planning process utilizes leadership and key roles within the company to design the most meaningful activities to focus on in the coming phase. The length of the phase is a year for most businesses. Next, a budget impact analysis should be created for each new strategic initiative. The analysis should then be incorporated into the budget and based on past performance.
+An easy way to account for change is to precede budgeting with strategic planning (see the Executive Execution play). A comprehensive strategic planning process utilizes leadership and key roles within the company to design the most meaningful activities to focus on in the coming phase. The length of the phase is a year for most businesses. Next, a budget impact analysis should be created for each new strategic initiative. The analysis should then be incorporated into the budget and based on past performance.
 
 #### Aligned
 
@@ -70,14 +70,14 @@ An aligned budget requires a few key items:
 
 #### Steps
 
-*Prerequisites:* Strategic planning playbook*.*
+*Prerequisites:* the Executive Execution play, whose Strategic Planning template sets the initiatives you budget for.
 
 1. **Prepare**: Create a budget planning packet that includes at minimum the following data:
     - Historical financials by business unit / department (by budgetary reporting area) on a monthly basis
-    - Strategic initiatives (per Strategic planning playbook), and
+    - Strategic initiatives (per the Executive Execution play and its Strategic Planning template), and
     - Known cost increase information (i.e. key payroll, key vendors, contract step ups, rent escalations, etc.)
 2. Meeting 1: Vision and Delegation
-    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per Strategic planning playbook) and set a budget leader for the company (usually the CFO or controller). Each strategic initiative must be assigned to a department or to a person if not department related.
+    - Share the goal of this play and the preamble in addition to walking through the company's Strategic initiatives (per the Executive Execution play and its Strategic Planning template) and set a budget leader for the company (usually the CFO or controller). Each strategic initiative must be assigned to a department or to a person if not department related.
     - Set vision and objectives for the budgeting process (ensure each budgetary reporting area leader has a clear understanding of the goal and her responsibility to design a budget that she will lead towards). Also set standards for how the budget should be reported (i.e. explain the exact format and how the budget reporting area leader should ensure it is realistic, comprehensive and aligned). Ensure these standards include examples of what sufficient backup evidence to the budget looks like.
     - Set a deadline for reporting the budget to the budget leader and a date and time for the next meeting (reporting to meeting gap should be at least 2-3 days). The budget leader is responsible for consolidating the reports into one larger document including evidence. For larger teams, the budget leader might also meet with each reporting area leader to critically assess the budget at least once before incorporating.
 3. Meeting 2: Budget Review and Defense

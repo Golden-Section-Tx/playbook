@@ -4,7 +4,7 @@ Pull requests are welcome from anyone. Merge authority sits with Golden
 Section's general partners — see [GOVERNANCE.md](GOVERNANCE.md).
 
 Before your first pull request is merged you will be asked to sign the
-[Contributor License Agreement](CLA.md). A bot handles this; it takes a click.
+[Contributor License Agreement](CLA.md). A maintainer will point you to it when you open your first pull request.
 Read the CLA first — it grants Golden Section broad rights, including the right
 to use your contribution in our own commercial products.
 
@@ -12,7 +12,7 @@ to use your contribution in our own commercial products.
 
 **A mistake worth adding** is one you have watched happen, more than once or
 once vividly, in a B2B software company. Not a category of risk — a specific
-behaviour with a specific consequence. Compare the tone of the existing 170:
+behavior with a specific consequence. Compare the tone of the existing 170:
 they are short, blunt, and earned.
 
 **A play worth adding** tells someone what to do on Monday morning. Steps,
@@ -33,7 +33,7 @@ is not about B2B vertical software.
 ### Repository shape
 
 ```
-MISTAKES.md            all 169, numbered, with stable #mNNN anchors
+MISTAKES.md            all 170, numbered, with stable #mNNN anchors
 plays/<category>/      one Markdown file per play, six categories
 templates/             the Excel templates, binder-numbered
 stories/               longer write-ups attached to individual mistakes
@@ -95,7 +95,7 @@ inside list items.
 Mistakes live in `MISTAKES.md` in ascending numeric order. Each entry is:
 
 ```markdown
-### <a id="m162"></a>162 · The mistake, stated as a behaviour
+### <a id="m171"></a>171 · The mistake, stated as a behavior
 
 `Executive · Sales & Marketing`
 
@@ -132,7 +132,7 @@ git add -A
 ```
 
 The build must exit clean. Commit whatever it regenerates — CI runs
-`npm run build --check` and fails if the committed output is stale.
+`npm run check` and fails if the committed output is stale.
 
 Then fill in the pull request template honestly, especially the provenance line.
 Pull requests here are public the moment they open, and they cannot be

@@ -7,7 +7,8 @@ Copyright (c) Golden Section. All rights reserved except as licensed below.
 CONTENT
 -------
 The plays (plays/), the mistakes list (MISTAKES.md), the stories (stories/),
-the templates (templates/), and the generated corpus (dist/) are licensed under
+the templates (templates/), the generated corpus (dist/), and the agent skills
+(the Markdown instruction files under skills/) are licensed under
 the Creative Commons Attribution-ShareAlike 4.0 International Public License
 (CC BY-SA 4.0). The full license text is in the file LICENSE.
 
@@ -24,9 +25,11 @@ alternative terms.
 
 CODE
 ----
-The build scripts (scripts/), the JSON schemas (schema/), and the continuous
-integration configuration (.github/) are licensed under the MIT License. The
-full license text is in the file LICENSE-CODE.
+The build scripts (scripts/), the JSON schemas (schema/), the continuous
+integration configuration (.github/), and the code inside the skills (the Python
+files under skills/, such as skills/play-forge/scripts/check_play.py) are
+licensed under the MIT License. The full license text is in the file
+LICENSE-CODE.
 
 
 TRADEMARKS — NOT LICENSED

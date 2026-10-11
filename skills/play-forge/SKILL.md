@@ -16,7 +16,7 @@ Do not write a play from a description of the format, including this one. The fo
 | File | What it is |
 |---|---|
 | [`references/play-template.md`](references/play-template.md) | The scaffold. Copy it and fill it in. Correct key order, correct markers. |
-| [`references/play-anatomy.md`](references/play-anatomy.md) | Every field rule and every body convention, with how many of the 72 plays use each. The authority on everything the JSON schema cannot express. |
+| [`references/play-anatomy.md`](references/play-anatomy.md) | Every field rule and every body convention, with how common each is across the plays, as measured on 2026-08-26. The authority on everything the JSON schema cannot express. |
 | [`scripts/check_play.py`](scripts/check_play.py) | The validator. Run it before you commit. No dependencies. |
 
 Then read the nearest three existing plays in the category you are writing for. The template gets the structure right; only the real plays get the voice right.
@@ -73,7 +73,7 @@ curl -sS -O https://raw.githubusercontent.com/golden-section-tx/playbook/main/MI
 
    It checks required fields, key order, the closed vocabularies, slug-equals-filename, category-equals-folder, uniqueness of `order`/`slug`/`anchor` against the corpus, that every `preventsMistakes` number exists in `MISTAKES.md`, that every referenced template is on disk, the body conventions above, and a short list of filler phrases. Errors fail; warnings are conventions the corpus itself breaks occasionally and are worth a second look rather than obedience.
 
-   It passes all 72 existing plays, so a failure on yours means yours is the outlier.
+   It passes every play written to the template. Eleven of the oldest plays predate it and report structural errors (a missing Steps section or goal callout, or an off-vocabulary value). A failure on your draft that they share is not a reason to copy them.
 
 ## Steps — authoring a mistake
 
@@ -105,7 +105,7 @@ git add -A && git commit
 
 Commit whatever the build regenerates; CI runs `npm run build --check` and fails on stale output. Then run the anonymization check below, because a pull request here is public the moment it opens and cannot be unpublished. Fill in the pull request template honestly, especially the provenance line.
 
-First-time contributors sign the CLA — a bot handles it, and it takes a click. Read `CLA.md` first; it grants Golden Section broad rights, including use in commercial products.
+First-time contributors sign the CLA — a maintainer will ask on the first pull request. Read `CLA.md` first; it grants Golden Section broad rights, including use in commercial products.
 
 ## Guardrails
 
@@ -114,4 +114,4 @@ First-time contributors sign the CLA — a bot handles it, and it takes a click.
 - **The graph has one source of truth** — `preventsMistakes:` in the play's frontmatter. To link a play to a mistake, add the number there and rebuild. Never hand-write a link in the other direction.
 - **A template is not the play.** The spreadsheet is the artifact; the play is the process that produces something true to put in it. Do not ship a play whose whole content is "fill in the template".
 - **Re-measure rather than trust this file.** The counts in `references/play-anatomy.md` describe the corpus as it was when this skill shipped. After a release that adds plays, re-run the measurement before treating a convention as settled.
-- Content here is CC BY-SA 4.0 and the scripts are MIT; the Golden Section name, logo, and marks are not licensed. Anything drafted with this skill inherits those terms.
+- The skill files and everything you draft are CC BY-SA 4.0, and the Python helper is MIT; the Golden Section name, logo, and marks are not licensed. Anything drafted with this skill inherits those terms.

@@ -11,6 +11,14 @@ recorded as removed rather than renumbered.
 
 ### Added
 
+- **Play 87, CSAT Scores** (`plays/operations/saas-customer-satisfaction-score.md`)
+  — Operations, monthly, CS Lead and Implementation Lead. A short survey when an
+  implementation finishes and when a support ticket closes, on a four-point scale
+  with no neutral middle, worded so it does not plant a complaint, with a same-day
+  route for every low score and a monthly review. It restores the CSAT content that
+  the template `4.21` and the mistakes #84 and #143 were always about; the play that
+  carries the slug `saas-csat-scores` is, and always was, about implementation
+  hours. Support Metrics now points to it.
 - **Play 74, AI Vendor Continuity** (`plays/vendor/saas-ai-vendor-continuity.md`)
   — Vendor, quarterly, CTO/Founder/CFO. Ranks the ways a company loses access to
   the models its product depends on, in the order they actually happen: commercial
@@ -67,6 +75,31 @@ recorded as removed rather than renumbered.
 
 ### Changed
 
+- **Implementation Hours Tracking** (slug `saas-csat-scores`, kept because slugs are
+  permanent) now carries its template, the Implementation Hours tab of
+  `4.21-implementation-support-csat-scores-template.xlsx`, and maps to #50 and #121
+  instead of #84 and #143, which moved to CSAT Scores.
+- **CLA wording** no longer promises a bot. The repository defines none; a maintainer
+  asks contributors to sign on their first pull request.
+- **Licensing now covers `skills/`.** The skills' Markdown instruction files are CC BY-SA 4.0 like the rest of the content, and the Python helper inside them (`check_play.py`) is MIT like the other scripts. `NOTICE`, `LICENSE-CODE`, the README and the skills docs say so; before this, `skills/` was covered by neither.
+- **Quality pass across the corpus.** Counts and ranges brought current (README and
+  CONTRIBUTING said 169; `MISTAKES.md` and `mistake-watch` still said anchors end at
+  `#m161`; the contributor example used a mistake number already taken, now `m171`).
+  `CONTRIBUTING.md` now says `npm run check`, since npm does not pass `--check`
+  through `npm run build`. README lists all nine skills, says the playbook is free,
+  gives the signatory's role, and its fork guidance now explains how to keep a
+  private copy (GitHub will not make a fork of a public repository private) and how
+  to pull updates cleanly. `playbook-triage` stage counts, its mistake-floor line and
+  its description corrected. Three skill docs no longer claim the validator passes
+  every play, because the eleven oldest plays predate the template; "Per Hire" added
+  to the frequency vocabulary for Hiring A Players (Topgrading).
+- **Strategic Planning prerequisites.** Plays that named a "Strategic Planning" play
+  as a prerequisite (Budget Creation, KPI Dashboard Creation, KPI & Strategic
+  Meetings, Board of Directors) now point to Executive Execution, which carries the
+  Strategic Planning template. Three cross-references corrected to match play titles.
+- **Spelling** made American throughout (license, behavior, judgment, recognize,
+  skeptical, organization, anonymization). `AI Vendor Continuity` now uses the
+  corpus's `#### Steps` heading.
 - **Stale counts corrected.** Hand-authored counts moved to 86 plays, 170 mistakes and 60
   templates in `README.md`, `package.json`, `templates/README.md` and the three
   skills that quote them (`play-hunt`, `context-interview`, `field-report`).

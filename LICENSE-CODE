@@ -2,10 +2,11 @@ MIT License
 
 Copyright (c) 2026 Golden Section
 
-Applies to the build scripts (scripts/), the JSON schemas (schema/), and the
-continuous integration configuration (.github/). The content of this repository
-— the plays, the mistakes list, the stories, and the templates — is licensed
-separately under CC BY-SA 4.0; see the LICENSE file.
+Applies to the build scripts (scripts/), the JSON schemas (schema/), the
+continuous integration configuration (.github/), and the code inside the skills
+(the Python files under skills/). The content of this repository — the plays,
+the mistakes list, the stories, the templates, and the Markdown instructions in
+skills/ — is licensed separately under CC BY-SA 4.0; see the LICENSE file.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

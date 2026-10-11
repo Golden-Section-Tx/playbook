@@ -14,7 +14,7 @@ labels: licensing
 
 **Who you are**
 
-<!-- You or your organisation, and what you do. -->
+<!-- You or your organization, and what you do. -->
 
 **What you want to build with it**
 
